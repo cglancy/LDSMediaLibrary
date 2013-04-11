@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+    <category name="Come, Follow Me" thumbnail="http://glancyfamily.net/ldsml/cfm-introduction.jpg">
+      <category name ="Aaronic Priesthood" thumbnail="http://glancyfamily.net/ldsml/cfm-aaronic-priesthood.jpg">
+        <category name="April" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-april.jpg">
+          <videoref ref ="2010-12-09"/>
+          <videoref ref ="2010-05-1130"/>
+          <videoref ref ="2008-06-01"/>
+          <videoref ref ="2011-05-010"/>
+        </category>
+        <category name="May" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-may.jpg">
+          <videoref ref ="2012-04-004"/>
+          <videoref ref ="2011-11-012"/>
+          <videoref ref ="2010-07-23"/>
+          <videoref ref ="2012-01-012"/>
+          <videoref ref ="2012-10-005"/>
+          <videoref ref ="2011-05-008"/>
+          <videoref ref ="2010-12-0130"/>
+          <videoref ref ="2012-05-005"/>
+        </category>
+        <category name="June" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-june.jpg">
+          <videoref ref ="2011-09-005"/>
+          <videoref ref ="2012-01-001"/>
+          <videoref ref ="2011-04-1070"/>
+          <videoref ref ="2012-04-004"/>
+          <videoref ref ="2012-01-002"/>
+          <videoref ref ="2010-12-0130"/>
+        </category>
+      </category>
+      <category name="Sunday School" thumbnail="http://glancyfamily.net/ldsml/cfm-sunday-school.jpg">
+        <category name="April" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-april.jpg">
+          <videoref ref ="2012-10-004"/>
+        </category>
+        <category name="May" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-may.jpg">
+          <videoref ref ="2010-07-09"/>
+        </category>
+        <category name="June" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-june.jpg">
+          <videoref ref ="2011-07-073"/>
+          <videoref ref ="2011-07-078"/>
+          <videoref ref ="2010-11-040"/>
+          <videoref ref ="2011-09-005"/>
+          <videoref ref ="2012-03-1160"/>
+        </category>
+      </category>
+      <category name="Young Women" thumbnail="http://glancyfamily.net/ldsml/cfm-young-women.jpg">
+        <category name="April" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-april.jpg">
+          <videoref ref ="2011-10-1098"/>
+          <videoref ref ="2010-05-1130"/>
+          <videoref ref ="2008-06-01"/>
+        </category>
+        <category name="May" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-may.jpg">
+          <videoref ref ="2012-04-15"/>
+          <videoref ref ="2012-01-012"/>
+          <videoref ref ="2012-10-005"/>
+          <videoref ref ="2011-05-008"/>
+          <videoref ref ="2011-11-012"/>
+        </category>
+        <category name="June" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-june.jpg">
+        </category>
+      </category>
+    </category>
+  </categories>
+  <videos>
+    <video id ="2010-12-09" name="Inviting All to Come unto Christ" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-360p-eng.mp4"/>
+    <video id ="2010-05-1130" name="Restoration of the Priesthood" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-faith/2010-05-1130-restoration-of-the-priesthood-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-faith/2010-05-1130-restoration-of-the-priesthood-360p-eng.mp4"/>
+    <video id ="2008-06-01" name="The Restoration" thumbnail="http://media.ldscdn.org/images/videos/feature-films/the-restoration/2008-06-01-the-restoration-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-360p-eng.mp4"/>
+    <video id ="2011-05-010" name="The Book of Mormon - An Apostle&apos;s Introduction" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-05-010-book-of-mormon-introduction-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-010-book-of-mormon-introduction-360p-eng.mp4"/>
+    <video id ="2012-10-004" name="What the Restoration Means for Me" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-004-the-apostasy-and-the-restoration-what-the-restoration-means-for-me-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-004-the-apostasy-and-the-restoration-what-the-restoration-means-for-me-360p-eng.mp4"/>
+    <video id ="2011-10-1098" name="Study the Book of Mormon" thumbnail="http://media.ldscdn.org/images/videos/youth/general-conference-youth-highlights-october-2011/2011-10-1098-study-the-book-of-mormon-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/general-conference-youth-highlights-october-2011/2011-10-1098-study-the-book-of-mormon-360p-eng.mp4"/>
+
+    <video id ="2010-07-09" name="A Man Without Eloquence" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-048-a-man-without-eloquence-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-048-a-man-without-eloquence-360p-eng.mp4"/>
+    <video id ="2012-04-004" name="Fulfilling Your Duty to God" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-eng.mp4"/>
+    <video id ="2011-11-012" name="The Book of Mormon: Messages from Heaven" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-11-012-book-of-mormon-messages-from-heaven-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-11-012-book-of-mormon-messages-from-heaven-360p-eng.mp4"/>
+    <video id ="2010-07-23" name="Watchmen on the Tower" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-110-watchman-on-the-tower-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-23-watchmen-on-the-tower-360p-eng.mp4"/>
+    <video id ="2012-01-012" name="Patterns of Light: Spirit of Revelation" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-012-patterns-of-light-spirit-of-revelation-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-012-patterns-of-light-spirit-of-revelation-360p-eng.mp4"/>
+    <video id ="2012-10-005" name="Hearing His Voice" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-005-prophets-and-revelation-hearing-his-voice-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-005-prophets-and-revelation-hearing-his-voice-360p-eng.mp4"/>
+    <video id ="2011-05-008" name="The First Step" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-05-008-the-first-step-voice-over-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-05-008-the-first-step-voice-over-360p-eng.mp4"/>
+    <video id ="2012-01-002" name="Your Day for a Mission" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-01-002-your-day-for-a-mission-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-01-002-your-day-for-a-mission-360p-eng.mp4"/>
+    <video id ="2010-12-0130" name="Missionary Work: A Priesthood Duty" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2010/2010-12-0130-a-priesthood-duty-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-12-0130-a-priesthood-duty-360p-eng.mp4"/>
+    <video id ="2012-05-005" name="Dare to Stand Alone" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-360p-eng.mp4"/>
+    <video id ="2012-04-15" name="We Need Living Prophets" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2012-04-15-we-need-living-prophets-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2012-04-15-we-need-living-prophets-360p-eng.mp4"/>
+
+    <video id ="2011-09-005" name="Sanctify Yourselves" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-09-005-sanctify-yourselves-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-09-005-sanctify-yourselves-360p-eng.mp4"/>
+    <video id ="2012-01-001" name="Power of God" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-001-power-of-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-001-power-of-god-360p-eng.mp4"/>
+    <video id ="2011-04-1070" name="Learn Your Duty" thumbnail="http://media.ldscdn.org/images/videos/youth/april-2011-general-conference-youth-highlights/2011-04-1070-learn-your-duty-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/april-2011-general-conference-youth-highlights/2011-04-1070-learn-your-duty-360p-eng.mp4"/>
+    <video id ="2011-07-078" name="The Errand of Angels" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/leadership-training-resource-library/2011-07-078-the-errand-of-angels-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/leadership-training/leadership-training-resource-library/2011-07-078-the-errand-of-angels-360p-eng.mp4"/>
+    <video id ="2012-03-1160" name="A Wartime Miracle" thumbnail="http://media.ldscdn.org/images/videos/youth/april-2012-general-conference-youth-highlights/2012-03-1160-a-wartime-miracle-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1160-a-wartime-miracle-360p-eng.mp4"/>
+    <video id ="2011-07-073" name="Participating in Councils" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/leadership-training-resource-library/2011-07-073-participating-in-councils-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/leadership-training/leadership-training-resource-library/2011-07-073-participating-in-councils-360p-eng.mp4"/>
+  </videos>
+</library>

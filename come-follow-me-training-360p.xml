@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+    <category name="Come, Follow Me" thumbnail="http://glancyfamily.net/ldsml/cfm-introduction.jpg">
+      <category name="Training" thumbnail="http://glancyfamily.net/ldsml/cfm-training.jpg">
+        <category name="Youth &amp; Parents" thumbnail="http://glancyfamily.net/ldsml/cfm-youth-and-parents.jpg">
+          <videoref ref ="2012-06-013"/>
+          <videoref ref ="2012-06-014"/>
+          <videoref ref ="2012-06-004"/>
+          <videoref ref ="2012-06-006"/>
+          <videoref ref ="2012-06-005"/>
+        </category>
+        <category name="Leaders" thumbnail="http://glancyfamily.net/ldsml/cfm-leaders.jpg">
+          <videoref ref ="2012-06-015"/>
+          <videoref ref ="2012-06-002"/>
+          <videoref ref ="2012-06-001"/>
+          <videoref ref ="2012-06-016"/>
+          <videoref ref ="2012-06-007"/>
+          <videoref ref ="2012-06-008"/>
+          <videoref ref ="2012-06-017"/>
+          <videoref ref ="2012-06-009"/>
+          <videoref ref ="2012-06-018"/>
+          <videoref ref ="2012-06-010"/>
+          <videoref ref ="2012-06-011"/>
+          <videoref ref ="2012-06-003"/>
+          <videoref ref ="2012-06-012"/>
+        </category>
+      </category>
+    </category>
+  </categories>
+  <videos>
+    <video id ="2012-06-015" name="Ask Us Questions" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-015-ask-us-questions-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-015-ask-us-questions-360p-eng.mp4"/>
+    <video id ="2012-06-002" name="Determine What to Teach" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-002-determine-what-to-teach-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-002-determine-what-to-teach-360p-eng.mp4"/>
+    <video id ="2012-06-001" name="Help Us Discover the Gospel" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-001-help-us-discover-the-gospel-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-001-help-us-discover-the-gospel-360p-eng.mp4"/>
+    <video id ="2012-06-016" name="Invite Us to Act" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-016-invite-us-to-act-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-016-invite-us-to-act-360p-eng.mp4"/>
+    <video id ="2012-06-007" name="Invite Us to Testify" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-007-invite-us-to-testify-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-007-invite-us-to-testify-360p-eng.mp4"/>
+    <video id ="2012-06-008" name="Know and Love Us" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-008-know-and-love-us-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-008-know-and-love-us-360p-eng.mp4"/>
+    <video id ="2012-06-017" name="Lead Us to Conversion" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-017-lead-us-to-conversion-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-017-lead-us-to-conversion-360p-eng.mp4"/>
+    <video id ="2012-06-009" name="Let Us Teach" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-009-let-us-teach-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-009-let-us-teach-360p-eng.mp4"/>
+    <video id ="2012-06-018" name="Prepare to Teach" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-018-prepare-to-teach-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-018-prepare-to-teach-360p-eng.mp4"/>
+    <video id ="2012-06-010" name="Share Stories and Examples" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-010-share-stories-and-examples-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-010-share-stories-and-examples-360p-eng.mp4"/>
+    <video id ="2012-06-011" name="Strengthen Our Families" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-011-strengthen-our-families-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-011-strengthen-our-families-360p-eng.mp4"/>
+    <video id ="2012-06-003" name="Teaching the Gospel in the Savior's Way" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-003-teaching-the-gospel-in-the-saviors-way-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-003-teaching-the-gospel-in-the-saviors-way-360p-eng.mp4"/>
+    <video id ="2012-06-012" name="Use the Scriptures" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-012-use-the-scriptures-192x108-thumb.jpg"
+         url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-012-use-the-scriptures-360p-eng.mp4"/>
+
+    <video id ="2012-06-013" name="We Act" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-013-we-act-192x108-thumb.jpg"
+       url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-013-we-act-360p-eng.mp4"/>
+    <video id ="2012-06-014" name="We Become" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-014-we-become-192x108-thumb.jpg"
+       url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-014-we-become-360p-eng.mp4"/>
+    <video id ="2012-06-004" name="We Learn" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-004-we-learn-192x108-thumb.jpg"
+       url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-004-we-learn-360p-eng.mp4"/>
+    <video id ="2012-06-006" name="We Share" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-006-we-share-192x108-thumb.jpg"
+       url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-006-we-share-360p-eng.mp4"/>
+    <video id ="2012-06-005" name="We Teach" thumbnail="http://media.ldscdn.org/images/videos/youth/youth-curriculum/2012-06-005-we-teach-192x108-thumb.jpg"
+       url="http://media2.ldscdn.org/assets/youth/youth-curriculum/2012-06-005-we-teach-360p-eng.mp4"/>
+  </videos>
+</library>

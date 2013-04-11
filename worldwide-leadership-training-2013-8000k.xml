@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+    <category name="Worldwide Leadership Training" thumbnail="http://glancyfamily.net/ldsml/wwlt.jpg">
+      <category name ="2013 - Strengthening the Family and the Church through the Priesthood" thumbnail="http://glancyfamily.net/ldsml/wwlt-2013.jpg">
+        <category name ="Introduction" thumbnail="http://glancyfamily.net/ldsml/wwlt-2013-intro.jpg">
+          <videoref ref ="2013-02-0010"/>
+          <videoref ref ="2013-02-0020"/>
+        </category>
+        <category name ="The Church and the Priesthood" thumbnail="http://glancyfamily.net/ldsml/wwlt-2013-church.jpg">
+          <videoref ref ="2013-02-0030"/>
+          <videoref ref ="2013-02-0040"/>
+        </category>
+        <category name ="The Family and the Priesthood" thumbnail="http://glancyfamily.net/ldsml/wwlt-2013-family.jpg">
+          <videoref ref ="2013-02-0050"/>
+          <videoref ref ="2013-02-0060"/>
+          <videoref ref ="2013-02-0070"/>
+        </category>
+        <category name ="Conclusion" thumbnail="http://glancyfamily.net/ldsml/wwlt-2013-conclusion.jpg">
+          <videoref ref ="2013-02-0080"/>
+          <videoref ref ="2013-02-0090"/>
+        </category>
+      </category>
+    </category>
+  </categories>
+  <videos>
+    <video id ="2013-02-0010" name="How to Use This Training" thumbnail="http://glancyfamily.net/ldsml/thumbnail-2013-02-0010.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0010-how-to-use-this-training-8000k-eng.mp4"/>
+    <video id ="2013-02-0020" name="Introduction: The Power of God" thumbnail="http://glancyfamily.net/ldsml/thumbnail-2013-02-0020.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0020-the-power-of-god-8000k-eng.mp4"/>
+    <video id ="2013-02-0030" name="Priesthood Keys" thumbnail="http://glancyfamily.net/ldsml/thumbnail-2013-02-0030.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0030-priesthood-keys-8000k-eng.mp4"/>
+    <video id ="2013-02-0040" name="Ministering" thumbnail="http://glancyfamily.net/ldsml/thumbnail-2013-02-0040.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0040-ministering-8000k-eng.mp4"/>
+    <video id ="2013-02-0050" name="The Power of the Priesthood in the Family" thumbnail="http://glancyfamily.net/ldsml/thumbnail-2013-02-0050.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0050-the-power-of-the-priesthood-in-the-family-8000k-eng.mp4"/>
+    <video id ="2013-02-0060" name="Blessings of the Priesthood in Every Home" thumbnail="http://glancyfamily.net/ldsml/thumbnail-2013-02-0060.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0060-blessings-of-the-priesthood-in-every-home-8000k-eng.mp4"/>
+    <video id ="2013-02-0070" name="Bringing Up Children in Light and Truth" thumbnail="http://glancyfamily.net/ldsml/thumbnail-2013-02-0070.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0070-bringing-up-children-in-light-and-truth-8000k-eng.mp4"/>
+    <video id ="2013-02-0080" name="Conclusion: This Is His Work" thumbnail="http://glancyfamily.net/ldsml/thumbnail-2013-02-0080.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0080-this-is-his-work-8000k-eng.mp4"/>
+    <video id ="2013-02-0090" name="First Presidency Message" thumbnail="http://glancyfamily.net/ldsml/thumbnail-2013-02-0090.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0090-first-presidency-message-8000k-eng.mp4"/>
+  </videos>
+</library>
