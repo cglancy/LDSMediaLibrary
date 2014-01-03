@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+    <category name="Mormon Messages" thumbnail="http://glancyfamily.net/ldsml/mormon-messages.jpg">
+        <videoref ref ="2013-03-007"/>
+		<videoref ref ="2013-03-006"/>
+		<videoref ref ="2013-03-004"/>
+        <videoref ref ="2013-01-003"/>
+        <videoref ref ="2013-01-002"/>
+        <videoref ref ="2012-01-015"/>
+        <videoref ref ="2012-01-014"/>
+        <videoref ref ="2012-01-013"/>
+        <videoref ref ="2012-01-012"/>
+        <videoref ref ="2012-01-010"/>
+        <videoref ref ="2012-01-011"/>
+        <videoref ref ="2012-01-009"/>
+        <videoref ref ="2012-01-008"/>
+        <videoref ref ="2012-01-007"/>
+        <videoref ref ="2012-01-006"/>
+        <videoref ref ="2012-01-005"/>
+        <videoref ref ="2012-01-004"/>
+        <videoref ref ="2012-01-003"/>
+        <videoref ref ="2012-01-002"/>
+        <videoref ref ="2012-01-001"/>
+        <videoref ref ="2011-12-019"/>
+        <videoref ref ="2011-11-020"/>
+        <videoref ref ="2011-11-018"/>
+        <videoref ref ="2011-10-017"/>
+        <videoref ref ="2011-09-016"/>
+        <videoref ref ="2011-08-014"/>
+        <videoref ref ="2011-08-015"/>
+        <videoref ref ="2011-07-013"/>
+        <videoref ref ="2011-06-012"/>
+        <videoref ref ="2011-05-011"/>
+        <videoref ref ="2011-05-010"/>
+        <videoref ref ="2011-05-009"/>
+        <videoref ref ="2011-04-008"/>
+        <videoref ref ="2009-01-50"/>
+        <!--videoref ref ="2009-01-60"/-->
+        <videoref ref ="2009-01-58"/>
+        <videoref ref ="2009-01-59"/>
+        <videoref ref ="2011-03-007"/>
+        <videoref ref ="2011-03-001"/>
+        <videoref ref ="2011-02-001"/>
+        <videoref ref ="2011-02-002"/>
+        <videoref ref ="2010-12-24"/>
+        <videoref ref ="2010-12-21"/>
+        <videoref ref ="2010-12-22"/>
+        <videoref ref ="2010-11-23"/>
+        <videoref ref ="2010-09-18"/>
+        <videoref ref ="2010-09-17"/>
+        <videoref ref ="2010-08-16"/>
+        <videoref ref ="2010-08-15"/>
+        <videoref ref ="2010-07-14"/>
+        <videoref ref ="2010-06-13"/>
+        <videoref ref ="2010-05-12"/>
+        <videoref ref ="2010-05-11"/>
+        <videoref ref ="2010-05-10"/>
+        <videoref ref ="2010-04-09"/>
+        <!--videoref ref ="2010-04-19"/-->
+        <videoref ref ="2010-03-08"/>
+        <!--videoref ref ="2010-03-07"/-->
+        <videoref ref ="2010-03-06"/>
+        <videoref ref ="2010-03-05"/>
+        <!--videoref ref ="2010-02-04"/-->
+        <videoref ref ="2010-01-03"/>
+        <videoref ref ="2010-01-01"/>
+        <videoref ref ="2009-12-42"/>
+        <videoref ref ="2009-12-41"/>
+        <videoref ref ="2009-11-40"/>
+        <videoref ref ="2009-11-39"/>
+        <videoref ref ="2009-10-38"/>
+        <videoref ref ="2009-09-37"/>
+        <videoref ref ="2009-09-36"/>
+        <videoref ref ="2009-09-35"/>
+        <videoref ref ="2009-08-33"/>
+        <videoref ref ="2009-08-32"/>
+        <videoref ref ="2009-07-31"/>
+        <videoref ref ="2009-07-30"/>
+        <!--videoref ref ="2009-07-29"/-->
+        <videoref ref ="2009-07-28"/>
+        <videoref ref ="2009-06-27"/>
+        <!--videoref ref ="2009-06-26"/-->
+        <videoref ref ="2009-06-25"/>
+        <videoref ref ="2009-06-24"/>
+        <videoref ref ="2009-06-23"/>
+        <!--videoref ref ="2009-05-22"/-->
+        <videoref ref ="2009-05-21"/>
+        <!--videoref ref ="2009-05-20"/-->
+        <videoref ref ="2009-05-19"/>
+        <videoref ref ="2009-05-18"/>
+        <videoref ref ="2009-05-17"/>
+        <videoref ref ="2009-04-16"/>
+        <videoref ref ="2009-04-15"/>
+        <videoref ref ="2009-04-12"/>
+        <!--videoref ref ="2009-03-11"/-->
+        <videoref ref ="2009-03-10"/>
+        <videoref ref ="2009-02-07"/>
+        <videoref ref ="2009-02-06"/>
+        <!--videoref ref ="2009-02-05"/-->
+        <!--videoref ref ="2009-02-04"/-->
+        <!--videoref ref ="2009-01-03"/-->
+        <!--videoref ref ="2009-01-02"/-->
+        <videoref ref ="2009-01-01"/>
+        <!--videoref ref ="2008-12-02"/-->
+        <videoref ref ="2008-12-01"/>
+	</category>
+  </categories>
+  <videos>
+    <video id ="2013-03-007" name="Having Children Enriches Your Life" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2013/2013-00-007-having-children-enriches-your-life-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-03-007-having-children-enriches-your-life-360p-eng.mp4"/>
+    <video id ="2013-03-006" name="Having Children in Faith" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2013/2013-00-006-having-children-in-faith-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-03-006-having-children-in-faith-360p-eng.mp4"/>
+    <video id ="2013-03-004" name="Courage" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2013/2013-00-004-courage-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-03-004-courage-360p-eng.mp4"/>
+    <video id ="2013-01-003" name="Mountains to Climb" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2013/2013-01-003-mountains-to-climb-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-003-mountains-to-climb-360p-eng.mp4"/>
+    <video id ="2013-01-002" name="Earthly Father, Heavenly Father" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-002-earthly-father-heavenly-father-360p-eng.mp4"/>
+    <video id ="2012-01-015" name="Daughters of God" thumbnail="http://media.ldscdn.org/thumbnails/2012-01-015-daughters-of-god-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-015-daughters-of-god-360p-eng.mp4"/>
+    <video id ="2012-01-014" name="The Will of God" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-00-014-the-will-of-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-360p-eng.mp4"/>
+    <video id ="2012-01-013" name="Sharing Your Beliefs" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-013-sharing-your-beliefs-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-013-sharing-your-beliefs-360p-eng.mp4"/>
+    <video id ="2012-01-012" name="Patterns of Light: Spirit of Revelation" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-012-patterns-of-light-spirit-of-revelation-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-012-patterns-of-light-spirit-of-revelation-360p-eng.mp4"/>
+    <video id ="2012-01-010" name="Patterns of Light: The Light of Christ" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-010-patterns-of-light-the-light-of-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-010-patterns-of-light-the-light-of-christ-360p-eng.mp4"/>
+    <video id ="2012-01-011" name="Patterns of Light: Discerning Light" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-011-patterns-of-light-discerning-light-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-011-patterns-of-light-discerning-light-360p-eng.mp4"/>
+    <video id ="2012-01-009" name="Saving Your Marriage" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-00-009-saving-your-marriage-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-009-saving-your-marriage-360p-eng.mp4"/>
+    <video id ="2012-01-008" name="Rescued by Christ" thumbnail="http://media.ldscdn.org/thumbnails/2012-01-008-rescued-by-christ-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-008-rescued-by-christ-360p-eng.mp4"/>
+    <video id ="2012-01-007" name="Love Her Mother" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-00-007-love-her-mother-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-007-love-her-mother-360p-eng.mp4"/>
+    <video id ="2012-01-006" name="Words with Friends" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-00-006-words-with-friends-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-006-words-with-friends-360p-eng.mp4"/>
+    <video id ="2012-01-005" name="Eternal Truth" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-005-eternal-truth-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-005-eternal-truth-360p-eng.mp4"/>
+    <video id ="2012-01-004" name="Looking through Windows" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-00-004-looking-through-windows-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-004-looking-through-windows-360p-eng.mp4"/>
+    <video id ="2012-01-003" name="Waiting on Our Road to Damascus" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-003-waiting-on-our-road-to-damascus-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-003-waiting-on-our-road-to-damascus-360p-eng.mp4"/>
+    <video id ="2012-01-002" name="Temples are a Beacon" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-002-temples-are-a-beacon-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-002-temples-are-a-beacon-360p-eng.mp4"/>
+    <video id ="2012-01-001" name="Power of God" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-001-power-of-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-001-power-of-god-360p-eng.mp4"/>
+    <video id ="2011-12-019" name="Wise Men Still Seek Him" thumbnail="http://media.ldscdn.org/thumbnails/2011-12-019-wise-men-still-seek-him-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-12-019-wise-men-still-seek-him-360p-eng.mp4"/>
+    <video id ="2011-11-020" name="Men's Hearts Shall Fail Them" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-360p-eng.mp4"/>
+    <video id ="2011-11-018" name="A Book of Mormon Story" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-11-018-a-book-of-mormon-story-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-018-a-book-of-mormon-story-360p-eng.mp4"/>
+    <video id ="2011-10-017" name="Opportunities to Do Good" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-10-017-opportunities-to-do-good-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-10-017-opportunities-to-do-good-360p-eng.mp4"/>
+    <video id ="2011-09-016" name="Flecks of Gold" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-09-016-flecks-of-gold-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-09-016-flecks-of-gold-360p-eng.mp4"/>
+    <video id ="2011-08-014" name="Expressions of Love" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-08-014-expressions-of-love-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-08-014-expressions-of-love-1080p-eng.mp4"/>
+    <video id ="2011-08-015" name="The Blessings of Scripture" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-08-015-the-blessings-of-scripture-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-08-015-the-blessings-of-scripture-360p-eng.mp4"/>
+    <video id ="2011-07-013" name="Watch Your Step" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-360p-eng.mp4"/>
+    <video id ="2011-06-012" name="Moments That Matter Most" thumbnail="http://media.ldscdn.org/thumbnails/2011-06-012-moments-that-matter-most-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-06-012-moments-that-matter-most-360p-eng.mp4"/>
+    <video id ="2011-05-011" name="Honesty" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-05-011-honesty-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-011-honesty-360p-eng.mp4"/>
+    <video id ="2011-05-010" name="Book of Mormon Introduction" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-05-010-book-of-mormon-introduction-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-010-book-of-mormon-introduction-360p-eng.mp4"/>
+    <video id ="2011-05-009" name="Child of God" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-009-child-of-god-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-009-child-of-god-360p-eng.mp4"/>
+    <video id ="2011-04-008" name="The Civility Experiment" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-04-008-the-civility-experiment-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-04-008-the-civility-experiment-360p-eng.mp4"/>
+    <video id ="2009-01-50" name="Elder David B Haight" thumbnail="http://media.ldscdn.org/thumbnails/2009-01-50-elder-david-b-haight-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-50-elder-david-b-haight-360p-eng.mp4"/>
+	<!-- Download not available for this video
+    <video id ="2009-01-60" name="Humanitarian Efforts Review—Bishop Burton" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-01-60-humanitarian-efforts-review-bishop-burton-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-60-humanitarian-efforts-review-bishop-burton-360p-eng.mp4"/>
+	 -->
+    <video id ="2009-01-58" name="Answers to Life's Great Questions" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-01-58-answers-to-lifes-great-questions-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-58-answers-to-lifes-great-questions-360p-eng.mp4"/>
+    <video id ="2009-01-59" name="Finding Happiness" thumbnail="http://media.ldscdn.org/thumbnails/2009-01-59-finding-happiness-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-59-finding-happiness-360p-eng.mp4"/>
+    <video id ="2011-03-007" name="His Sacred Name—An Easter Declaration" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-03-007-his-sacred-name-an-easter-declaration-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-03-007-his-sacred-name-an-easter-declaration-360p-eng.mp4"/>
+    <video id ="2011-03-001" name="You Will Be Freed" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-03-006-you-will-be-freed-192x108-thumb.jpg"
+		   url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-03-001-you-will-be-freed-360p-eng.mp4"/>
+				<!-- thumbnail view uses a different number, but is the correct thumbnail -->
+    <video id ="2011-02-001" name="Families Can Be Together Forever" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-02-001-families-can-be-together-forever-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-02-001-families-can-be-together-forever-360p-eng.mp4"/>
+    <video id ="2011-02-002" name="Unselfish Service" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-02-002-unselfish-service-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-02-002-unselfish-service-360p-eng.mp4"/>
+    <video id ="2010-12-24" name="Kids and Christmas" thumbnail="http://media.ldscdn.org/thumbnails/2010-12-24-kids-and-christmas-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-12-24-kids-and-christmas-360p-eng.mp4"/>
+    <video id ="2010-12-21" name="New Year's: Look Not behind Thee" thumbnail="http://media.ldscdn.org/thumbnails/2010-12-21-new-years-look-not-behind-thee-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-12-21-new-years-look-not-behind-thee-360p-eng.mp4"/>
+    <video id ="2010-12-22" name="Look to the Light" thumbnail="http://media.ldscdn.org/thumbnails/2010-12-22-look-to-the-light-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-12-22-look-to-the-light-360p-eng.mp4"/>
+    <video id ="2010-11-23" name="Thanksgiving Daily" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-11-23-thanksgiving-daily-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-11-23-thanksgiving-daily-360p-eng.mp4"/>
+    <video id ="2010-09-18" name="Continue in Patience" thumbnail="http://media.ldscdn.org/thumbnails/2010-09-18-continue-in-patience-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-09-18-continue-in-patience-360p-eng.mp4"/>
+    <video id ="2010-09-17" name="The Missing Piece" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-09-17-the-missing-piece-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-09-17-the-missing-piece-360p-eng.mp4"/>
+    <video id ="2010-08-16" name="Voice of the Spirit" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-360p-eng.mp4"/>
+    <video id ="2010-08-15" name="Parenting: Touching the Hearts of Our Youth" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-08-15-parenting-touching-the-hearts-of-our-youth-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-08-15-parenting-touching-the-hearts-of-our-youth-360p-eng.mp4"/>
+    <video id ="2010-07-14" name="Forgiveness: My Burden Was Made Light" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-07-14-forgiveness-my-burden-was-made-light-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-07-14-forgiveness-my-burden-was-made-light-360p-eng.mp4"/>
+    <video id ="2010-06-13" name="Motherhood: An Eternal Partnership with God" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-06-13-motherhood-an-eternal-partnership-with-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-06-13-motherhood-an-eternal-partnership-with-god-360p-eng.mp4"/>
+    <video id ="2010-05-12" name="Good Things to Come" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-05-12-good-things-to-come-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-05-12-good-things-to-come-360p-eng.mp4"/>
+    <video id ="2010-05-11" name="Until We Meet Again" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-360p-eng.mp4"/>
+    <video id ="2010-05-10" name="My New Life" thumbnail="http://media.ldscdn.org/thumbnails/2010-05-10-my-new-life-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-messages/mormon-messages-2010/2010-05-10-my-new-life-360p-eng.mp4"/>
+    <video id ="2010-04-09" name="Seek the Higher Ground" thumbnail="http://media.ldscdn.org/thumbnails/2010-04-09-seek-the-higher-ground-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-04-09-seek-the-higher-ground-360p-eng.mp4"/>
+	<!-- Something is broken on lds.org for this video - feedback was submitted to website
+    <video id ="2010-04-19" name="Return to Virtue" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-04-19-return-to-virtue-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-04-19-return-to-virtue-360p-eng.mp4"/>
+	 -->
+    <video id ="2010-03-08" name="Testimony of the Book of Mormon" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-08-testimony-of-the-book-of-mormon-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-08-testimony-of-the-book-of-mormon-360p-eng.mp4"/>
+	<!-- Download not available for this video
+    <video id ="2010-03-07" name="He Lives: Testimonies of Jesus Christ" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-360p-eng.mp4"/>
+	 -->
+    <video id ="2010-03-06" name="Becoming Provident Providers" thumbnail="http://media.ldscdn.org/thumbnails/2010-03-06-becoming-provident-providers-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-06-becoming-provident-providers-360p-eng.mp4"/>
+    <video id ="2010-03-05" name="The Tender Mercies of the Lord" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord-360p-eng.mp4"/>
+	<!-- Download not available for this video
+    <video id ="2010-02-04" name="Love One Another" thumbnail="http://media.ldscdn.org/thumbnails/2010-02-04-love-one-another-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-02-04-love-one-another-360p-eng.mp4"/>
+	 -->
+    <video id ="2010-01-03" name="Have I Done Any Good in World Today" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-01-03-have-i-done-any-good-in-the-world-today-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-03-have-i-done-any-good-in-the-world-today-360p-eng.mp4"/>
+    <video id ="2010-01-01" name="Prayer" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-01-01-prayer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-01-prayer-360p-eng.mp4"/>
+    <video id ="2009-12-42" name="What Shall We Give?" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-42-what-shall-we-give-360p-eng.mp4"/>
+    <video id ="2009-12-41" name="The Christmas Spirit" thumbnail="http://media.ldscdn.org/thumbnails/2009-12-41-the-christmas-spirit-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-12-41-the-christmas-spirit-360p-eng.mp4"/>
+    <video id ="2009-11-40" name="In Sickness and Health" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-11-40-in-sickness-and-health-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-11-40-in-sickness-and-health-360p-eng.mp4"/>
+    <video id ="2009-11-39" name="In the Spirit of Thanksgiving" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-11-39-in-the-spirit-of-thanksgiving-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-11-39-in-the-spirit-of-thanksgiving-360p-eng.mp4"/>
+    <video id ="2009-10-38" name="Lifting Burdens" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens-360p-eng.mp4"/>
+    <video id ="2009-09-37" name="Choose This Day" thumbnail="http://media.ldscdn.org/thumbnails/2009-09-37-choose-this-day-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-09-37-choose-this-day-360p-eng.mp4"/>
+    <video id ="2009-09-36" name="The Power of Hope" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-09-36-the-power-of-hope-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-09-36-the-power-of-hope-360p-eng.mp4"/>
+    <video id ="2009-09-35" name="What Matters Most" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-09-35-what-matters-most-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-09-35-what-matters-most-360p-eng.mp4"/>
+    <video id ="2009-08-33" name="You're Never Alone" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-08-33-youre-never-alone-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-08-33-youre-never-alone-360p-eng.mp4"/>
+    <video id ="2009-08-32" name="The Women in Our Lives" thumbnail="http://media.ldscdn.org/thumbnails/2009-08-32-the-women-in-our-lives-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-08-32-the-women-in-our-lives-360p-eng.mp4"/>
+    <video id ="2009-07-31" name="Counsel to Youth" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-07-31-counsel-to-youth-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-07-31-counsel-to-youth-360p-eng.mp4"/>
+    <video id ="2009-07-30" name="Pioneers" thumbnail="http://media.ldscdn.org/thumbnails/2009-07-30-pioneers-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-07-30-pioneers-360p-eng.mp4"/>
+	<!-- Download not available for this video
+    <video id ="2009-07-29" name="God's Words Never Cease" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-07-29-gods-words-never-cease-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-07-29-gods-words-never-cease-360p-eng.mp4"/>
+	 -->
+    <video id ="2009-07-28" name="Marriage and Divorce" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-07-28-marriage-and-divorce-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-07-28-marriage-and-divorce-360p-eng.mp4"/>
+    <video id ="2009-06-27" name="The Freedom To" thumbnail="http://media.ldscdn.org/thumbnails/2009-06-27-the-freedom-to-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-27-the-freedom-to-360p-eng.mp4"/>
+	<!-- Download not available for this video
+    <video id ="2009-06-26" name="Sunday Will Come" thumbnail="http://media.ldscdn.org/thumbnails/2009-06-26-sunday-will-come-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-26-sunday-will-come-360p-eng.mp4"/>
+	 -->
+    <video id ="2009-06-25" name="A Father Indeed" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-06-25-a-father-indeed-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-25-a-father-indeed-360p-eng.mp4"/>
+    <video id ="2009-06-24" name="Let Us Be Men" thumbnail="http://media.ldscdn.org/thumbnails/2009-06-24-let-us-be-men-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-24-let-us-be-men-360p-eng.mp4"/>
+    <video id ="2009-06-23" name="Trusting in the Lord" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-06-23-trusting-in-the-lord-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-23-trusting-in-the-lord-360p-eng.mp4"/>
+	<!-- Download not available for this video
+    <video id ="2009-05-22" name="O Remember, Remember" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-05-22-o-remember-remember-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-22-o-remember-remember-360p-eng.mp4"/>
+	 -->
+    <video id ="2009-05-21" name="Hope Ya Know, We Had a Hard Time" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-05-21-hope-ya-know-we-had-a-hard-time-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-21-hope-ya-know-we-had-a-hard-time-360p-eng.mp4"/>
+	<!-- Download not available for this video
+    <video id ="2009-05-20" name="Blessings of the Priesthood" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-05-20-blessings-of-the-priesthood-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-20-blessings-of-the-priesthood-360p-eng.mp4"/>
+	 -->
+    <video id ="2009-05-19" name="Happy Mother's Day, Mom!" thumbnail="http://media.ldscdn.org/thumbnails/2009-05-19-happy-mothers-day-mom-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-19-happy-mothers-day-mom-360p-eng.mp4"/>
+    <video id ="2009-05-18" name="Virtue: For Such a Time as This" thumbnail="http://media.ldscdn.org/thumbnails/2009-05-18-virtue-for-such-a-time-as-this-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-18-virtue-for-such-a-time-as-this-360p-eng.mp4"/>
+    <video id ="2009-05-17" name="Little Children" thumbnail="http://media.ldscdn.org/thumbnails/2009-05-17-little-children-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-17-little-children-360p-eng.mp4"/>
+    <video id ="2009-04-16" name="How Can I Find Happiness?" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-16-how-can-i-find-happiness-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-04-16-how-can-i-find-happiness-360p-eng.mp4"/>
+    <video id ="2009-04-15" name="The Miracle of the Holy Bible" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-04-15-the-miracle-of-the-holy-bible-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-04-15-the-miracle-of-the-holy-bible-360p-eng.mp4"/>
+    <video id ="2009-04-12" name="Even a Child Can Understand" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-12-even-a-child-can-understand-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-04-12-even-a-child-can-understand-360p-eng.mp4"/>
+	<!-- Download not available for this video
+    <video id ="2009-03-11" name="A Book with a Promise" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-03-11-a-book-with-a-promise-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-03-11-a-book-with-a-promise-360p-eng.mp4"/>
+	 -->
+    <video id ="2009-03-10" name="The Blessings of the Temple" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-03-10-the-blessings-of-the-temple-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-03-10-the-blessings-of-the-temple-360p-eng.mp4"/>
+    <video id ="2009-02-07" name="Are We Christians?" thumbnail="http://media.ldscdn.org/thumbnails/2009-02-07-are-we-christians-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-07-are-we-christians-360p-eng.mp4"/>
+    <video id ="2009-02-06" name="Create" thumbnail="http://media.ldscdn.org/thumbnails/2009-02-06-create-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-06-create-360p-eng.mp4"/>
+	<!-- Download not available for this video
+    <video id ="2009-02-05" name="How Do I Love Thee?" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-02-05-how-do-i-love-thee-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-05-how-do-i-love-thee-360p-eng.mp4"/>
+	 -->
+	<!-- Download not available for this video
+    <video id ="2009-02-04" name="The Message of the Restoration" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-04-the-message-of-the-restoration-360p-eng.mp4"/>
+	 -->
+	<!-- Download not available for this video
+    <video id ="2009-01-03" name="Come What May, and Love It" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-01-03-come-what-may-and-love-it-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-03-come-what-may-and-love-it-360p-eng.mp4"/>
+	 -->
+	<!-- Download not available for this video
+    <video id ="2009-01-02" name="The Only True God and Jesus Christ Whom He Has Sent" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-360p-eng.mp4"/>
+	 -->
+    <video id ="2009-01-01" name="Gordon Hinckley: Lessons I Learned as a Boy" thumbnail="http://media.ldscdn.org/thumbnails/2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-01-gordon-hinckley-lessons-i-learned-as-a-boy-360p-eng.mp4"/>
+	<!-- Download not available for this video
+    <video id ="2008-12-02" name="A Light unto All: A Christmas Gift" thumbnail="http://media.ldscdn.org/thumbnails/2008-12-02-a-light-unto-all-a-christmas-gift-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2008/2008-12-02-a-light-unto-all-a-christmas-gift-l-360p-eng.mp4"/>
+	 -->
+    <video id ="2008-12-01" name="Elder Joseph B. Wirthlin Tribute" thumbnail="http://media.ldscdn.org/thumbnails/2008-12-01-elder-joseph-b-wirthlin-tribute-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2008/2008-12-01-elder-joseph-b-wirthlin-tribute-360p-eng.mp4"/>
+  </videos>
+</library>
+
+

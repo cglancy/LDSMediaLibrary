@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+    <category name="Come, Follow Me" thumbnail="http://glancyfamily.net/ldsml/cfm-introduction.jpg">
+      <category name ="Aaronic Priesthood" thumbnail="http://glancyfamily.net/ldsml/cfm-aaronic-priesthood.jpg">
+        <category name="October" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-october.jpg">
+          <videoref ref="2010-09-18"/>   <!--  Continue in Patience -->
+          <videoref ref="2011-03-004"/>  <!--  Dayton's Legs -->
+          <videoref ref="2012-03-1180"/> <!--  Give Thanks -->
+          <videoref ref="2009-06-24"/>   <!--  Let Us Be Men -->
+          <videoref ref="2009-05-22"/>   <!--  O Remember, Remember -->
+          <videoref ref="2011-10-010"/>  <!--  Parable of the Good Samaritan -->
+          <videoref ref="2010-10-0100"/> <!--  Sharing the Light of Christ -->
+          <videoref ref="2012-10-011"/>  <!--  If We Forget Ourselves                 Official Title is: "Standards: Service - If We Forget Ourselves" --> 
+        </category>
+        <category name="November" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-november.jpg">
+          <videoref ref="2010-12-0160"/> <!--  A Work in Progress -->
+          <videoref ref="2010-03-06"/>   <!--  Becoming Provident Providers -->
+          <videoref ref="2011-03-10"/>   <!--  God Gave Them Knowledge -->
+          <videoref ref="2010-10-0100"/> <!--  Sharing the Light of Christ --> 
+          <videoref ref="2011-03-001"/>  <!--  You Will Be Freed -->                           
+		                                                                                  <!-- Humanitarian videos -->
+        </category>
+        <category name="December" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-december.jpg">
+          <videoref ref="2009-06-25"/>   <!--  A Father Indeed -->
+          <videoref ref="2011-03-004"/>  <!--  Dayton's Legs -->
+          <videoref ref="2012-04-004"/>  <!--  Fulfilling Your Duty to God -->
+          <videoref ref="2011-07-295"/>  <!--  Home Teaching: Encouraging Aaronic Priesthood Holders -->
+          <videoref ref="2011-09-15"/>   <!--  Missionary Work And Retention: Georgia Elias -->
+          <videoref ref="2010-08-15"/>   <!--  Parenting: Touching the Hearts of Our Youth -->
+          <videoref ref="2012-10-006"/>  <!--  We Are Brothers                        Official Title is: "Priesthood and Priesthood Keys - We Are Brothers"--> 
+          <videoref ref="2010-10-0100"/> <!--  Sharing the Light of Christ -->
+          <videoref ref="2012-02-07"/>   <!--  No One Else Can Do It—Rescuing Cole    Official Title is:  "The Rescue: Cole's Story" --> 
+          <videoref ref="2011-08-04"/>   <!--  Help Others Come Back to Church                 (Lesson 6) -->            
+          <videoref ref="2011-06-02"/>   <!--  Help New Members Take a Name to the Temple      (Lesson 5) --> 
+          <videoref ref="2013-06-029"/>  <!--  Missionary Mindset                              (Lesson 1) -->                         
+          <videoref ref="2013-06-031"/>  <!--  Priesthood Duty: Preaching the Gospel           (Lesson 1) -->
+        </category> 
+      </category>
+      <category name="Young Women" thumbnail="http://glancyfamily.net/ldsml/cfm-young-women.jpg">
+        <category name="October" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-october.jpg">
+          <videoref ref="2010-04-05"/>   <!--  Cheering Each Other On                Official Title is:  "Charity: An Example of the Believers" --> 
+          <videoref ref="2010-09-18"/>   <!--  Continue in Patience -->
+          <videoref ref="2010-09-0090"/> <!--  For Madison -->
+          <videoref ref="2012-03-1180"/> <!--  Give Thanks -->
+          <videoref ref="2009-05-22"/>   <!--  O Remember, Remember -->
+          <videoref ref="2011-10-017"/>  <!--  Opportunities to Do Good -->
+          <videoref ref="2011-10-010"/>  <!--  Parable of the Good Samaritan -->
+          <videoref ref="2010-10-0100"/> <!--  Sharing the Light of Christ -->
+          <videoref ref="2010-12-03"/>   <!--  Time to Give: Youth in Action -->
+        </category>
+        <category name="November" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-november.jpg">
+          <videoref ref="2009-01-10"/>   <!--  A Brand New Year: Physical health -->
+          <videoref ref="2010-06-02"/>   <!--  Easily Guided -->
+                                                     		                              <!-- Lesson 2 Mary N. Cook’s talk “Seek Learning: You Have a Work to Do”
+															                                   Humanitarian videos -->
+        </category>
+        <category name="December" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-december.jpg">
+          <videoref ref="2012-05-005"/>  <!--  Dare to Stand Alone -->
+          <videoref ref="2011-09-15"/>   <!--  Missionary Work And Retention: Georgia Elias -->
+          <videoref ref="2010-06-13"/>   <!--  Motherhood: An Eternal Partnership with God -->
+          <videoref ref="2011-07-278"/>  <!--  Sugar Beets and the Worth of a Soul -->
+		  <videoref ref="2013-06-030"/>  <!--  Because I Have Been Given Much                  (Lesson 1) -->    
+		  <videoref ref="2013-02-0270"/> <!--  A House of Order, a House of God                (Lesson 3) --> 
+          <videoref ref="2011-06-02"/>   <!--  Help New Members Take a Name to the Temple      (Lesson 4) --> 
+          <videoref ref="2011-08-04"/>   <!--  Help Others Come Back to Church                 (Lesson 5) -->            
+		  <videoref ref="2013-06-015"/>  <!--  The Faith of Youth: The Ennis Family            (Lesson 5) -->
+        </category>
+      </category>
+      <category name="Sunday School" thumbnail="http://glancyfamily.net/ldsml/cfm-sunday-school.jpg">
+        <category name="October" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-october.jpg">
+          <videoref ref="2010-12-09"/>   <!--  Inviting All to Come unto Christ:  Sharing the Gospel -->
+          <videoref ref="2012-03-002"/>  <!--  Love Those You Teach -->
+	      <videoref ref="2013-02-0350"/> <!--  Examples in Ministering                         (Lesson 1) -->
+	      <videoref ref="2013-06-009"/>  <!--  It Takes All of Us: The Clawson Family          (Lesson 1) -->
+		  <videoref ref="2011-10-006"/>  <!--  Things As They Really Are                       (Lesson 5) -->
+        </category>
+        <category name="November" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-november.jpg">
+          <videoref ref="2010-12-0160"/> <!--  A Work in Progress -->
+          <videoref ref="2010-03-06"/>   <!--  Becoming Provident Providers -->
+    <!--   videoref ref="2010-07-040"/>        They that are Wise NO DOWNLOAD AVAILABLE -->
+		                                                                                  <!--  Lesson 2 Dieter F. Uchtdorf, “The Reflection in the Water,” CES fireside for young adults, Nov. 1, 2009; see also the video of the address -->
+        </category>
+        <category name="December" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-december.jpg">
+          <videoref ref="2010-07-038"/>  <!--  Be Not Troubled -->
+          <videoref ref="2012-01-013"/>  <!--  Sharing Your Beliefs -->
+    <!--   videoref ref="2010-07-040"/>        They that are Wise NO DOWNLOAD AVAILABLE -->
+		  <videoref ref="2013-06-1031"/> <!--  I’ll Go Where You Want Me to Go                  (Lesson 4) --> 
+        </category>
+      </category>
+	  <category name="Humanitarian Videos" thumbnail="http://glancyfamily.net/ldsml/humanitarian.jpg">  <!--  LESSON 5 One of the Humanitarian Videos - https://www.lds.org/media-library/video/humanitarian?lang=eng -->
+		 <videoref ref="2011-03-29"/>   <!--  A Child's First Breath -->
+         <videoref ref="2011-05-17"/>   <!--  A Desolate Land Blossoms -->
+         <videoref ref="2011-05-20"/>   <!--  A Thousand Days -->
+         <videoref ref="2011-05-29"/>   <!--  Bolivia Container Gardens -->
+         <videoref ref="2011-05-30"/>   <!--  Bolivia Hospital Restoration -->
+         <videoref ref="2011-05-31"/>   <!--  Bolivia Humanitarian Impact -->
+         <videoref ref="2011-05-28"/>   <!--  Bolivia Underground Greenhouses -->
+         <videoref ref="2011-05-01"/>   <!--  Boys' Home -->
+         <videoref ref="2011-05-24"/>   <!--  Cassava Fields -->
+         <videoref ref="2011-05-27"/>   <!--  Chile Earthquake YSA Service -->
+    <!--  videoref ref="2011-05-11"/>         Chile Priesthood Response NO DOWNLOAD AVAILABLE-->
+         <videoref ref="2011-05-02"/>   <!--  Clean Water Is Happiness -->
+         <videoref ref="2011-05-32"/>   <!--  Ecuador Food Production -->
+         <videoref ref="2011-05-21"/>   <!--  Haiti Emergency Response -->
+         <videoref ref="2011-05-07"/>   <!--  Mayerlinth’s Mobility -->
+         <videoref ref="2011-05-23"/>   <!--  Neonatal Resuscitation Training – Africa -->
+         <videoref ref="2011-05-04"/>   <!--  Quilts -->
+         <videoref ref="2011-05-05"/>   <!--  Riqui's Wheelchair -->
+         <videoref ref="2011-05-22"/>   <!--  Samoa Tsunami Relief Effort -->
+         <videoref ref="2011-05-14"/>   <!--  Sierra Leone Wheelchairs -->
+         <videoref ref="2011-05-34"/>   <!--  The USNS Comfort -->
+         <videoref ref="2011-05-18"/>   <!--  We Did Not Stand Alone -->
+         <videoref ref="2011-05-25"/>   <!--  World of Happiness -->
+       </category>	  
+    </category>
+  </categories>
+  <videos>
+    <video id ="2010-04-05" name="Cheering Each Other On" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2010/2010-04-05-charity-an-example-of-the-believers-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/youth/mormon-messages-for-youth-2010/2010-04-05-charity-an-example-of-the-believers-360p-eng.mp4"/>
+    <video id ="2010-09-18" name="Continue in Patience" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-09-18-continue-in-patience-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-09-18-continue-in-patience-360p-eng.mp4"/>
+    <video id ="2011-03-004" name="Dayton's Legs" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-360p-eng.mp4"/>
+    <video id ="2010-09-0090" name="For Madison" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-09-0090-for-madison-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-09-0090-for-madison-360p-eng.mp4"/>
+    <video id ="2012-03-1180" name="Give Thanks" thumbnail="http://media.ldscdn.org/images/videos/youth/april-2012-general-conference-youth-highlights/2012-03-1180-give-thanks-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/april-2012-general-conference-youth-highlights/2012-03-1180-give-thanks-360p-eng.mp4"/>
+    <video id ="2010-12-09" name="Inviting All to Come unto Christ:  Sharing the Gospel" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-360p-eng.mp4"/>
+    <video id ="2009-06-24" name="Let Us Be Men" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-06-24-let-us-be-men-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-24-let-us-be-men-360p-eng.mp4"/>
+    <video id ="2012-03-002" name="Love Those You Teach" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/ldsorg-web-videos/2012-03-002-love-those-you-teach-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/leadership-training/ldsorg-web-videos/2012-03-002-love-those-you-teach-360p-eng.mp4"/>
+		   	<!-- 360p only -->
+    <video id ="2009-05-22" name="O Remember, Remember" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-05-22-o-remember-remember-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-05-22-o-remember-remember-360p-eng.mp4"/>
+    <video id ="2011-10-017" name="Opportunities to Do Good" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-10-017-opportunities-to-do-good-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-10-017-opportunities-to-do-good-360p-eng.mp4"/>
+    <video id ="2011-10-010" name="Parable of the Good Samaritan" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-360p-eng.mp4"/>
+    <video id ="2010-10-0100" name="Sharing the Light of Christ" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-10-0100-sharing-the-light-of-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-10-0100-sharing-the-light-of-christ-360p-eng.mp4"/>
+    <video id ="2012-10-011" name="If We Forget Ourselves" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-011-standards-service-if-we-forget-ourselves-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-011-standards-service-if-we-forget-ourselves-360p-eng.mp4"/>
+    <video id ="2010-12-03" name="Youth in Action" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2010/2010-12-03-youth-in-action-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-12-03-youth-in-action-360p-eng.mp4"/>
+    <video id ="2009-01-10" name="A Brand New Year: Physical health" thumbnail="http://media.ldscdn.org/images/videos/youth/a-brand-new-year-2009/2009-01-10-a-brand-new-year-physical-health-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/a-brand-new-year-2009/2009-01-10-a-brand-new-year-physical-health-360p-eng.mp4"/>
+    <video id ="2010-12-0160" name="A Work in Progress" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-12-0160-a-work-in-progress-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-12-0160-a-work-in-progress-360p-eng.mp4"/>
+    <video id ="2010-03-06" name="Becoming Provident Providers" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-06-becoming-provident-providers-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-06-becoming-provident-providers-360p-eng.mp4"/>
+    <video id ="2010-06-02" name="Easily Guided" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-06-02-easily-guided-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-06-02-easily-guided-360p-eng.mp4"/>
+    <video id ="2011-03-10" name="God Gave Them Knowledge" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-10-god-gave-them-knowledge-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-10-god-gave-them-knowledge-360p-eng.mp4"/>
+    <video id ="2010-10-0100" name="Sharing the Light of Christ" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-10-0100-sharing-the-light-of-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-10-0100-sharing-the-light-of-christ-360p-eng.mp4"/>
+    <video id ="2011-03-001" name="You Will Be Freed" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-03-006-you-will-be-freed-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-03-001-you-will-be-freed-360p-eng.mp4"/>
+    <video id ="2009-06-25" name="A Father Indeed" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-06-25-a-father-indeed-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-25-a-father-indeed-360p-eng.mp4"/>
+    <video id ="2010-07-038" name="Be Not Troubled" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-038-be-not-troubled-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-038-be-not-troubled-360p-eng.mp4"/>
+	       <!-- 360p and 480p only -->
+    <video id ="2012-05-005" name="Dare to Stand Alone" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-360p-eng.mp4"/>
+    <video id ="2011-03-004" name="Dayton's Legs" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-03-004-daytons-legs-360p-eng.mp4"/>
+    <video id ="2012-04-004" name="Fulfilling Your Duty to God" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-360p-eng.mp4"/>
+    <video id ="2011-07-295" name="Home Teaching: Encouraging Aaronic Priesthood Holders" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/leadership-training-resource-library/2011-07-295-home-teaching-encouraging-aaronic-priesthood-holders-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/leadership-training/leadership-training-resource-library/2011-07-295-home-teaching-encouraging-aaronic-priesthood-holders-360p-eng.mp4"/>
+    <video id ="2011-09-15" name="Missionary Work And Retention: Georgia Elias" thumbnail="http://media.ldscdn.org/images/videos/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/family-history/to-turn-the-hearts/2011-09-15-missionary-work-and-retention-georgia-elias-360p-eng.mp4"/>
+    <video id ="2010-06-13" name="Motherhood: An Eternal Partnership with God" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-06-13-motherhood-an-eternal-partnership-with-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-06-13-motherhood-an-eternal-partnership-with-god-360p-eng.mp4"/>
+    <video id ="2010-08-15" name="Parenting: Touching the Hearts of Our Youth" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-08-15-parenting-touching-the-hearts-of-our-youth-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-08-15-parenting-touching-the-hearts-of-our-youth-360p-eng.mp4"/>
+    <video id ="2012-10-006" name="We Are Brothers" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-006-priesthood-and-priesthood-keys-we-are-brothers-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-006-priesthood-and-priesthood-keys-we-are-brothers-360p-eng.mp4"/>
+    <video id ="2012-01-013" name="Sharing Your Beliefs" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-013-sharing-your-beliefs-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-013-sharing-your-beliefs-360p-eng.mp4"/>
+    <video id ="2010-10-0100" name="Sharing the Light of Christ" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-10-0100-sharing-the-light-of-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-10-0100-sharing-the-light-of-christ-360p-eng.mp4"/>
+    <video id ="2011-07-278" name="Sugar Beets and the Worth of a Soul" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/leadership-training-resource-library/2011-07-278-sugar-beets-and-the-worth-of-a-soul-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/leadership-training/leadership-training-resource-library/2011-07-278-sugar-beets-and-the-worth-of-a-soul-360p-eng.mp4"/>
+    <video id ="2012-02-07" name="No One Else Can Do It—Rescuing Cole" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2012-02-07-the-rescue-coles-story-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2012-02-07-the-rescue-coles-story-360p-eng.mp4"/>
+		   
+    <video id ="2011-08-04" name="Help Others Come Back to Church" thumbnail="http://media.ldscdn.org/images/videos/family-history/fhd-youth-serve/2011-08-04-help-others-come-back-to-church-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/leadership-training/family-history/fhd-youth-serve/2011-08-04-help-others-come-back-to-church-360p-eng.mp4"/>
+    <video id ="2011-06-02" name="Help New Members Take a Name to the Temple" thumbnail="http://media.ldscdn.org/images/videos/family-history/fhd-youth-serve/2011-06-02-help-new-members-take-a-name-to-the-temple-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/leadership-training/family-history/fhd-youth-serve/2011-06-02-help-new-members-take-a-name-to-the-temple-360p-eng.mp4"/>
+    <video id ="2013-06-029" name="Missionary Mindset" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/hastening-the-work-of-salvation/2013-06-029-missionary-mindset-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/hastening-the-work-of-salvation/2013-06-029-missionary-mindset-360p-eng.mp4"/>
+    <video id ="2013-06-031" name="Priesthood Duty: Preaching the Gospel" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/hastening-the-work-of-salvation/2013-06-031-priesthood-duty-preaching-the-gospel-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/hastening-the-work-of-salvation/2013-06-031-priesthood-duty-preaching-the-gospel-360p-eng.mp4"/>
+    <video id ="2013-06-030" name="Because I Have Been Given Much" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/hastening-the-work-of-salvation/2013-06-030-because-i-have-been-given-much-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/hastening-the-work-of-salvation/2013-06-030-because-i-have-been-given-much-360p-eng.mp4"/>
+    <video id ="2013-02-0270" name="A House of Order, a House of God" thumbnail="http://glancyfamily.net/ldsml/a-house-of-order.jpg"  
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0270-bringing-up-children-in-light-and-truth-a-house-of-order-a-house-of-god-500k-eng.mp4"/>
+    <video id ="2013-06-015" name="The Faith of Youth: The Ennis Family" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/hastening-the-work-of-salvation/2013-06-015-the-faith-of-youth-the-ennis-family-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/hastening-the-work-of-salvation/2013-06-015-the-faith-of-youth-the-ennis-family-360p-eng.mp4"/>
+    <video id ="2013-02-0350" name="Examples in Ministering" thumbnail="http://glancyfamily.net/ldsml/examples-in-ministering.jpg" 
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0350-first-presidency-message-examples-in-ministering-500k-eng.mp4"/>
+    <video id ="2013-06-009" name="It Takes All of Us: The Clawson Family" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/hastening-the-work-of-salvation/2013-06-010-working-together-the-kane-family-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/hastening-the-work-of-salvation/2013-06-009-it-takes-all-of-us-the-clawson-family-360p-eng.mp4"/>
+    <video id ="2011-10-006" name="Things As They Really Are" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-006-things-as-they-really-are-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-messages-for-youth/mormon-messages-for-youth-2011/2011-10-006-things-as-they-really-are-360p-eng.mp4"/>
+	<video id ="2013-06-1031" name="I’ll Go Where You Want Me to Go" thumbnail="http://media.ldscdn.org/images/videos/worldwide-leadership-training/the-work-of-salvation/2013-06-1031-ill-go-where-you-want-me-to-go-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/worldwide-leadership-training/the-work-of-salvation/2013-06-1031-ill-go-where-you-want-me-to-go-360p-eng.mp4"/>
+		   
+	<!-- Humanitarian Videos -->	   
+	<video id ="2011-03-29" name="A Child's First Breath" thumbnail="http://media.ldscdn.org/thumbnails/2011-03-29-a-childs-first-breath-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-03-29-a-childs-first-breath-360p-eng.mp4"/>
+    <video id ="2011-05-17" name="A Desolate Land Blossoms" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-17-a-desolate-land-blossoms-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-17-a-desolate-land-blossoms-360p-eng.mp4"/>
+		   <!-- 360p and 720p only -->
+    <video id ="2011-05-20" name="A Thousand Days" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-20-a-thousand-days-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-20-a-thousand-days-360p-eng.mp4"/>
+    <video id ="2011-05-29" name="Bolivia Container Gardens" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-29-bolivia-container-gardens-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-29-bolivia-container-gardens-360p-eng.mp4"/>
+    <video id ="2011-05-30" name="Bolivia Hospital Restoration" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-30-bolivia-hospital-restoration-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-30-bolivia-hospital-restoration-360p-eng.mp4"/>
+    <video id ="2011-05-31" name="Bolivia Humanitarian Impact" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-31-bolivia-humanitarian-impact-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-31-bolivia-humanitarian-impact-360p-eng.mp4"/>
+    <video id ="2011-05-28" name="Bolivia Underground Greenhouses" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-28-bolivia-underground-greenhouses-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-28-bolivia-underground-greenhouses-360p-eng.mp4"/>
+    <video id ="2011-05-01" name="Boys' Home" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-01-boys-home-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-01-boys-home-360p-eng.mp4"/>
+    <video id ="2011-05-24" name="Cassava Fields" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-24-cassava-fields-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-24-cassava-fields-360p-eng.mp4"/>
+    <video id ="2011-05-27" name="Chile Earthquake YSA Service" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-27-chile-earthquake-ysa-service-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-27-chile-earthquake-ysa-service-360p-eng.mp4"/>
+    <!--video id ="2011-05-11" name="Chile Priesthood Response" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-11-chile-priesthood-response-138x81.jpg"
+           url="NO DOWNLOAD AVAILABLE"/-->
+    <video id ="2011-05-02" name="Clean Water Is Happiness" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-02-clean-water-is-happiness-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-02-clean-water-is-happiness-360p-eng.mp4"/>
+    <video id ="2011-05-32" name="Ecuador Food Production" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-32-ecuador-food-production-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-32-ecuador-food-production-360p-eng.mp4"/>
+    <video id ="2011-05-21" name="Haiti Emergency Response" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-21-haiti-emergency-response-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-21-haiti-emergency-response-360p-eng.mp4"/>
+    <video id ="2011-05-07" name="Mayerlinth’s Mobility" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-07-mayerlinths-mobility-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-07-mayerlinths-mobility-360p-eng.mp4"/>
+    <video id ="2011-05-23" name="Neonatal Resuscitation Training – Africa" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-23-neonatal-resuscitation-training-africa-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-23-neonatal-resuscitation-training-africa-360p-eng.mp4"/>
+    <video id ="2011-05-04" name="Quilts" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-04-quilts-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-04-quilts-360p-eng.mp4"/>
+    <video id ="2011-05-05" name="Riqui's Wheelchair" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-05-riquis-wheelchair-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-05-riquis-wheelchair-360p-eng.mp4"/>
+    <video id ="2011-05-22" name="Samoa Tsunami Relief Effort" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-22-samoa-tsunami-relief-effort-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-22-samoa-tsunami-relief-effort-360p-eng.mp4"/>
+		   <!-- 360p only -->
+    <video id ="2011-05-14" name="Sierra Leone Wheelchairs" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-14-sierra-leone-wheelchairs-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-14-sierra-leone-wheelchairs-360p-eng.mp4"/>
+    <video id ="2011-05-34" name="The USNS Comfort" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-34-the-usns-comfort-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-34-the-usns-comfort-360p-eng.mp4"/>
+    <video id ="2011-05-18" name="We Did Not Stand Alone" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-18-we-did-not-stand-alone-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-18-we-did-not-stand-alone-360p-eng.mp4"/>
+    <video id ="2011-05-25" name="World of Happiness" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-25-world-of-happiness-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/welfare/humanitarian-media-library/2011-05-25-world-of-happiness-360p-eng.mp4"/>
+  </videos>
+</library>

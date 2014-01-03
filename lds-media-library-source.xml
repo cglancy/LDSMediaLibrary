@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
     <title>LDS Media Library</title>
@@ -28,13 +28,43 @@
     <item>
       <title>"Come, Follow Me" April-June 2013, 720p</title>
       <link>http://glancyfamily.net/ldsml/come-follow-me-2013Q2-720p.xml</link>
-      <description>2.4 GB</description>
+      <description>3.4 GB</description>
     </item>
     <item>
       <title>"Come, Follow Me" April-June 2013, 360p</title>
       <link>http://glancyfamily.net/ldsml/come-follow-me-2013Q2-360p.xml</link>
       <description>1.1 GB</description>
     </item>
+    <item>
+      <title>"Come, Follow Me" July-September 2013, 1080p</title>
+      <link>http://glancyfamily.net/ldsml/come-follow-me-2013Q3-1080p.xml</link>
+      <description>8.4 GB</description>
+    </item>
+    <item>
+      <title>"Come, Follow Me" July-September 2013, 720p</title>
+      <link>http://glancyfamily.net/ldsml/come-follow-me-2013Q3-720p.xml</link>
+      <description>3.3 GB</description>
+    </item>
+    <item>
+      <title>"Come, Follow Me" July-September 2013, 360p</title>
+      <link>http://glancyfamily.net/ldsml/come-follow-me-2013Q3-360p.xml</link>
+      <description>1.6 GB</description>
+    </item>
+    <item>
+      <title>"Come, Follow Me" October-December 2013, 1080p</title>
+      <link>http://glancyfamily.net/ldsml/come-follow-me-2013Q4-1080p.xml</link>
+      <description>13.3 GB</description>
+    </item>
+    <item>
+      <title>"Come, Follow Me" October-December 2013, 720p</title>
+      <link>http://glancyfamily.net/ldsml/come-follow-me-2013Q4-720p.xml</link>
+      <description>5.0 GB</description>
+    </item>
+    <item>
+      <title>"Come, Follow Me" October-December 2013, 360p</title>
+      <link>http://glancyfamily.net/ldsml/come-follow-me-2013Q4-360p.xml</link>
+      <description>2.3 GB</description>
+    </item>	
     <item>
       <title>"Come, Follow Me" Training, 1080p</title>
       <link>http://glancyfamily.net/ldsml/come-follow-me-training-1080p.xml</link>
@@ -64,6 +94,51 @@
       <title>Worldwide Leadership Training 2013, 360p</title>
       <link>http://glancyfamily.net/ldsml/worldwide-leadership-training-2013-360p.xml</link>
       <description>486.8 MB</description>
+    </item>
+    <item>
+      <title>Bible Videos - The Life of Jesus Christ, 1080p</title>
+      <link>http://glancyfamily.net/ldsml/bible-videos-the-life-of-christ-1080p.xml</link>
+      <description>11.9 GB</description>
+    </item>
+    <item>
+      <title>Bible Videos - The Life of Jesus Christ, 720p</title>
+      <link>http://glancyfamily.net/ldsml/bible-videos-the-life-of-christ-720p.xml</link>
+      <description>3.3 GB</description>
+    </item>
+    <item>
+      <title>Bible Videos - The Life of Jesus Christ, 360p</title>
+      <link>http://glancyfamily.net/ldsml/bible-videos-the-life-of-christ-360p.xml</link>
+      <description>1.3 GB</description>
+    </item>
+    <item>
+      <title>Mormon Messages, 1080p</title>
+      <link>http://glancyfamily.net/ldsml/mormon-messages-1080p.xml</link>
+      <description>11.6 GB</description>
+    </item>
+    <item>
+      <title>Mormon Messages, 720p</title>
+      <link>http://glancyfamily.net/ldsml/mormon-messages-720p.xml</link>
+      <description>4.5 GB</description>
+    </item>
+    <item>
+      <title>Mormon Messages, 360p</title>
+      <link>http://glancyfamily.net/ldsml/mormon-messages-360p.xml</link>
+      <description>2.3 GB</description>
+    </item>
+    <item>
+      <title>Mormon Messages for Youth, 1080p</title>
+      <link>http://glancyfamily.net/ldsml/mormon-messages-for-youth-1080p.xml</link>
+      <description>9.7 GB</description>
+    </item>
+    <item>
+      <title>Mormon Messages for Youth, 720p</title>
+      <link>http://glancyfamily.net/ldsml/mormon-messages-for-youth-720p.xml</link>
+      <description>3.4 GB</description>
+    </item>
+    <item>
+      <title>Mormon Messages for Youth, 360p</title>
+      <link>http://glancyfamily.net/ldsml/mormon-messages-for-youth-360p.xml</link>
+      <description>1.6 GB</description>
     </item>
   </channel>
 </rss>

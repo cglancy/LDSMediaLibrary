@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+    <category name="Bible Videos - The Life of Jesus Christ" thumbnail="http://glancyfamily.net/ldsml/bv-the-life-of-christ.jpg">
+        <videoref ref ="2011-10-061"/>		
+        <videoref ref ="2011-10-060"/>
+        <videoref ref ="2011-10-059"/>
+        <videoref ref ="2011-10-058"/>
+        <videoref ref ="2011-10-057"/>
+        <videoref ref ="2011-10-056"/>
+        <videoref ref ="2011-10-055"/>
+        <videoref ref ="2011-10-054"/>
+        <videoref ref ="2011-10-053"/>
+        <videoref ref ="2011-10-052"/>
+        <videoref ref ="2011-10-051"/>
+        <videoref ref ="2011-10-050"/>
+        <videoref ref ="2011-10-049"/>
+        <videoref ref ="2011-10-048"/>
+        <videoref ref ="2011-10-047"/>
+        <videoref ref ="2011-10-046"/>
+        <videoref ref ="2011-10-045"/>
+        <videoref ref ="2011-10-044"/>
+        <videoref ref ="2011-10-043"/>
+        <videoref ref ="2011-10-042"/>
+        <videoref ref ="2011-10-041"/>
+<!--                                     no 40 exists -->
+        <videoref ref ="2011-10-039"/>
+        <videoref ref ="2011-10-038"/>
+        <videoref ref ="2011-10-037"/>
+        <videoref ref ="2011-10-036"/>
+        <videoref ref ="2011-10-035"/>
+        <videoref ref ="2011-10-034"/>
+        <videoref ref ="2011-10-033"/>
+        <videoref ref ="2011-10-032"/>
+        <videoref ref ="2011-10-031"/>
+        <videoref ref ="2011-10-030"/>
+        <videoref ref ="2011-10-029"/>
+        <videoref ref ="2011-10-028"/>
+        <videoref ref ="2011-10-027"/>
+<!--                                     no 26 exists -->
+        <videoref ref ="2011-10-025"/>
+        <videoref ref ="2011-10-024"/>
+        <videoref ref ="2011-10-023"/>
+        <videoref ref ="2011-10-022"/>
+        <videoref ref ="2011-10-021"/>
+        <videoref ref ="2011-10-020"/>
+        <videoref ref ="2011-10-019"/>
+        <videoref ref ="2011-10-018"/>
+        <videoref ref ="2011-10-017"/>
+        <videoref ref ="2011-10-016"/>
+        <videoref ref ="2011-10-015"/>
+        <videoref ref ="2011-10-014"/>
+        <videoref ref ="2011-10-013"/>
+<!--                                     no 12 exists -->
+        <videoref ref ="2011-10-011"/>
+        <videoref ref ="2011-10-010"/>
+        <videoref ref ="2011-10-009"/>
+        <videoref ref ="2011-10-008"/>
+        <videoref ref ="2011-10-007"/>
+        <videoref ref ="2011-10-006"/>
+        <videoref ref ="2011-10-005"/>
+        <videoref ref ="2011-10-004"/>
+        <videoref ref ="2011-10-003"/>
+        <videoref ref ="2011-10-002"/>
+        <videoref ref ="2011-10-001"/>
+    </category>
+  </categories>
+  <videos>
+    <video id ="2011-10-061" name="Seek Ye the Kingdom of God"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-061-seek-first-the-kingdom-of-god-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-061-seek-ye-the-kingdom-of-god-1080p-eng.mp4"/>  
+    <video id ="2011-10-060" name="Follow Me, and I Will Make You Fishers of Men"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-1080p-eng.mp4"/>
+    <video id ="2011-10-059" name="The Good Shepherd and Other Sheep I Have"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-059-the-good-shepherd-and-other-sheep-i-have-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-059-the-good-shepherd-and-other-sheep-i-have-1080p-eng.mp4"/>
+    <video id ="2011-10-058" name="Jesus Acclaims John the Baptist / Come Unto Me"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-058-jesus-acclaims-john-the-baptist-come-unto-me-1080p-eng.mp4"/>
+    <video id ="2011-10-057" name="Peter's Revelation to Take the Gospel to the Gentiles"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-057-peters-revelation-to-take-the-gospel-to-the-gentiles-1080p-eng.mp4"/>
+    <video id ="2011-10-056" name="Forgive 70 Times 7"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-1080p-eng.mp4"/>
+    <video id ="2011-10-055" name="The Prodigal Son"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-055-the-prodigal-son-1080p-eng.mp4"/>
+    <video id ="2011-10-054" name="The Kingdom of Heaven"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-054-the-kingdom-of-heaven-1080p-eng.mp4"/>
+    <video id ="2011-10-053" name="Jesus Declares the Parable of the Wheat and the Tares"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-053-jesus-declares-the-parable-of-the-wheat-and-the-tares-1080p-eng.mp4"/>
+    <video id ="2011-10-052" name="The Greatest Commandment"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-052-the-greatest-commandment-1080p-eng.mp4"/>
+    <video id ="2011-10-051" name="I am the Bread of Life"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-051-i-am-the-bread-of-life-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-051-i-am-the-bread-of-life-1080p-eng.mp4"/>
+    <video id ="2011-10-050" name="Whosoever Will Lose His Life for My Sake Shall Find It"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-050-whosoever-will-lose-his-life-for-my-sake-shall-find-it-1080p-eng.mp4"/>
+    <video id ="2011-10-049" name="Thou Art the Christ"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-049-thou-art-the-christ-1080p-eng.mp4"/>
+    <video id ="2011-10-048" name="Render unto Caesar and unto God" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-048-render-unto-caesar-and-unto-god-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-048-render-unto-caesar-and-unto-god-1080p-eng.mp4"/>
+    <video id ="2011-10-047" name="Peter and John Continue Preaching the Gospel" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-047-peter-and-john-continue-preaching-the-gospel-1080p-eng.mp4"/>
+    <video id ="2011-10-046" name="Peter and John Are Judged" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-046-peter-and-john-are-judged-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-046-peter-and-john-are-judged-1080p-eng.mp4"/>
+    <video id ="2011-10-045" name="Peter Preaches and is Arrested" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-045-peter-preaches-and-is-arrested-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-045-peter-preaches-and-is-arrested-1080p-eng.mp4"/>
+    <video id ="2011-10-044" name="Peter and John Heal a Man Crippled Since Birth" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-044-peter-and-john-heal-a-man-crippled-since-birth-1080p-eng.mp4"/>
+    <video id ="2011-10-043" name="Good Tidings of Great Joy: The Birth of Jesus Christ" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-043-good-tidings-of-great-joy-the-birth-of-jesus-christ-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-043-good-tidings-of-great-joy-the-birth-of-jesus-christ-1080p-eng.mp4"/>
+    <video id ="2011-10-042" name="For God So Loved the World" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-042-for-god-so-loved-the-world-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-042-for-god-so-loved-the-world-1080p-eng.mp4"/>
+    <video id ="2011-10-041" name="Jesus Declares: I Am the Light of the World, the Truth Shall Make You Free" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-041-jesus-declares-i-am-the-light-of-the-world-the-truth-shall-make-you-free-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-041-jesus-declares-i-am-the-light-of-the-world-the-truth-shall-make-you-free-1080p-eng.mp4"/>
+    <video id ="2011-10-039" name="Jesus Cleanses the Temple" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-039-jesus-cleanses-the-temple-1080p-eng.mp4"/>
+    <video id ="2011-10-038" name="Jesus Forgives Sins and Heals a Man Stricken with Palsy" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-038-jesus-forgives-sins-and-heals-a-man-stricken-with-palsy-1080p-eng.mp4"/>
+    <video id ="2011-10-037" name="Jesus Raises the Daughter of Jairus" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-037-jesus-raises-the-daughter-of-jairus-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-037-jesus-raises-the-daughter-of-jairus-1080p-eng.mp4"/>
+    <video id ="2011-10-036" name="Go and Sin No More" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-036-go-and-sin-no-more-1080p-eng.mp4"/>
+    <video id ="2011-10-035" name="Sermon on the Mount: Treasures in Heaven" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-035-sermon-on-the-mount-treasures-in-heaven-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-035-sermon-on-the-mount-treasures-in-heaven-1080p-eng.mp4"/>
+    <video id ="2011-10-034" name="Sermon on the Mount: The Lord's Prayer" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-034-sermon-on-the-mount-the-lords-prayer-1080p-eng.mp4"/>
+    <video id ="2011-10-033" name="Sermon on the Mount: The Higher Law" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-033-sermon-on-the-mount-the-higher-law-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-033-sermon-on-the-mount-the-higher-law-1080p-eng.mp4"/>
+    <video id ="2011-10-032" name="Sermon on the Mount: The Beatitudes" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-032-sermon-on-the-mount-the-beatitudes-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-032-sermon-on-the-mount-the-beatitudes-1080p-eng.mp4"/>
+    <video id ="2011-10-031" name="Jesus Heals a Woman of Faith" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-031-jesus-heals-a-woman-of-faith-1080p-eng.mp4"/>
+    <video id ="2011-10-030" name="Jesus Calls Twelve Apostles to Preach and Bless Others" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-030-jesus-calls-twelve-apostles-to-preach-and-bless-others-1080p-eng.mp4"/>
+    <video id ="2011-10-029" name="Jesus Declares He Is the Messiah" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-029-jesus-declares-he-is-the-messiah-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-029-jesus-declares-he-is-the-messiah-1080p-eng.mp4"/>
+    <video id ="2011-10-028" name="Jesus Teaches of Being Born Again" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-028-jesus-teaches-of-being-born-again-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-028-jesus-teaches-of-being-born-again-1080p-eng.mp4"/>
+    <video id ="2011-10-027" name="Mary, the Mother of Jesus" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-027-mary-the-mother-of-jesus-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-027-mary-the-mother-of-jesus-1080p-eng.mp4"/>
+    <video id ="2011-10-024" name="The Baptism of Jesus" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-024-the-baptism-of-jesus-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-024-the-baptism-of-jesus-1080p-eng.mp4"/>
+    <video id ="2011-10-023" name="Jesus Turns Water into Wine" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-023-jesus-turns-water-into-wine-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-023-jesus-turns-water-into-wine-1080p-eng.mp4"/>
+    <video id ="2011-10-022" name="Jesus Heals a Possessed Man" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-022-jesus-heals-a-possessed-man-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-022-jesus-heals-a-possessed-man-1080p-eng.mp4"/>
+    <video id ="2011-10-025" name="He is Risen" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-1080p-eng.mp4"/>
+    <video id ="2011-10-021" name="Jesus Is Resurrected" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-021-jesus-is-resurrected-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-021-jesus-is-resurrected-1080p-eng.mp4"/>
+    <video id ="2011-10-020" name="Jesus Is Laid in a Tomb" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-020-jesus-is-laid-in-a-tomb-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-020-jesus-is-laid-in-a-tomb-1080p-eng.mp4"/>
+    <video id ="2011-10-019" name="Jesus Is Scourged and Crucified" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-019-jesus-is-scourged-and-crucified-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-019-jesus-is-scourged-and-crucified-1080p-eng.mp4"/>
+    <video id ="2011-10-018" name="Jesus Is Condemned Before Pilate" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-018-jesus-is-condemned-before-pilate-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-018-jesus-is-condemned-before-pilate-1080p-eng.mp4"/>
+    <video id ="2011-10-016" name="Jesus Is Tried by Caiaphas, Peter Denies Knowing Him" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-016-jesus-is-tried-by-caiaphas-peter-denies-knowing-him-1080p-eng.mp4"/>
+    <video id ="2011-10-015" name="The Savior Suffers in Gethsemane" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-015-the-savior-suffers-in-gethsemane-1080p-eng.mp4"/>
+    <video id ="2011-10-014" name="Jesus Warns Peter and Offers the Intercessory Prayer" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-014-jesus-warns-peter-and-offers-the-intercessory-prayer-1080p-eng.mp4"/>
+    <video id ="2011-10-013" name="The Last Supper" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-013-the-last-supper-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-013-the-last-supper-1080p-eng.mp4"/>
+    <video id ="2011-10-017" name="The Lord's Triumphal Entry into Jerusalem" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-017-the-lords-triumphal-entry-into-jerusalem-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-017-the-lords-triumphal-entry-into-jerusalem-1080p-eng.mp4"/>
+    <video id ="2011-10-011" name="Jesus Teaches a Samaritan Woman" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-011-jesus-teaches-a-samaritan-woman-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-011-jesus-teaches-a-samaritan-woman-1080p-eng.mp4"/>
+    <video id ="2011-10-010" name="Parable of the Good Samaritan" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-010-parable-of-the-good-samaritan-1080p-eng.mp4"/>
+    <video id ="2011-10-009" name="Jesus Teaches about the Widow's Mites" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-009-jesus-teaches-about-the-widows-mites-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-009-jesus-teaches-about-the-widows-mites-1080p-eng.mp4"/>
+    <video id ="2011-10-007" name="The Wise Men Seek Jesus" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-007-the-wise-men-seek-jesus-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-007-the-wise-men-seek-jesus-1080p-eng.mp4"/>
+    <video id ="2011-10-006" name="The Christ Child Is Presented at the Temple" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-006-the-christ-child-is-presented-at-the-temple-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-006-the-christ-child-is-presented-at-the-temple-1080p-eng.mp4"/>
+    <video id ="2011-10-005" name="Shepherds Learn of the Birth of Christ" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-005-shepherds-learn-of-the-birth-of-christ-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-005-shepherds-learn-of-the-birth-of-christ-1080p-eng.mp4"/>
+    <video id ="2011-10-004" name="Mary and Joseph Travel to Bethlehem" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-004-mary-and-joseph-travel-to-bethlehem-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-004-mary-and-joseph-travel-to-bethlehem-1080p-eng.mp4"/>
+    <video id ="2011-10-003" name="Mary and Elisabeth Rejoice Together" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-003-mary-and-elisabeth-rejoice-together-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-003-mary-and-elisabeth-rejoice-together-1080p-eng.mp4"/>
+    <video id ="2011-10-008" name="Bible Videos - Introduction" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-008-bible-videos-introduction-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-008-bible-videos-introduction-1080p-eng.mp4"/>
+    <video id ="2011-10-002" name="An Angel Foretells Christ’s Birth to Mary" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-002-an-angel-foretells-christs-birth-to-mary-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-002-an-angel-foretells-christs-birth-to-mary-1080p-eng.mp4"/>
+    <video id ="2011-10-001" name="A Gift to the World" thumbnail="http://media.ldscdn.org/thumbnails/2011-10-001-a-gift-to-the-world-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-001-a-gift-to-the-world-1080p-eng.mp4"/>
+  </videos>
+</library>
+
+

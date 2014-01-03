@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+    <category name="Come, Follow Me" thumbnail="http://glancyfamily.net/ldsml/cfm-introduction.jpg">
+      <category name ="Aaronic Priesthood" thumbnail="http://glancyfamily.net/ldsml/cfm-aaronic-priesthood.jpg">
+        <category name="July" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-july.jpg">
+          <videoref ref="2012-05-005"/>  <!--  Dare to Stand Alone -->
+          <videoref ref="2011-03-005"/>  <!--  Same Jersey -->
+          <videoref ref="2011-09-005"/>  <!--  Sanctify Yourselves -->
+          <videoref ref="2012-01-002b"/> <!--  Temples are a Beacon -->
+          <videoref ref="2013-02-0290"/> <!--  Faith in the Power of the Priesthood -->
+        </category>
+        <category name="August" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-august.jpg">
+          <videoref ref="2009-01-08"/>   <!--  A Brand New Year; Dating -->
+          <videoref ref="2010-12-016"/>  <!--  A Work in Progress -->
+          <videoref ref="2011-05-003"/>  <!--  Chastity: what are the limits? -->
+          <videoref ref="2011-02-001"/>  <!--  Families Can Be Together Forever -->
+          <videoref ref="2012-10-009"/>  <!--  Home and Family - Through Small Things -->
+          <videoref ref="2011-07-004"/>  <!--  I Choose to Be Pure -->
+          <videoref ref="2009-06-24"/>   <!--  Let Us Be Men -->
+          <videoref ref="2012-10-010"/>  <!--  Standards: Sexual Purity and Modesty - True Confidence -->
+          <videoref ref="2009-08-32"/>   <!--  The Women in Our Lives -->
+          <videoref ref="2010-08-000"/>  <!--  Two Brothers Apart -->
+          <videoref ref="2010-06-0080"/> <!--  Fathers & Sons -->
+          <videoref ref="2013-02-0240"/> <!--  The Home Is a Divine Institution -->
+          <videoref ref="2013-02-0190"/> <!--  Fathers Can Use the Priesthood to Bless Their Families -->
+        </category>
+        <category name="September" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-september.jpg">
+          <videoref ref="2012-05-005"/>  <!--  Dare to Stand Alone -->
+          <videoref ref="2011-05-011"/>  <!--  Honesty: You Better Believe It! -->
+          <videoref ref="2010-11-01"/>   <!--  No Cussing Club -->
+          <videoref ref="2012-10-013"/>  <!--  Stand Ye in Holy Places - Bloom Where Planted -->
+          <videoref ref="2011-03-20"/>   <!--  To Look Upon -->
+          <videoref ref="2011-07-013"/>  <!--  Watch Your Step -->
+        </category>
+      </category>
+      <category name="Sunday School" thumbnail="http://glancyfamily.net/ldsml/cfm-sunday-school.jpg">
+        <category name="July" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-july.jpg">
+          <videoref ref="2011-04-19"/>   <!--  Special Witness - Elder Oaks -->
+          <videoref ref="2012-10-007"/>  <!--  The Temple - Always in Our Sights -->
+        </category>
+        <category name="August" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-august.jpg">
+          <videoref ref="2009-05-22"/>   <!--  O Remember, Remember -->
+          <videoref ref="2012-10-008"/>  <!--  Ordinances and Covenants - The Spirit of Elijah -->
+          <videoref ref="2011-08-01"/>   <!--  The Time is Now -->
+          <!--<videoref ref="2012-03-1060"/>   NOT AVAILABLE: A Heaven-Inspired Program -->
+        </category>
+        <category name="September" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-september.jpg">
+          <videoref ref="2011-03-10"/>   <!--  God Gave Them Knowledge -->
+        </category>
+      </category>
+      <category name="Young Women" thumbnail="http://glancyfamily.net/ldsml/cfm-young-women.jpg">
+        <category name="July" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-july.jpg">
+          <videoref ref="2012-05-005"/>  <!--  Dare to Stand Alone -->
+          <videoref ref="2011-10-017"/>  <!--  Opportunities to Do Good -->
+          <videoref ref="2012-01-002b"/> <!--  Temples are a Beacon -->
+          <videoref ref="2013-02-0290"/> <!--  Faith in the Power of the Priesthood -->
+        </category>
+        <category name="August" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-august.jpg">
+          <videoref ref="2009-01-08"/>   <!--  A Brand New Year; Dating -->
+          <videoref ref="2011-05-003"/>  <!--  Chastity: what are the limits? -->
+          <videoref ref="2011-02-001"/>  <!--  Families Can Be Together Forever -->
+          <videoref ref="2012-10-009"/>  <!--  Home and Family - Through Small Things -->
+          <videoref ref="2011-07-004"/>  <!--  I Choose to Be Pure -->
+          <videoref ref="2010-06-13"/>   <!--  Motherhood: An Eternal Partnership with God -->
+          <videoref ref="2012-10-010"/>  <!--  Standards: Sexual Purity and Modesty - True Confidence -->
+          <videoref ref="2009-08-32"/>   <!--  The Women in Our Lives -->
+          <videoref ref="2013-02-0240"/> <!--  The Home Is a Divine Institution -->
+          <videoref ref="2013-02-0250"/> <!--  Loving God's Children -->
+          <videoref ref="2010-06-0070"/> <!--  Mothers and Daughters -->
+        </category>
+        <category name="September" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-september.jpg">
+          <videoref ref="2011-04-006"/>  <!--  195 Dresses -->
+          <videoref ref="2011-05-003"/>  <!--  Chastity: what are the limits? -->
+          <videoref ref="2012-05-005"/>  <!--  Dare to Stand Alone -->
+          <videoref ref="2011-04-103"/>  <!--  Guardians of Virtue -->
+          <videoref ref="2011-05-011"/>  <!--  Honesty: You Better Believe It! -->
+          <videoref ref="2010-11-01"/>   <!--  No Cussing Club -->
+          <videoref ref="2012-10-013"/>  <!--  Stand Ye in Holy Places - Bloom Where Planted -->
+          <videoref ref="2011-10-0070"/> <!--  The Lost Purse -->
+          <videoref ref="2011-07-013"/>  <!--  Watch Your Step -->
+          <videoref ref="2012-01-001a"/> <!--  Deep Beauty -->
+        </category>
+      </category>
+    </category>
+  </categories>
+  <videos>
+    <video id ="2012-05-005" name="Dare to Stand Alone" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-720p-eng.mp4"/>	   
+    <video id ="2011-10-017" name="Opportunities to Do Good" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-10-017-opportunities-to-do-good-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-10-017-opportunities-to-do-good-720p-eng.mp4"/>
+    <video id ="2011-03-005" name="Same Jersey" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-03-005-same-jersey-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-03-005-same-jersey-720p-eng.mp4"/>
+    <video id ="2011-09-005" name="Sanctify Yourselves" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-09-005-sanctify-yourselves-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-09-005-sanctify-yourselves-720p-eng.mp4"/>
+    <video id ="2011-04-19" name="Special Witness - Elder Oaks" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-04-19-special-witness-elder-oaks-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/general-authority-features/prophets-and-apostles-speak-today/2011-04-19-special-witness-elder-oaks-1000k-eng.mp4"/>
+			<!-- 500, 1000, 2500 -->
+    <video id ="2012-01-002b" name="Temples are a Beacon" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-01-002-temples-are-a-beacon-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-002-temples-are-a-beacon-720p-eng.mp4"/> <!--  collision with Your Day for a Mission -->
+    <video id ="2012-10-007" name="The Temple - Always in Our Sights" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-007-the-temple-always-in-our-sights-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-007-the-temple-always-in-our-sights-720p-eng.mp4"/>
+    <video id ="2013-02-0290" name="Faith in the Power of the Priesthood" thumbnail="http://media.ldscdn.org/images/videos/general-conference/april-2013-general-conference/2013-04-1070-president-henry-b-eyring-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0290-first-presidency-message-faith-in-the-power-of-the-priesthood-1000k-eng.mp4"/>
+    <video id ="2009-01-08" name="A Brand New Year Dating" thumbnail="http://media.ldscdn.org/images/videos/youth/a-brand-new-year-2009/2009-01-08-a-brand-new-year-dating-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/a-brand-new-year-2009/2009-01-08-a-brand-new-year-dating-720p-eng.mp4"/>
+			<!-- no 1080p -->		   
+    <video id ="2010-12-016" name="A Work in Progress" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-12-0160-a-work-in-progress-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-12-0160-a-work-in-progress-720p-eng.mp4"/>	
+    <video id ="2011-05-003" name="Chastity: what are the limits?" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-720p-eng.mp4"/>
+    <video id ="2011-02-001" name="Families Can Be Together Forever" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-02-001-families-can-be-together-forever-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-02-001-families-can-be-together-forever-720p-eng.mp4"/>
+			<!-- no 1080p -->		   
+    <video id ="2012-10-009" name="Home and Family - Through Small Things" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-009-home-and-family-through-small-things-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-009-home-and-family-through-small-things-720p-eng.mp4"/>
+    <video id ="2009-02-05" name="How Do I Love Thee?" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-02-05-how-do-i-love-thee-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-02-05-how-do-i-love-thee-360p-eng.mp4"/>
+			<!-- best resolution is 360p -->			   
+    <video id ="2011-07-004" name="I Choose to Be Pure" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-07-004-i-choose-to-be-pure-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-07-004-i-choose-to-be-pure-720p-eng.mp4"/>
+    <video id ="2009-06-24" name="Let Us Be Men" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-06-24-let-us-be-men-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-06-24-let-us-be-men-720p-eng.mp4"/>
+    <video id ="2010-06-13" name="Motherhood: An Eternal Partnership with God" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-06-13-motherhood-an-eternal-partnership-with-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-06-13-motherhood-an-eternal-partnership-with-god-720p-eng.mp4"/>
+    <video id ="2009-05-22" name="O Remember, Remember" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-05-22-o-remember-remember-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/mormon-messages/2009-05-22-o-remember-remember-1000k-eng.mp4"/>
+			<!-- 500, 1000, 1300 -->
+    <video id ="2012-10-008" name="Ordinances and Covenants - The Spirit of Elijah" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-008-ordinances-and-covenants-the-spirit-of-elijah-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-008-ordinances-and-covenants-the-spirit-of-elijah-720p-eng.mp4"/>
+    <video id ="2012-10-010" name="Standards: Sexual Purity and Modesty - True Confidence" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-010-standards-sexual-purity-and-modesty-true-confidence-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-010-standards-sexual-purity-and-modesty-true-confidence-720p-eng.mp4"/>
+    <video id ="2011-08-01" name="The Time is Now" thumbnail="http://media.ldscdn.org/images/videos/family-history/the-time-is-now/2011-08-01-the-time-is-now-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/family-history/the-time-is-now/2011-08-01-the-time-is-now-720p-eng.mp4"/>
+    <video id ="2009-08-32" name="The Women in Our Lives" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-08-32-the-women-in-our-lives-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-08-32-the-women-in-our-lives-720p-eng.mp4"/>
+			<!-- no 1080p -->		   
+    <video id ="2010-08-000" name="Two Brothers Apart" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-08-0002-two-brothers-apart-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-08-0002-two-brothers-apart-480p-eng.mp4"/>
+			<!-- only 360 and 480 -->		   
+	<video id ="2010-06-0080" name="Fathers and Sons" thumbnail="http://www.mormonchannel.org/sites/default/files/styles/ribbon_image_wide/public/brightcove/831339398001_2165549644001_2010-06-0080-fathers-and-sons-768x432-still.jpg"
+           url="http://broadcast2.lds.org/mormon-messages-for-youth/2010-06-0080-fathers-and-sons-1000k-eng.mp4"/>
+	<video id ="2013-02-0240" name="The Home Is a Divine Institution" thumbnail="http://media.ldscdn.org/images/videos/general-conference/april-2013-general-conference/2013-04-1060-elder-m-russell-ballard-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0240-blessings-of-the-priesthood-in-every-home-the-home-is-a-divine-institution-1000k-eng.mp4"/>
+			<!-- 500, 1000, 1300 -->
+	<video id ="2013-02-0190" name="Fathers Can Use the Priesthood to Bless Their Families" thumbnail="http://glancyfamily.net/ldsml/2013-02-0190-fathers-can-use-the-priesthood-to-bless-their-families.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0190-the-power-of-the-priesthood-in-the-family-fathers-can-use-the-priesthood-to-bless-their-families-1000k-eng.mp4"/>
+			<!-- 500, 1000, 1300 -->
+	<video id ="2013-02-0250" name="Loving God's Children" thumbnail="http://glancyfamily.net/ldsml/2013-02-0250-loving-gods-children.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0250-bringing-up-children-in-light-and-truth-loving-gods-children-1000k-eng.mp4"/>
+			<!-- 500, 1000, 1300 -->
+    <video id ="2010-06-0070" name="Mothers and Daughters" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2010/2010-06-0070-mothers-and-daughters-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-06-0070-mothers-and-daughters-720p-eng.mp4"/>
+ 
+    <!--
+    <video id ="2012-03-1060" name="A Heaven-Inspired Program" thumbnail="http://www.lds.org/youth/bc/youth/learn/ss/marriage-and-family/opportunities/images/What%20opportunities%20are%20there%20for%20learning%20and%20teaching%20in%20the%20home%20-%20AV061023_yv0052-header.jpg"
+           url="http://broadcast2.lds.org/leadership-training/ldsorg-web-videos/2012-03-1060-a-heaven-inspired-program-720p-eng.mp4"/>
+    FILE NOT PRESENT from: https://www.lds.org/youth/learn/ss/marriage-and-family/opportunities?lang=eng#downloads 
+	-->
+ 
+    <video id ="2011-04-006" name="195 Dresses" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-04-006-195-dresses-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-720p-eng.mp4"/>
+    <video id ="2011-05-003" name="Chastity: what are the limits?" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-720p-eng.mp4"/>
+    <video id ="2012-05-005" name="Dare to Stand Alone" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-05-005-dare-to-stand-alone-720p-eng.mp4"/>
+    <video id ="2011-03-10" name="God Gave Them Knowledge" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-10-god-gave-them-knowledge-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-10-god-gave-them-knowledge-720p-eng.mp4"/>
+			<!-- no 1080p -->		   
+    <video id ="2011-04-103" name="Guardians of Virtue" thumbnail="http://media.ldscdn.org/images/videos/youth/april-2011-general-conference-youth-highlights/2011-04-1030-guardians-of-virtue-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/april-2011-general-conference-youth-highlights/2011-04-1030-guardians-of-virtue-720p-eng.mp4"/>
+    <video id ="2011-05-011" name="Honesty: You Better Believe It!" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-05-011-honesty-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-011-honesty-you-better-believe-it-720p-eng.mp4"/>
+    <video id ="2010-11-01" name="No Cussing Club" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-11-01-no-cussing-club-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-01-no-cussing-club-720p-eng.mp4"/>
+    <video id ="2012-10-013" name="Stand Ye in Holy Places - Bloom Where Planted" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-013-stand-ye-in-holy-places-bloom-where-youre-planted-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-013-stand-ye-in-holy-places-bloom-where-youre-planted-720p-eng.mp4"/>
+    <video id ="2011-10-0070" name="The Lost Purse" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-10-007-the-lost-purse-720p-eng.mp4"/>
+    <video id ="2011-03-20" name="To Look Upon" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-20-to-look-upon-720p-eng.mp4"/>
+			<!-- no 1080p -->		   
+    <video id ="2011-07-013" name="Watch Your Step" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-07-013-watch-your-step-720p-eng.mp4"/>
+    <video id ="2012-01-001a" name="Deep Beauty" thumbnail="http://media.ldscdn.org/thumbnails/2012-01-001-deep-beauty-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-messages-for-youth/mormon-messages-for-youth-2012/2012-01-001-deep-beauty-720p-eng.mp4"/> <!-- collision in name with number for Power of God" -->
+  </videos>
+</library>
+                                                                      
