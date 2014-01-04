@@ -2,8 +2,14 @@
 <library name="LDS Media">
   <categories>
     <category name="Bible Videos - The Life of Jesus Christ" thumbnail="http://glancyfamily.net/ldsml/bv-the-life-of-christ.jpg">
-        <videoref ref ="2011-10-061"/>
+        <videoref ref ="2011-10-067"/>
+        <videoref ref ="2011-10-066"/>
+        <videoref ref ="2011-10-065"/>
+        <videoref ref ="2011-10-064"/>
+        <videoref ref ="2011-10-063"/>
+        <videoref ref ="2011-10-062"/>
         <videoref ref ="2011-10-060"/>
+        <videoref ref ="2011-10-061"/>
         <videoref ref ="2011-10-059"/>
         <videoref ref ="2011-10-058"/>
         <videoref ref ="2011-10-057"/>
@@ -66,6 +72,18 @@
     </category>
   </categories>
   <videos>
+    <video id ="2011-10-067" name="The Nativity"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-067-the-nativity-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-067-the-nativity-720p-eng.mp4"/>  
+    <video id ="2011-10-066" name="Jesus Heals a Man Born Blind"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-066-jesus-heals-a-man-born-blind-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-066-jesus-heals-a-man-born-blind-720p-eng.mp4"/>  
+    <video id ="2011-10-065" name="Jesus Teaches that We Must Become as Little Children"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-065-jesus-teaches-that-we-must-become-as-little-children-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-065-jesus-teaches-that-we-must-become-as-little-children-720p-eng.mp4"/>  
+    <video id ="2011-10-064" name="Suffer the Little Children to Come unto Me"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-064-suffer-the-little-children-to-come-unto-me-720p-eng.mp4"/>  
+    <video id ="2011-10-063" name="Jesus Declares the Parable of the Lost Sheep"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-063-jesus-declares-the-parable-of-the-lost-sheep-720p-eng.mp4"/>  
+    <video id ="2011-10-062" name="Jesus Heals a Lame Man on the Sabbath"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-062-jesus-heals-a-lame-man-on-the-sabbath-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-062-jesus-heals-a-lame-man-on-the-sabbath-720p-eng.mp4"/>  
     <video id ="2011-10-061" name="Seek Ye the Kingdom of God"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-061-seek-first-the-kingdom-of-god-216x108-thumb.jpg"
            url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-061-seek-ye-the-kingdom-of-god-720p-eng.mp4"/>  
     <video id ="2011-10-060" name="Follow Me, and I Will Make You Fishers of Men"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-060-follow-me-and-i-will-make-you-fishers-of-men-216x108-thumb.jpg"
