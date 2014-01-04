@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+    <category name="Come, Follow Me" thumbnail="http://glancyfamily.net/ldsml/cfm-introduction.jpg">
+      <category name ="Aaronic Priesthood" thumbnail="http://glancyfamily.net/ldsml/cfm-aaronic-priesthood.jpg">
+        <category name="01 - January" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-january.jpg">
+          <videoref ref ="2010-06-0080"/> <!-- Fathers & Sons -->
+          <videoref ref ="2012-10-002"/>  <!-- Godhead - He Knows Me -->
+          <videoref ref ="2012-04-004"/>  <!-- Fulfilling Your Duty to God -->
+          <videoref ref ="2008-06-01"/>   <!-- The Restoration -->
+          <videoref ref ="2012-08-008"/>  <!-- Reclaimed -->
+          <videoref ref ="2010-08-16"/>   <!-- Voice of the Spirit -->
+          <videoref ref ="2012-06-006"/>  <!-- Enemy Territory -->
+          <videoref ref ="2011-03-50"/>   <!-- I Am a Son of God -->
+          <videoref ref ="2010-04-20"/>   <!-- Our True Identity -->
+          <videoref ref ="2013-01-001"/>  <!-- Your Potential, Your Privileges -->
+        </category>
+        <category name="02 - February" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-february.jpg">
+          <videoref ref ="2010-12-09"/>   <!-- Inviting All to Come unto Christ:  Sharing the Gospel -->
+          <videoref ref ="2012-04-004"/>  <!-- Fulfilling Your Duty to God -->
+          <videoref ref ="2011-11-020"/>  <!-- Men's Hearts Shall Fail Them -->
+          <videoref ref ="2010-07-002"/>  <!-- The Plan of Salvation -->
+          <videoref ref ="2012-07-007"/>  <!-- Stay within the Lines -->
+          <videoref ref ="2010-07-0001"/> <!-- No Regrets -->
+          <videoref ref ="2012-02-003"/>  <!-- God Will Lift Us Up -->
+          <videoref ref ="2012-10-001"/>  <!-- We’re Still a Family -->
+          <videoref ref ="2011-01-002"/>  <!-- He Will You Give You Help -->
+          <videoref ref ="2010-11-0110"/> <!-- Mormon Mustang -->
+          <videoref ref ="2011-05-003"/>  <!-- Chastity: what are the limits? -->
+          <videoref ref ="2010-05-11"/>   <!-- Until We Meet Again -->
+		  <videoref ref ="2013-02-0320"/> <!-- The Priesthood Can Strengthen Our Families in Trials -->
+		  <videoref ref ="2012-05-1606"/> <!-- Rebuilding Lives -->
+        </category>
+        <category name="03 - March" thumbnail="http://glancyfamily.net/ldsml/cfm-ap-march.jpg">
+          <videoref ref ="2010-05-0060"/> <!-- The Magnificent Priesthood -->
+          <videoref ref ="2011-09-005"/>  <!-- Sanctify Yourselves -->
+          <videoref ref ="2011-12-05"/>   <!-- Pure and Simple Faith -->
+          <videoref ref ="2012-10-003"/>  <!-- Atonement - Not a One-Time Thing -->
+          <videoref ref ="2010-12-0150"/> <!-- Within Bounds -->
+          <videoref ref ="2010-07-14"/>   <!-- Forgiveness: My Burden Was Made Light -->
+          <videoref ref ="2012-08-008"/>  <!-- Reclaimed -->
+          <videoref ref ="2011-10-025"/>  <!-- He is Risen -->
+          <videoref ref ="2012-02-003"/>  <!-- God Will Lift Us Up -->
+          <videoref ref ="2009-04-14"/>   <!-- An Apostle's Easter Thoughts on Christ - None Were With Him -->
+          <videoref ref ="2011-10-056"/>  <!-- Forgive 70 Times 7 -->
+          <videoref ref ="2013-01-003"/>  <!-- Mountains to Climb -->
+        </category>
+      </category>
+      <category name="Sunday School" thumbnail="http://glancyfamily.net/ldsml/cfm-sunday-school.jpg">
+        <category name="01 - January" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-january.jpg">
+          <videoref ref ="2011-08-015"/>  <!-- The Blessings of Scripture -->
+          <videoref ref ="2009-05-22"/>   <!-- O Remember, Remember -->
+          <videoref ref ="2010-03-05"/>   <!-- The Tender Mercies of the Lord -->
+          <videoref ref ="2011-06-02a"/>  <!-- God is Our Father -->
+          <videoref ref ="2011-06-03"/>   <!-- We Lived with God -->
+		  <videoref ref ="2012-01-014"/>  <!-- The Will of God -->
+        </category>
+        <category name="02 - February" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-february.jpg">
+          <videoref ref ="2012-03-1050"/>  <!-- Teaching Helps Save Lives -->
+       </category>
+        <category name="03 - March" thumbnail="http://glancyfamily.net/ldsml/cfm-ss-march.jpg">
+          <videoref ref ="2011-12-05"/>   <!-- Pure and Simple Faith -->
+          <videoref ref ="2012-08-008"/>  <!-- Reclaimed -->
+          <videoref ref ="2010-07-14"/>   <!-- Forgiveness: My Burden Was Made Light -->
+          <videoref ref ="2011-10-025"/>  <!-- He is Risen -->
+          <videoref ref ="2012-02-003"/>  <!-- God Will Lift Us Up -->
+		  <videoref ref ="2009-10-38"/>   <!-- Lifting Burdens -->
+          <videoref ref ="2011-05-010"/>  <!-- Book of Mormon Introduction (An Apostle's Introduction) -->
+          <videoref ref ="2007-01-0005"/> <!-- The Mediator -->
+          <videoref ref ="2011-04-19"/>   <!-- Special Witness - Dallin H. Oaks -->
+          <videoref ref ="2011-04-21"/>   <!-- Special Witness - Richard G. Scott -->
+          <videoref ref ="2011-04-22"/>   <!-- Special Witness - Robert D. Hales -->
+          <videoref ref ="2011-04-23"/>   <!-- Special Witness - Jeffrey R. Holland -->
+          <videoref ref ="2011-04-24"/>   <!-- Special Witness - David A. Bednar -->
+          <videoref ref ="2011-04-25"/>   <!-- Special Witness - Quentin L. Cook -->
+          <videoref ref ="2011-04-26"/>   <!-- Special Witness - D. Todd Christofferson -->
+		  <videoref ref ="2011-04-27"/>   <!-- Special Witness - Neil L. Andersen -->
+        </category>
+      </category>
+      <category name="Young Women" thumbnail="http://glancyfamily.net/ldsml/cfm-young-women.jpg">
+        <category name="01 - January" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-january.jpg">
+          <videoref ref ="2008-06-01"/>   <!-- The Restoration -->
+          <videoref ref ="2012-10-002"/>  <!-- Godhead - He Knows Me -->
+          <videoref ref ="2010-01-01"/>   <!-- Prayer -->
+          <videoref ref ="2011-01-002"/>  <!-- He Will You Give You Help -->
+          <videoref ref ="2012-08-008"/>  <!-- Reclaimed -->
+          <videoref ref ="2010-08-16"/>   <!-- Voice of the Spirit -->
+          <videoref ref ="2010-04-0040"/> <!-- Significant in Every Way -->
+          <videoref ref ="2010-04-20"/>   <!-- Our True Identity -->
+		  <videoref ref ="2009-10-38"/>   <!-- Lifting Burdens -->
+		  <videoref ref ="2009-01-02"/>   <!-- The Only True God and Jesus Christ Whom He Has Sent -->
+		  <videoref ref ="2010-03-07"/>   <!-- He Lives: Testimonies of Jesus Christ -->
+        </category>
+        <category name="02 - February" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-february.jpg">
+          <videoref ref ="2011-11-020"/>  <!-- Men's Hearts Shall Fail Them -->
+          <videoref ref ="2010-07-002"/>  <!-- The Plan of Salvation -->
+          <videoref ref ="2010-07-0001"/> <!-- No Regrets -->
+          <videoref ref ="2012-02-003"/>  <!-- God Will Lift Us Up -->
+          <videoref ref ="2012-10-001"/>  <!-- We’re Still a Family -->
+          <videoref ref ="2011-01-002"/>  <!-- He Will You Give You Help -->
+          <videoref ref ="2011-05-003"/>  <!-- Chastity: what are the limits? -->
+          <videoref ref ="2011-04-006"/>  <!-- 195 Dresses -->
+          <videoref ref ="2010-05-11"/>   <!-- Until We Meet Again -->
+		  <videoref ref ="2013-02-0320"/> <!-- The Priesthood Can Strengthen Our Families in Trials -->
+		  <videoref ref ="2012-05-1606"/> <!-- Rebuilding Lives -->
+        </category>
+        <category name="03 - March" thumbnail="http://glancyfamily.net/ldsml/cfm-yw-march.jpg">
+          <videoref ref ="2010-07-14"/>   <!-- Forgiveness: My Burden Was Made Light -->
+          <videoref ref ="2011-05-010"/>  <!-- Book of Mormon Introduction (An Apostle's Introduction) -->
+          <videoref ref ="2007-01-0005"/> <!-- The Mediator -->
+          <videoref ref ="2011-05-007"/>  <!-- A Change of Heart -->
+          <videoref ref ="2012-10-003"/>  <!-- Atonement - Not a One-Time Thing -->
+		  <videoref ref ="2009-04-14"/>   <!-- An Apostle's Easter Thoughts on Christ - None Were With Him -->
+          <videoref ref ="2011-12-05"/>   <!-- Pure and Simple Faith -->
+		  <videoref ref ="2013-03-004"/>  <!-- Courage -->
+          <videoref ref ="2012-08-008"/>  <!-- Reclaimed -->
+          <videoref ref ="2011-10-056"/>  <!-- Forgive 70 Times 7 -->
+          <videoref ref ="2011-10-025"/>  <!-- He is Risen -->
+          <videoref ref ="2013-01-003"/>  <!-- Mountains to Climb -->
+          <videoref ref ="2012-02-003"/>  <!-- God Will Lift Us Up -->
+        </category>
+      </category>
+    </category>
+  </categories>
+  <videos>
+    <video id ="2012-06-006" name="Enemy Territory" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-06-006-enemy-territory-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-06-006-enemy-territory-1080p-eng.mp4"/>
+    <video id ="2012-04-004" name="Fulfilling Your Duty to God" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-04-004-fulfilling-your-duty-to-god-1080p-eng.mp4"/>
+    <video id ="2011-06-02a" name="God is Our Father" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-heavenly-fathers-plan/2011-06-02-god-is-our-father-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-heavenly-fathers-plan/2011-06-02-god-is-our-father-1080p-eng.mp4"/>
+    <video id ="2012-10-002" name="Godhead - He Knows Me" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-002-godhead-he-knows-me-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-002-godhead-he-knows-me-1080p-eng.mp4"/>
+    <video id ="2011-01-002" name="He Will You Give You Help" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-01-002-he-will-give-you-help-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-01-002-he-will-give-you-help-1080p-eng.mp4"/>
+    <video id ="2011-03-50" name="I Am a Son of God" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/old-testament-visual-resource/2011-03-50-i-am-a-son-of-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/old-testament-visual-resource/2011-03-50-i-am-a-son-of-god-720p-eng.mp4"/>
+    <video id ="2009-05-22" name="O Remember, Remember" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-05-22-o-remember-remember-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/mormon-messages/2009-05-22-o-remember-remember-1300k-eng.mp4"/>
+    <video id ="2010-04-20" name="Our True Identity" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2010/2010-04-20-our-true-identity-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-04-20-our-true-identity-1080p-eng.mp4"/>
+    <video id ="2010-01-01" name="Prayer" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-01-01-prayer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-01-01-prayer-1080p-eng.mp4"/>
+    <video id ="2012-08-008" name="Reclaimed" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-08-008-reclaimed-1080p-eng.mp4"/>
+    <video id ="2010-04-0040" name="Significant in Every Way" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-04-0040-significant-in-every-way-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-04-0040-significant-in-every-way-720p-eng.mp4"/>
+    <video id ="2011-08-015" name="The Blessings of Scripture" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-08-015-the-blessings-of-scripture-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-08-015-the-blessings-of-scripture-1080p-eng.mp4"/>
+    <video id ="2008-06-01" name="The Restoration" thumbnail="http://media.ldscdn.org/images/videos/feature-films/the-restoration/2008-06-01-the-restoration-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-1080p-eng.mp4"/>
+    <video id ="2010-03-05" name="The Tender Mercies of the Lord" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-05-the-tender-mercies-of-the-lord-1080p-eng.mp4"/>
+    <video id ="2010-08-16" name="Voice of the Spirit" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-08-16-voice-of-the-spirit-1080p-eng.mp4"/>
+    <video id ="2011-06-03" name="We Lived with God" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-heavenly-fathers-plan/2011-06-03-we-lived-with-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-heavenly-fathers-plan/2011-06-03-we-lived-with-god-1080p-eng.mp4"/>
+    <video id ="2010-06-0080" name="Fathers &amp; Sons" thumbnail="http://www.mormonchannel.org/sites/default/files/styles/ribbon_image_wide/public/brightcove/831339398001_2165549644001_2010-06-0080-fathers-and-sons-768x432-still.jpg"
+           url="http://broadcast2.lds.org/mormon-messages-for-youth/2010-06-0080-fathers-and-sons-1000k-eng.mp4"/>
+    
+    <video id ="2011-04-006" name="195 Dresses" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-04-006-195-dresses-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-04-006-195-dresses-1080p-eng.mp4"/>
+    <video id ="2011-05-003" name="Chastity: what are the limits?" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-05-003-chastity-what-are-the-limits-1080p-eng.mp4"/>
+    <video id ="2012-02-003" name="God Will Lift Us Up" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-02-003-god-will-lift-us-up-1080p-eng.mp4"/>
+    <video id ="2010-12-09" name="Inviting All to Come unto Christ: Sharing the Gospel" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2011/2010-12-09-inviting-all-to-come-unto-christ-sharing-the-gospel-1080p-eng.mp4"/>
+    <video id ="2011-11-020" name="Men's Hearts Shall Fail Them" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-11-020-mens-hearts-shall-fail-them-1080p-eng.mp4"/>
+    <video id ="2010-11-0110" name="Mormon Mustang" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-11-0110-mormon-mustang-1080p-eng.mp4"/>
+    <video id ="2010-07-0001" name="No Regrets" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2010/2010-07-0001-no-regrets-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2010/2010-07-0001-no-regrets-1080p-eng.mp4"/>
+    <video id ="2012-10-001" name="We’re Still a Family" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-001-plan-of-salvation-were-still-a-family-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-001-plan-of-salvation-were-still-a-family-1080p-eng.mp4"/>
+    <video id ="2012-07-007" name="Stay within the Lines" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2012/2012-07-007-stay-within-the-lines-1080p-eng.mp4"/>
+    <video id ="2012-03-1050" name="Teaching Helps Save Lives" thumbnail="http://media.ldscdn.org/images/videos/leadership-training/ldsorg-web-videos/2012-03-1050-teaching-helps-save-lives-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/sunday-school/2012-03-1050-teaching-helps-save-lives-1000k-eng.mp4"/>
+    <video id ="2010-07-002" name="The Plan of Salvation" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-002-the-plan-of-salvation-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-002-the-plan-of-salvation-480p-eng.mp4"/>
+    <video id ="2010-05-11" name="Until We Meet Again" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-05-11-until-we-meet-again-720p-eng.mp4"/>
+
+    <video id ="2011-05-007" name="A Change of Heart" thumbnail="http://media.ldscdn.org/images/videos/youth/from-every-nation-2011/2011-05-007-a-change-of-heart-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/from-every-nation-2011/2011-05-007-a-change-of-heart-1080p-eng.mp4"/>
+    <video id ="2012-10-003" name="Atonement - Not a One-Time Thing" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2013/2012-10-003-atonement-not-a-one-time-thing-1080p-eng.mp4"/>
+    <video id ="2011-05-010" name="Book of Mormon Introduction" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2011/2011-05-010-book-of-mormon-introduction-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-010-book-of-mormon-introduction-1080p-eng.mp4"/>
+    <video id ="2010-07-14" name="Forgiveness: My Burden Was Made Light" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-07-14-forgiveness-my-burden-was-made-light-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-07-14-forgiveness-my-burden-was-made-light-1080p-eng.mp4"/>
+    <video id ="2011-10-025" name="He is Risen" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-025-he-is-risen-1080p-eng.mp4"/>
+    <video id ="2011-12-05" name="Pure and Simple Faith" thumbnail="http://media.ldscdn.org/images/videos/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/strength-of-youth-media-2012/2011-12-05-pure-and-simple-faith-1080p-eng.mp4"/>
+    <video id ="2011-09-005" name="Sanctify Yourselves" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2011/2011-09-005-sanctify-yourselves-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2011/2011-09-005-sanctify-yourselves-1080p-eng.mp4"/>
+    <video id ="2010-05-0060" name="The Magnificent Priesthood" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2010/2010-05-0060-the-magnificent-priesthood-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/youth/mormon-messages-for-youth-2010/2010-05-0060-the-magnificent-priesthood-1080p-eng.mp4"/>
+    <video id ="2007-01-0005" name="The Mediator" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0005-the-mediator-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0005-the-mediator-480p-eng.mp4"/>
+    <video id ="2010-12-0150" name="Within Bounds" thumbnail="http://media.ldscdn.org/images/videos/youth/mormon-messages-for-youth-2010/2010-12-0150-within-bounds-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/mormon-messages-for-youth/2010-12-0150-within-bounds-1000k-eng.mp4"/>
+
+    <video id ="2013-01-001" name="Your Potential, Your Privileges" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2013/2013-01-001-your-potential-your-privileges-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-001-your-potential-your-privileges-1080p-eng.mp4"/>
+    <video id ="2013-02-0320" name="The Priesthood Can Strengthen Our Families in Trials" thumbnail="http://glancyfamily.net/ldsml/2013-02-0320.jpg"
+           url="http://broadcast2.lds.org/worldwide-leadership-training/2013/2013-02-0320-first-presidency-message-the-priesthood-can-strengthen-our-families-in-trial-1000k-eng.mp4"/>
+    <video id ="2012-05-1606" name="Rebuilding Lives" thumbnail="http://glancyfamily.net/ldsml/2012-05-1606.jpg"
+           url="http://broadcast2.lds.org/church-history/church-history-presidents-of-the-church/2012-05-1606-ministry-of-thomas-s-monson-rebuilding-lives-720p-eng.mp4"/>
+    <video id ="2009-04-14" name="An Apostle's Easter Thoughts on Christ - None Were With Him" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-04-14-none-were-with-him-192x108-thumb.jpg"
+           url="http://broadcast2.lds.org/mormon-messages/2009-04-14-none-were-with-him-1000k-eng.mp4"/>
+    <video id ="2011-10-056" name="Forgive 70 Times 7"  thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-216x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/the-life-of-jesus-christ-bible-videos/2011-10-056-forgive-70-times-7-1080p-eng.mp4"/>
+    <video id ="2013-01-003" name="Mountains to Climb" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2013/2013-01-003-mountains-to-climb-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-01-003-mountains-to-climb-1080p-eng.mp4"/>
+    <video id ="2012-01-014" name="The Will of God" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2012/2012-00-014-the-will-of-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2012/2012-01-014-the-will-of-god-1080p-eng.mp4"/>
+    <video id ="2009-10-38" name="Lifting Burdens" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-10-38-lifting-burdens-1080p-eng.mp4"/>
+    <video id ="2011-04-19" name="Special Witness - Dallin H. Oaks" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-04-19-special-witness-elder-oaks-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-04-19-special-witness-elder-oaks-1080p-eng.mp4"/>
+    <video id ="2011-04-21" name="Special Witness - Richard G. Scott" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-04-21-special-witness-elder-scott-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-04-21-special-witness-elder-scott-1080p-eng.mp4"/>
+    <video id ="2011-04-22" name="Special Witness - Robert D. Hales" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-04-22-special-witness-elder-hales-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-04-22-special-witness-elder-hales-1080p-eng.mp4"/>
+    <video id ="2011-04-23" name="Special Witness - Jeffrey R. Holland" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-04-23-special-witness-elder-holland-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-04-23-special-witness-elder-holland-1080p-eng.mp4"/>
+    <video id ="2011-04-24" name="Special Witness - David A. Bednar" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-04-24-special-witness-elder-bednar-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-04-24-special-witness-elder-bednar-1080p-eng.mp4"/>
+    <video id ="2011-04-25" name="Special Witness - Quentin L. Cook" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-04-25-special-witness-elder-cook-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-04-25-special-witness-elder-cook-1080p-eng.mp4"/>
+    <video id ="2011-04-26" name="Special Witness - D. Todd Christofferson" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-04-26-special-witness-elder-christofferson-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-04-26-special-witness-elder-christofferson-1080p-eng.mp4"/>
+    <video id ="2011-04-27" name="Special Witness - Neil L. Andersen" thumbnail="http://media.ldscdn.org/images/videos/general-authority-features/prophets-and-apostles-speak-today/2011-04-27-special-witness-elder-andersen-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/general-authority-features/prophets-and-apostles-speak-today/2011-04-27-special-witness-elder-andersen-1080p-eng.mp4"/>
+    <video id ="2009-01-02" name="The Only True God and Jesus Christ Whom He Has Sent" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2009/2009-01-02-the-only-true-god-and-jesus-christ-whom-he-has-sent-1080p-eng.mp4"/>
+    <video id ="2010-03-07" name="He Lives: Testimonies of Jesus Christ" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2010/2010-03-07-he-lives-testimonies-of-jesus-christ-720p-eng.mp4"/>
+    <video id ="2013-03-004" name="Courage" thumbnail="http://media.ldscdn.org/images/videos/mormon-channel/mormon-messages-2013/2013-00-004-courage-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2013/2013-03-004-courage-1080p-eng.mp4"/>
+  </videos>
+</library>
