@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+<!-- 55 videos: 2@1080p, 3@720p, 3@480p, 47@360p -->
+    <category name="Homefront TV Spots" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-041-runaway-stagecoach-138x81.jpg">
+          <videoref ref ="2009-04-002"/>  <!-- A Son Every Day -->
+          <videoref ref ="2009-04-003"/>  <!-- Answering Machine -->
+          <videoref ref ="2009-04-004"/>  <!-- At the Movies -->
+          <videoref ref ="2009-04-005"/>  <!-- Bad Hair Day -->
+          <videoref ref ="2009-04-006"/>  <!-- Blockbuster -->
+          <videoref ref ="2009-04-007"/>  <!-- Born to Play the Game -->
+          <videoref ref ="2009-04-008"/>  <!-- But Not Forgotten -->
+          <videoref ref ="2009-04-009"/>  <!-- But Why? -->
+          <videoref ref ="2009-04-010"/>  <!-- By the Hour -->
+          <videoref ref ="2009-04-011"/>  <!-- Canoe -->
+          <videoref ref ="2009-04-012"/>  <!-- Casey at the Bat -->
+          <videoref ref ="2009-04-013"/>  <!-- Cell Phone -->
+          <videoref ref ="2009-04-014"/>  <!-- Cheering Section -->
+          <videoref ref ="2009-04-056"/>  <!-- Consequences—Daughter -->
+          <videoref ref ="2009-04-015"/>  <!-- Cookies -->
+          <videoref ref ="2009-04-016"/>  <!-- Crayon -->
+          <videoref ref ="2009-04-017"/>  <!-- Dinner Conversation -->
+          <videoref ref ="2009-04-018"/>  <!-- Dream Car -->
+          <videoref ref ="2009-04-019"/>  <!-- Dry Cleaner -->
+          <videoref ref ="2009-04-020"/>  <!-- Family Harmony -->
+          <videoref ref ="2009-04-021"/>  <!-- Going to the Dogs -->
+          <videoref ref ="2009-04-022"/>  <!-- Halftime -->
+          <videoref ref ="2009-04-023"/>  <!-- Home Repair -->
+          <videoref ref ="2009-04-024"/>  <!-- Homework -->
+          <videoref ref ="2009-04-025"/>  <!-- I Want Drink -->
+          <videoref ref ="2009-04-026"/>  <!-- I've Put It Off Too Long -->
+          <videoref ref ="2009-04-027"/>  <!-- Is Mom Home? -->
+          <videoref ref ="2009-04-028"/>  <!-- Johnny Got a Job -->
+          <videoref ref ="2009-04-029"/>  <!-- Just What to Say -->
+          <videoref ref ="2009-04-057"/>  <!-- Kidnapped -->
+          <videoref ref ="2009-04-030"/>  <!-- Lasting Marriage -->
+          <videoref ref ="2009-04-031"/>  <!-- Late Night -->
+          <videoref ref ="2009-04-032"/>  <!-- Like Father Like Son -->
+          <videoref ref ="2009-04-033"/>  <!-- Little Mr. Microchip -->
+          <videoref ref ="2009-04-034"/>  <!-- Miss The Bus -->
+          <videoref ref ="2009-04-035"/>  <!-- Missing -->
+          <videoref ref ="2009-04-036"/>  <!-- Parking Spot -->
+          <videoref ref ="2009-04-037"/>  <!-- Phone Call -->
+          <videoref ref ="2009-04-038"/>  <!-- Please Sit Down -->
+          <videoref ref ="2009-04-039"/>  <!-- Pool -->
+          <videoref ref ="2009-04-040"/>  <!-- Potato Chip Trail -->
+          <videoref ref ="2009-04-041"/>  <!-- Runaway Stagecoach -->
+          <videoref ref ="2009-04-058"/>  <!-- Saturday Mornings -->
+          <videoref ref ="2009-04-042"/>  <!-- SciFi -->
+          <videoref ref ="2009-04-043"/>  <!-- Secret Agent -->
+          <videoref ref ="2009-04-044"/>  <!-- Soccer -->
+          <videoref ref ="2009-04-045"/>  <!-- Something Important to Do -->
+          <videoref ref ="2009-04-046"/>  <!-- Swashbuckler -->
+          <videoref ref ="2009-04-047"/>  <!-- The Fence -->
+          <videoref ref ="2009-04-049"/>  <!-- The Swing Set -->
+          <videoref ref ="2009-04-051"/>  <!-- Truck Talk -->
+          <videoref ref ="2009-04-052"/>  <!-- Up-Down -->
+          <videoref ref ="2009-04-053"/>  <!-- Waiting for Dad -->
+          <videoref ref ="2009-04-054"/>  <!-- Watch Videos -->
+          <videoref ref ="2009-04-055"/>  <!-- You Said -->
+    </category>
+  </categories>
+  <videos>
+<!-- Homefronts -->
+    <video id="2009-04-002" name="A Son Every Day" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-002-a-son-every-day-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-002-a-son-every-day-360p-eng.mp4"/>
+    <video id="2009-04-003" name="Answering Machine" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-003-answering-machine-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-003-answering-machine-360p-eng.mp4"/>
+    <video id="2009-04-004" name="At the Movies" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-004-at-the-movies-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-004-at-the-movies-360p-eng.mp4"/>
+    <video id="2009-04-005" name="Bad Hair Day" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-005-bad-hair-day-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-005-bad-hair-day-360p-eng.mp4"/>
+    <video id="2009-04-006" name="Blockbuster" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-006-blockbuster-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-006-blockbuster-360p-eng.mp4"/>
+    <video id="2009-04-007" name="Born to Play the Game" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-007-born-to-play-the-game-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-007-born-to-play-the-game-360p-eng.mp4"/>
+    <video id="2009-04-008" name="But Not Forgotten" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-008-but-not-forgotten-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-008-but-not-forgotten-360p-eng.mp4"/>
+    <video id="2009-04-009" name="But Why?" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-009-but-why-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-009-but-why-360p-eng.mp4"/>
+    <video id="2009-04-010" name="By the Hour" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-010-by-the-hour-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-010-by-the-hour-360p-eng.mp4"/>
+    <video id="2009-04-011" name="Canoe" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-011-canoe-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-011-canoe-360p-eng.mp4"/>
+    <video id="2009-04-012" name="Casey at the Bat" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-012-casey-at-the-bat-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-012-casey-at-the-bat-360p-eng.mp4"/>
+    <video id="2009-04-013" name="Cell Phone" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-013-cell-phone-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-013-cell-phone-360p-eng.mp4"/>
+    <video id="2009-04-014" name="Cheering Section" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-014-cheering-section-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-014-cheering-section-360p-eng.mp4"/>
+    <video id="2009-04-056" name="Consequences—Daughter" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-056-consequences-daughter-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-056-consequences-daughter-360p-eng.mp4"/>
+    <video id="2009-04-015" name="Cookies" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-015-cookies-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/public-affairs/homefronts/2009-04-015-cookies-360p-eng.mp4"/>
+    <video id="2009-04-016" name="Crayon" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-016-crayon-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-016-crayon-360p-eng.mp4"/>
+    <video id="2009-04-017" name="Dinner Conversation" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-017-dinner-conversation-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-017-dinner-conversation-360p-eng.mp4"/>
+    <video id="2009-04-018" name="Dream Car" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-018-dream-car-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/public-affairs/homefronts/2009-04-018-dream-car-360p-eng.mp4"/>
+    <video id="2009-04-019" name="Dry Cleaner" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-019-dry-cleaner-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-019-dry-cleaner-360p-eng.mp4"/>
+    <video id="2009-04-020" name="Family Harmony" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-020-family-harmony-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-020-family-harmony-360p-eng.mp4"/>
+    <video id="2009-04-021" name="Going to the Dogs" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-021-going-to-the-dogs-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/public-affairs/homefronts/2009-04-021-going-to-the-dogs-360p-eng.mp4"/>
+    <video id="2009-04-022" name="Halftime" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-022-halftime-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-022-halftime-360p-eng.mp4"/>
+    <video id="2009-04-023" name="Home Repair" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-023-home-repair-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-023-home-repair-360p-eng.mp4"/>
+    <video id="2009-04-024" name="Homework" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-024-homework-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-024-homework-360p-eng.mp4"/>
+    <video id="2009-04-025" name="I Want Drink" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-025-i-want-drink-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-025-i-want-drink-360p-eng.mp4"/>
+    <video id="2009-04-026" name="I've Put It Off Too Long" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-026-ive-put-it-off-too-long-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-026-ive-put-it-off-too-long-360p-eng.mp4"/>
+    <video id="2009-04-027" name="Is Mom Home?" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-027-is-mom-home-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-027-is-mom-home-360p-eng.mp4"/>
+    <video id="2009-04-028" name="Johnny Got a Job" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-028-johnny-got-a-job-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-028-johnny-got-a-job-360p-eng.mp4"/>
+    <video id="2009-04-029" name="Just What to Say" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-029-just-what-to-say-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-029-just-what-to-say-360p-eng.mp4"/>
+    <video id="2009-04-057" name="Kidnapped" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-057-kidnapped-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-057-kidnapped-360p-eng.mp4"/>
+    <video id="2009-04-030" name="Lasting Marriage" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-030-lasting-marriage-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-030-lasting-marriage-360p-eng.mp4"/>
+    <video id="2009-04-031" name="Late Night" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-031-late-night-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-031-late-night-360p-eng.mp4"/>
+    <video id="2009-04-032" name="Like Father Like Son" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-032-like-father-like-son-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-032-like-father-like-son-360p-eng.mp4"/>
+    <video id="2009-04-033" name="Little Mr. Microchip" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-033-little-mr-microchip-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-033-little-mr-microchip-360p-eng.mp4"/>
+    <video id="2009-04-034" name="Miss The Bus" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-034-miss-the-bus-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-034-miss-the-bus-360p-eng.mp4"/>
+    <video id="2009-04-035" name="Missing" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-035-missing-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-035-missing-360p-eng.mp4"/>
+    <video id="2009-04-036" name="Parking Spot" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-036-parking-spot-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-036-parking-spot-360p-eng.mp4"/>
+    <video id="2009-04-037" name="Phone Call" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-037-phone-call-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-037-phone-call-360p-eng.mp4"/>
+    <video id="2009-04-038" name="Please Sit Down" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-038-please-sit-down-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-038-please-sit-down-360p-eng.mp4"/>
+    <video id="2009-04-039" name="Pool" thumbnail="http://media.ldscdn.org/images/videos/news-and-public-affairs/homefronts/2009-04-039-pool-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-039-pool-360p-eng.mp4"/>
+    <video id="2009-04-040" name="Potato Chip Trail" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-040-potato-chip-trail-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-040-potato-chip-trail-360p-eng.mp4"/>
+    <video id="2009-04-041" name="Runaway Stagecoach" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-041-runaway-stagecoach-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-041-runaway-stagecoach-360p-eng.mp4"/>
+    <video id="2009-04-058" name="Saturday Mornings" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-058-saturday-mornings-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-058-saturday-mornings-360p-eng.mp4"/>
+    <video id="2009-04-042" name="SciFi" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-042-scifi-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-042-scifi-360p-eng.mp4"/>
+    <video id="2009-04-043" name="Secret Agent" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-043-secret-agent-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-043-secret-agent-360p-eng.mp4"/>
+    <video id="2009-04-044" name="Soccer" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-044-soccer-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-044-soccer-360p-eng.mp4"/>
+    <video id="2009-04-045" name="Something Important to Do" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-045-something-important-to-do-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-045-something-important-to-do-360p-eng.mp4"/>
+    <video id="2009-04-046" name="Swashbuckler" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-046-swashbuckler-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/public-affairs/homefronts/2009-04-046-swashbuckler-360p-eng.mp4"/>
+    <video id="2009-04-047" name="The Fence" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-047-the-fence-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-047-the-fence-360p-eng.mp4"/>
+    <video id="2009-04-049" name="The Swing Set" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-049-the-swing-set-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-049-the-swing-set-360p-eng.mp4"/>
+    <video id="2009-04-051" name="Truck Talk" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-051-truck-talk-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-051-truck-talk-360p-eng.mp4"/>
+    <video id="2009-04-052" name="Up-Down" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-052-up-down-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-052-up-down-360p-eng.mp4"/>
+    <video id="2009-04-053" name="Waiting for Dad" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-053-waiting-for-dad-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-053-waiting-for-dad-360p-eng.mp4"/>
+    <video id="2009-04-054" name="Watch Videos" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-054-watch-videos-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-054-watch-videos-360p-eng.mp4"/>
+    <video id="2009-04-055" name="You Said" thumbnail="http://media.ldscdn.org/thumbnails/2009-04-055-you-said-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/news-and-public-affairs/homefronts/2009-04-055-you-said-360p-eng.mp4"/>
+  </videos>
+</library>
+

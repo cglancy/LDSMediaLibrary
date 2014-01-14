@@ -36,21 +36,6 @@
       <description>568.5 MB</description>
     </item>
     <item>
-      <title>Worldwide Leadership Training 2013, 8000k</title>
-      <link>http://glancyfamily.net/ldsml/worldwide-leadership-training-2013-8000k.xml</link>
-      <description>4.2 GB</description>
-    </item>
-    <item>
-      <title>Worldwide Leadership Training 2013, 720p</title>
-      <link>http://glancyfamily.net/ldsml/worldwide-leadership-training-2013-720p.xml</link>
-      <description>1.3 GB</description>
-    </item>
-    <item>
-      <title>Worldwide Leadership Training 2013, 360p</title>
-      <link>http://glancyfamily.net/ldsml/worldwide-leadership-training-2013-360p.xml</link>
-      <description>486.8 MB</description>
-    </item>
-    <item>
       <title>Bible Videos - The Life of Jesus Christ, 1080p</title>
       <link>http://glancyfamily.net/ldsml/bible-videos-the-life-of-christ-1080p.xml</link>
       <description>13.4 GB</description>
@@ -63,22 +48,72 @@
     <item>
       <title>Bible Videos - The Life of Jesus Christ, 360p</title>
       <link>http://glancyfamily.net/ldsml/bible-videos-the-life-of-christ-360p.xml</link>
-      <description>1.5 GB</description>
+      <description>1.4 GB</description>
+    </item>
+    <item>
+      <title>Book of Mormon Topics, 480p/360p</title>
+      <link>http://glancyfamily.net/ldsml/book-of-mormon-360p.xml</link>
+      <description>4.6 GB</description>
+    </item>
+	<item>
+      <title>Feature Films, 1080p</title>
+      <link>http://glancyfamily.net/ldsml/feature-films-1080p.xml</link>
+      <description>6.5 GB</description>
+    </item>
+	<item>
+      <title>Feature Films, 720p</title>
+      <link>http://glancyfamily.net/ldsml/feature-films-720p.xml</link>
+      <description>2.7 GB</description>
+    </item>
+	<item>
+      <title>Feature Films, 360p</title>
+      <link>http://glancyfamily.net/ldsml/feature-films-360p.xml</link>
+      <description>1.7 GB</description>
+    </item>
+	<item>
+      <title>Homefront TV Spots, 1080p</title>
+      <link>http://glancyfamily.net/ldsml/homefront-tv-spots-1080p.xml</link>
+      <description>625.1 MB</description>
+    </item>
+	<item>
+      <title>Homefront TV Spots, 720p</title>
+      <link>http://glancyfamily.net/ldsml/homefront-tv-spots-720p.xml</link>
+      <description>562.3 MB</description>
+    </item>
+	<item>
+      <title>Homefront TV Spots, 360p</title>
+      <link>http://glancyfamily.net/ldsml/homefront-tv-spots-360p.xml</link>
+      <description>464.6 MB</description>
+    </item>
+	<item>
+      <title>I'm a Mormon, 1080p</title>
+      <link>http://glancyfamily.net/ldsml/i-am-a-mormon-1080p.xml</link>
+      <description>20.6 GB</description>
+    </item>
+	<item>
+      <title>I'm a Mormon, 720p</title>
+      <link>http://glancyfamily.net/ldsml/i-am-a-mormon-720p.xml</link>
+      <description>6.7 GB</description>
+    </item>
+	<item>
+      <title>I'm a Mormon, 360p</title>
+      <link>http://glancyfamily.net/ldsml/i-am-a-mormon-360p.xml</link>
+      <description>2.5 GB</description>
     </item>
     <item>
       <title>Mormon Messages, 1080p</title>
       <link>http://glancyfamily.net/ldsml/mormon-messages-1080p.xml</link>
-      <description>11.6 GB</description>
+      <description>21.7 GB</description>
     </item>
     <item>
       <title>Mormon Messages, 720p</title>
       <link>http://glancyfamily.net/ldsml/mormon-messages-720p.xml</link>
-      <description>4.5 GB</description>
+      <description>8.4 GB</description>
     </item>
     <item>
       <title>Mormon Messages, 360p</title>
       <link>http://glancyfamily.net/ldsml/mormon-messages-360p.xml</link>
-      <description>2.3 GB</description>
+      <description>3.9 GB</description>
     </item>
     <item>
       <title>Mormon Messages for Youth, 1080p</title>
@@ -94,6 +129,56 @@
       <title>Mormon Messages for Youth, 360p</title>
       <link>http://glancyfamily.net/ldsml/mormon-messages-for-youth-360p.xml</link>
       <description>1.6 GB</description>
+    </item>
+    <item>
+      <title>Scripture Stories (Animated), 1080p</title>
+      <link>http://glancyfamily.net/ldsml/scripture-stories-animated-1080p.xml</link>
+      <description>19.1 GB</description>
+    </item>
+	<item>
+      <title>Scripture Stories (Animated), 720p</title>
+      <link>http://glancyfamily.net/ldsml/scripture-stories-animated-720p.xml</link>
+      <description>8.1 GB</description>
+    </item>
+	<item>
+      <title>Scripture Stories (Animated), 360p</title>
+      <link>http://glancyfamily.net/ldsml/scripture-stories-animated-360p.xml</link>
+      <description>4.4 GB</description>
+    </item>
+    <item>
+      <title>Worldwide Leadership Training 2013, 8000k</title>
+      <link>http://glancyfamily.net/ldsml/worldwide-leadership-training-2013-8000k.xml</link>
+      <description>4.2 GB</description>
+    </item>
+    <item>
+      <title>Worldwide Leadership Training 2013, 720p</title>
+      <link>http://glancyfamily.net/ldsml/worldwide-leadership-training-2013-720p.xml</link>
+      <description>1.3 GB</description>
+    </item>
+    <item>
+      <title>Worldwide Leadership Training 2013, 360p</title>
+      <link>http://glancyfamily.net/ldsml/worldwide-leadership-training-2013-360p.xml</link>
+      <description>486.8 MB</description>
+    </item>
+    <item>
+      <title>Children's Songbook (with vocal)</title>
+      <link>http://glancyfamily.net/ldsml/childrens-songbook-with-vocal.xml</link>
+      <description>453.8 MB</description>
+    </item>
+    <item>
+      <title>Children's Songbook (instrumental)</title>
+      <link>http://glancyfamily.net/ldsml/childrens-songbook-instrumental.xml</link>
+      <description>454.5 MB</description>
+    </item>
+    <item>
+      <title>Hymns (with vocal)</title>
+      <link>http://glancyfamily.net/ldsml/hymns-with-vocal.xml</link>
+      <description>1.3 GB</description>
+    </item>
+    <item>
+      <title>Hymns (instrumental)</title>
+      <link>http://glancyfamily.net/ldsml/hymns-instrumental.xml</link>
+      <description>1.3 GB</description>
     </item>
   </channel>
 </rss>

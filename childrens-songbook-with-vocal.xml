@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="Children's Songbook">
+  <categories>
+    <category name="Children's Songbook (With Vocal)" thumbnail="http://glancyfamily.net/ldsml/cs-with-vocal.jpg">
+      <category name="1 to 99" thumbnail="http://glancyfamily.net/ldsml/cs-with-vocal-0.jpg">
+        <videoref ref ="2002-01-0010"/>
+        <videoref ref ="2002-01-0020"/>
+        <videoref ref ="2002-01-0030"/>
+        <videoref ref ="2002-01-0040"/>
+        <videoref ref ="2002-01-0050"/>
+        <videoref ref ="2002-01-0060"/>
+        <videoref ref ="2002-01-0070"/>
+        <videoref ref ="2002-01-0080"/>
+        <videoref ref ="2002-01-0090"/>
+        <videoref ref ="2002-01-0100"/>
+        <videoref ref ="2002-01-0110"/>
+        <videoref ref ="2002-01-0120"/>
+        <videoref ref ="2002-01-0130"/>
+        <videoref ref ="2002-01-0140"/>
+        <videoref ref ="2002-01-0150"/>
+        <videoref ref ="2002-01-0160"/>
+        <videoref ref ="2002-01-0170"/>
+        <videoref ref ="2002-01-0180"/>
+        <videoref ref ="2002-01-0190"/>
+        <videoref ref ="2002-01-0200"/>
+        <videoref ref ="2002-01-0210"/>
+        <videoref ref ="2002-01-0220"/>
+        <videoref ref ="2002-01-0230"/>
+        <videoref ref ="2002-01-0240"/>
+        <videoref ref ="2002-01-0250"/>
+        <videoref ref ="2002-01-0260"/>
+        <videoref ref ="2002-01-0270"/>
+        <videoref ref ="2002-01-0280"/>
+        <videoref ref ="2002-01-0290"/>
+        <videoref ref ="2002-01-0300"/>
+        <videoref ref ="2002-01-0310"/>
+        <videoref ref ="2002-01-0320"/>
+        <videoref ref ="2002-01-0330"/>
+        <videoref ref ="2002-01-0340"/>
+        <videoref ref ="2002-01-0350"/>
+        <videoref ref ="2002-01-0360"/>
+        <videoref ref ="2002-01-0370"/>
+        <videoref ref ="2002-01-0380"/>
+        <videoref ref ="2002-01-0390"/>
+        <videoref ref ="2002-01-0400"/>
+        <videoref ref ="2002-01-0410"/>
+        <videoref ref ="2002-01-0420"/>
+        <videoref ref ="2002-01-0430"/>
+        <videoref ref ="2002-01-0440"/>
+        <videoref ref ="2002-01-0450"/>
+        <videoref ref ="2002-01-0460"/>
+        <videoref ref ="2002-01-0470"/>
+        <videoref ref ="2002-01-0480"/>
+        <videoref ref ="2002-01-0490"/>
+        <videoref ref ="2002-01-0500"/>
+        <videoref ref ="2002-01-0510"/>
+        <videoref ref ="2002-01-0520"/>
+        <videoref ref ="2002-01-0530"/>
+        <videoref ref ="2002-01-0540"/>
+        <videoref ref ="2002-01-0550"/>
+        <videoref ref ="2002-01-0560"/>
+        <videoref ref ="2002-01-0570"/>
+        <videoref ref ="2002-01-0580"/>
+        <videoref ref ="2002-01-0590"/>
+        <videoref ref ="2002-01-0600"/>
+        <videoref ref ="2002-01-0610"/>
+        <videoref ref ="2002-01-0620"/>
+        <videoref ref ="2002-01-0630"/>
+        <videoref ref ="2002-01-0640"/>
+        <videoref ref ="2002-01-0650"/>
+        <videoref ref ="2002-01-0660"/>
+        <videoref ref ="2002-01-0670"/>
+        <videoref ref ="2002-01-0680"/>
+        <videoref ref ="2002-01-0690"/>
+        <videoref ref ="2002-01-0700"/>
+        <videoref ref ="2002-01-0710"/>
+        <videoref ref ="2002-01-0720"/>
+        <videoref ref ="2002-01-0730"/>
+        <videoref ref ="2002-01-0740"/>
+        <videoref ref ="2002-01-0750"/>
+        <videoref ref ="2002-01-0760"/>
+        <videoref ref ="2002-01-0770"/>
+        <videoref ref ="2002-01-0780"/>
+        <videoref ref ="2002-01-0790"/>
+        <videoref ref ="2002-01-0800"/>
+        <videoref ref ="2002-01-0810"/>
+        <videoref ref ="2002-01-0820"/>
+        <videoref ref ="2002-01-0830"/>
+        <videoref ref ="2002-01-0840"/>
+        <videoref ref ="2002-01-0850"/>
+        <videoref ref ="2002-01-0860"/>
+        <videoref ref ="2002-01-0870"/>
+        <videoref ref ="2002-01-0880"/>
+        <videoref ref ="2002-01-0890"/>
+	  </category>
+      <category name="100 to 199" thumbnail="http://glancyfamily.net/ldsml/cs-with-vocal-1.jpg">
+        <videoref ref ="2002-01-0900"/>
+        <videoref ref ="2002-01-0910"/>
+        <videoref ref ="2002-01-0920"/>
+        <videoref ref ="2002-01-0930"/>
+        <videoref ref ="2002-01-0940"/>
+        <videoref ref ="2002-01-0950"/>
+        <videoref ref ="2002-01-0960"/>
+        <videoref ref ="2002-01-0970"/>
+        <videoref ref ="2002-01-0980"/>
+        <videoref ref ="2002-01-0990"/>
+        <videoref ref ="2002-01-1000"/>
+        <videoref ref ="2002-01-1010"/>
+        <videoref ref ="2002-01-1020"/>
+        <videoref ref ="2002-01-1030"/>
+        <videoref ref ="2002-01-1040"/>
+        <videoref ref ="2002-01-1050"/>
+        <videoref ref ="2002-01-1060"/>
+        <videoref ref ="2002-01-1070"/>
+        <videoref ref ="2002-01-1080"/>
+        <videoref ref ="2002-01-1090"/>
+        <videoref ref ="2002-01-1100"/>
+        <videoref ref ="2002-01-1110"/>
+        <videoref ref ="2002-01-1120"/>
+        <videoref ref ="2002-01-1130"/>
+        <videoref ref ="2002-01-1140"/>
+        <videoref ref ="2002-01-1150"/>
+        <videoref ref ="2002-01-1160"/>
+        <videoref ref ="2002-01-1170"/>
+        <videoref ref ="2002-01-1180"/>
+        <videoref ref ="2002-01-1190"/>
+        <videoref ref ="2002-01-1200"/>
+        <videoref ref ="2002-01-1210"/>
+        <videoref ref ="2002-01-1220"/>
+        <videoref ref ="2002-01-1230"/>
+        <videoref ref ="2002-01-1240"/>
+        <videoref ref ="2002-01-1250"/>
+        <videoref ref ="2002-01-1260"/>
+        <videoref ref ="2002-01-1270"/>
+        <videoref ref ="2002-01-1280"/>
+        <videoref ref ="2002-01-1290"/>
+        <videoref ref ="2002-01-1300"/>
+        <videoref ref ="2002-01-1310"/>
+        <videoref ref ="2002-01-1320"/>
+        <videoref ref ="2002-01-1330"/>
+        <videoref ref ="2002-01-1340"/>
+        <videoref ref ="2002-01-1350"/>
+        <videoref ref ="2002-01-1360"/>
+        <videoref ref ="2002-01-1370"/>
+        <videoref ref ="2002-01-1380"/>
+        <videoref ref ="2002-01-1390"/>
+        <videoref ref ="2002-01-1400"/>
+        <videoref ref ="2002-01-1410"/>
+        <videoref ref ="2002-01-1420"/>
+        <videoref ref ="2002-01-1430"/>
+        <videoref ref ="2002-01-1440"/>
+        <videoref ref ="2002-01-1450"/>
+        <videoref ref ="2002-01-1460"/>
+        <videoref ref ="2002-01-1470"/>
+        <videoref ref ="2002-01-1480"/>
+        <videoref ref ="2002-01-1490"/>
+        <videoref ref ="2002-01-1500"/>
+        <videoref ref ="2002-01-1510"/>
+        <videoref ref ="2002-01-1520"/>
+        <videoref ref ="2002-01-1530"/>
+        <videoref ref ="2002-01-1540"/>
+        <videoref ref ="2002-01-1550"/>
+        <videoref ref ="2002-01-1560"/>
+        <videoref ref ="2002-01-1570"/>
+        <videoref ref ="2002-01-1580"/>
+        <videoref ref ="2002-01-1590"/>
+        <videoref ref ="2002-01-1600"/>
+        <videoref ref ="2002-01-1610"/>
+        <videoref ref ="2002-01-1620"/>
+        <videoref ref ="2002-01-1630"/>
+        <videoref ref ="2002-01-1640"/>
+        <videoref ref ="2002-01-1650"/>
+        <videoref ref ="2002-01-1660"/>
+        <videoref ref ="2002-01-1670"/>
+        <videoref ref ="2002-01-1680"/>
+        <videoref ref ="2002-01-1690"/>
+        <videoref ref ="2002-01-1700"/>
+        <videoref ref ="2002-01-1710"/>
+	  </category>
+      <category name="200 to 285" thumbnail="http://glancyfamily.net/ldsml/cs-with-vocal-2.jpg">
+        <videoref ref ="2002-01-1720"/>
+        <videoref ref ="2002-01-1730"/>  <!-- not available -->
+        <videoref ref ="2002-01-1740"/>
+        <videoref ref ="2002-01-1750"/>
+        <videoref ref ="2002-01-1760"/>
+        <videoref ref ="2002-01-1770"/>
+        <videoref ref ="2002-01-1780"/>
+        <videoref ref ="2002-01-1790"/>
+        <videoref ref ="2002-01-1800"/>
+        <videoref ref ="2002-01-1810"/>
+        <videoref ref ="2002-01-1820"/>
+        <videoref ref ="2002-01-1830"/>
+        <videoref ref ="2002-01-1840"/>
+        <videoref ref ="2002-01-1850"/>
+        <videoref ref ="2002-01-1860"/>
+        <videoref ref ="2002-01-1870"/>
+        <videoref ref ="2002-01-1880"/>
+        <videoref ref ="2002-01-1890"/>
+        <videoref ref ="2002-01-1900"/>
+        <videoref ref ="2002-01-1910"/>
+        <videoref ref ="2002-01-1920"/>
+        <videoref ref ="2002-01-1930"/>
+        <videoref ref ="2002-01-1940"/>
+        <videoref ref ="2002-01-1950"/>
+        <videoref ref ="2002-01-1960"/>  <!-- not available -->
+        <videoref ref ="2002-01-1970"/>
+        <videoref ref ="2002-01-1980"/>
+        <videoref ref ="2002-01-1990"/>
+        <videoref ref ="2002-01-2000"/>
+        <videoref ref ="2002-01-2010"/>
+        <videoref ref ="2002-01-2020"/>
+        <videoref ref ="2002-01-2030"/>
+        <videoref ref ="2002-01-2040"/>
+        <videoref ref ="2002-01-2050"/>  <!-- not available -->
+        <videoref ref ="2002-01-2060"/>
+        <videoref ref ="2002-01-2070"/>
+        <videoref ref ="2002-01-2080"/>
+        <videoref ref ="2002-01-2090"/>
+        <videoref ref ="2002-01-2100"/>
+        <videoref ref ="2002-01-2110"/>
+        <videoref ref ="2002-01-2120"/>
+        <videoref ref ="2002-01-2130"/>
+        <videoref ref ="2002-01-2140"/>
+        <videoref ref ="2002-01-2150"/>
+        <videoref ref ="2002-01-2160"/>
+        <videoref ref ="2002-01-2170"/>
+        <videoref ref ="2002-01-2180"/>
+        <videoref ref ="2002-01-2200"/>
+        <videoref ref ="2002-01-2190"/>
+        <videoref ref ="2002-01-2210"/>
+        <videoref ref ="2002-01-2220"/>
+        <videoref ref ="2002-01-2230"/>
+        <videoref ref ="2002-01-2240"/>
+        <videoref ref ="2002-01-2250"/>
+        <videoref ref ="2002-01-2260"/>
+        <videoref ref ="2002-01-2270"/>
+        <videoref ref ="2002-01-2280"/>
+        <videoref ref ="2002-01-2290"/>
+        <videoref ref ="2002-01-2300"/>
+        <videoref ref ="2002-01-2310"/>
+        <videoref ref ="2002-01-2320"/>  <!-- not available -->
+        <videoref ref ="2002-01-2330"/>
+        <videoref ref ="2002-01-2340"/>
+        <videoref ref ="2002-01-2350"/>
+        <videoref ref ="2002-01-2360"/>
+        <videoref ref ="2002-01-2370"/>
+        <videoref ref ="2002-01-2380"/>
+        <videoref ref ="2002-01-2390"/>
+        <videoref ref ="2002-01-2400"/>
+        <videoref ref ="2002-01-2410"/>  <!-- not available -->
+        <videoref ref ="2002-01-2420"/>
+        <videoref ref ="2002-01-2430"/>
+        <videoref ref ="2002-01-2440"/>
+        <videoref ref ="2002-01-2450"/>
+        <videoref ref ="2002-01-2460"/>
+        <videoref ref ="2002-01-2470"/>
+        <videoref ref ="2002-01-2480"/>
+        <videoref ref ="2002-01-2490"/>
+        <videoref ref ="2002-01-2500"/>
+        <videoref ref ="2002-01-2510"/>
+        <videoref ref ="2002-01-2520"/>
+        <videoref ref ="2002-01-2530"/>
+        <videoref ref ="2002-01-2540"/>
+        <videoref ref ="2002-01-2550"/>
+      </category>
+    </category>
+  </categories>
+  <videos>
+    <video id ="2002-01-0010" name="002) I Am a Child of God" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0010-i-am-a-child-of-god-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0020" name="004) I Lived in Heaven" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0020-i-lived-in-heaven-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0030" name="005) I Know My Father Lives" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0030-i-know-my-father-lives-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0040" name="006) Thanks to Thee" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0040-thanks-to-thee-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0050" name="007) I Thank Thee, Dear Father" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0050-i-thank-thee-dear-father-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0060" name="008) Father, We Thank Thee for the Night" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0060-father-we-thank-thee-for-the-night-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0070" name="009) Can a Little Child like Me?" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0070-can-a-little-child-like-me-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0080" name="010) Thank Thee for Everything" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0080-thank-thee-for-everything-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0090" name="011) I'm Thankful to Be Me" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0090-im-thankful-to-be-me-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0100" name="012) A Child's Prayer" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0100-a-childs-prayer-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0110" name="014) I Pray in Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0110-i-pray-in-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0120" name="015) If with All Your Hearts" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0120-if-with-all-your-hearts-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0130" name="016) Children All Over the World" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0130-children-all-over-the-world-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0140" name="018) I Need My Heavenly Father" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0140-i-need-my-heavenly-father-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0150" name="019) Heavenly Father, Now I Pray" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0150-heavenly-father-now-i-pray-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0160" name="020) A Song of Thanks" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0160-a-song-of-thanks-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0170" name="020) Thanks to Our Father" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0170-thanks-to-our-father-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0180" name="021) For Health and Strength (Round)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0180-for-health-and-strength-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0190" name="021) For Thy Bounteous Blessings (Round)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0190-for-thy-bounteous-blessings-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0200" name="022) A Prayer Song" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0200-a-prayer-song-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0210" name="022) A Prayer" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0210-a-prayer-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0220" name="023) Father Up Above" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0220-father-up-above-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0230" name="023) Heavenly Father, While I Pray" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0230-heavenly-father-while-i-pray-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0240" name="024) Thank Thee, Father" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0240-thank-thee-father-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0250" name="025) We Bow Our Heads" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0250-we-bow-our-heads-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0260" name="025) I Love to Pray" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0260-i-love-to-pray-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0270" name="026) Reverently, Quietly" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0270-reverently-quietly-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0280" name="027) Reverence" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0280-reverence-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0290" name="027) We Are Reverent" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0290-we-are-reverent-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0300" name="028) I Want to Be Reverent" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0300-i-want-to-be-reverent-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0310" name="028) I Will Try to Be Reverent" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0310-i-will-try-to-be-reverent-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0320" name="029) Father, I Will Reverent Be" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0320-father-i-will-reverent-be-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0330" name="030) This Is God's House" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0330-this-is-gods-house-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0340" name="030) Our Chapel Is a Sacred Place" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0340-our-chapel-is-a-sacred-place-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0350" name="031) Reverence Is Love" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0350-reverence-is-love-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0360" name="034) He Sent His Son" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0360-he-sent-his-son-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0370" name="036) Samuel Tells of the Baby Jesus" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0370-samuel-tells-of-the-baby-jesus-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0380" name="037) Stars Were Gleaming" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0380-stars-were-gleaming-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0390" name="038) When Joseph Went to Bethlehem" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0390-when-joseph-went-to-bethlehem-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0400" name="039) Little Jesus" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0400-little-jesus-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0410" name="040) There Was Starlight on the Hillside" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0410-there-was-starlight-on-the-hillside-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0420" name="040) The Shepherd's Carol (Round)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0420-the-shepherds-carol-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0430" name="041) Once within a Lowly Stable" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0430-once-within-a-lowly-stable-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0440" name="042) Away in a Manger" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0440-away-in-a-manger-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0450" name="044) Mary's Lullaby" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0450-marys-lullaby-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0460" name="046) Who Is the Child?" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0460-who-is-the-child-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0470" name="047) Sleep, Little Jesus" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0470-sleep-little-jesus-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0480" name="048) Oh, Hush Thee, My Baby" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0480-oh-hush-thee-my-baby-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0490" name="050) Picture a Christmas" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0490-picture-a-christmas-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0500" name="051) Have a Very Merry Christmas!" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0500-have-a-very-merry-christmas-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0510" name="052) The Nativity Song" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0510-the-nativity-song-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0520" name="054) Christmas Bells" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0520-christmas-bells-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0530" name="055) Jesus Once Was a Little Child" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0530-jesus-once-was-a-little-child-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0540" name="056) I Think When I Read That Sweet Story" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0540-i-think-when-i-read-that-sweet-story-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0550" name="057) Tell Me the Stories of Jesus" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0550-tell-me-the-stories-of-jesus-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0560" name="058) Little Lambs So White and Fair" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0560-little-lambs-so-white-and-fair-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0570" name="058) Jesus Is Our Loving Friend" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0570-jesus-is-our-loving-friend-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0580" name="059) Jesus Loved the Little Children" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0580-jesus-loved-the-little-children-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0590" name="060) Jesus Wants Me for a Sunbeam" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0590-jesus-wants-me-for-a-sunbeam-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0600" name="061) Jesus Said Love Everyone" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0600-jesus-said-love-everyone-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0610" name="062) Beautiful Savior (Crusader's Hymn)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0610-beautiful-savior-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0620" name="064) Did Jesus Really Live Again?" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0620-did-jesus-really-live-again-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0630" name="065) He Died That We Might Live Again" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0630-he-died-that-we-might-live-again-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0640" name="066) Hosanna" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0640-hosanna-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0650" name="068) Easter Hosanna" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0650-easter-hosanna-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0660" name="070) Jesus Has Risen" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0660-jesus-has-risen-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0670" name="071) To Think about Jesus" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0670-to-think-about-jesus-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0680" name="072) The Sacrament" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0680-the-sacrament-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0690" name="073) Before I Take the Sacrament" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0690-before-i-take-the-sacrament-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0700" name="073) Help Us, O God, to Understand" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0700-help-us-o-god-to-understand-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0710" name="074) I Feel My Savior's Love" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0710-i-feel-my-saviors-love-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0720" name="076) This Is My Beloved Son" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0720-this-is-my-beloved-son-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0730" name="077) The Church of Jesus Christ" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0730-the-church-of-jesus-christ-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0740" name="078) I'm Trying to Be like Jesus" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0740-im-trying-to-be-like-jesus-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0750" name="080) Had I Been a Child" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0750-had-i-been-a-child-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0760" name="082) When He Comes Again" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0760-when-he-comes-again-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0770" name="086) An Angel Came to Joseph Smith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0770-an-angel-came-to-joseph-smith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0780" name="086) The Golden Plates" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0780-the-golden-plates-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0790" name="087) The Sacred Grove" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0790-the-sacred-grove-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0800" name="088) On a Golden Springtime" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0800-on-a-golden-springtime-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0810" name="089) The Priesthood Is Restored" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0810-the-priesthood-is-restored-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0820" name="090) Truth from Elijah" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0820-truth-from-elijah-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0830" name="092) The Hearts of the Children" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0830-the-hearts-of-the-children-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0840" name="094) Family History - I Am Doing It" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0840-family-history-i-am-doing-it-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0850" name="095) I Love to See the Temple" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0850-i-love-to-see-the-temple-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0860" name="096) Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0860-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0870" name="097) God's Love" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0870-gods-love-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0880" name="098) Repentance" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0880-repentance-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0890" name="099) Help Me, Dear Father" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0890-help-me-dear-father-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0900" name="100) Baptism" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0900-baptism-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0910" name="102) When Jesus Christ Was Baptized" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0910-when-jesus-christ-was-baptized-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0920" name="103) When I Am Baptized" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0920-when-i-am-baptized-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0930" name="104) I Like My Birthdays" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0930-i-like-my-birthdays-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0940" name="105) The Holy Ghost" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0940-the-holy-ghost-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0950" name="106) The Still Small Voice" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0950-the-still-small-voice-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0960" name="107) Listen, Listen (Round)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0960-listen-listen-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0970" name="108) Seek the Lord Early" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0970-seek-the-lord-early-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0980" name="109) Search, Ponder, and Pray" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0980-search-ponder-and-pray-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-0990" name="110) Follow the Prophet" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0990-follow-the-prophet-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1000" name="112) The Commandments" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1000-the-commandments-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1010" name="114) The Books in the Old Testament" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1010-the-books-in-the-old-testament-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1020" name="116) The Books in the New Testament" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1020-the-books-in-the-new-testament-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1030" name="118) Book of Mormon Stories" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1030-book-of-mormon-stories-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1040" name="119) The Books in the Book of Mormon" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1040-the-books-in-the-book-of-mormon-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1050" name="120) Nephi's Courage" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1050-nephis-courage-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1060" name="122) The First Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1060-the-first-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1070" name="122) The Second Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1070-the-second-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1080" name="123) The Third Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1080-the-third-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1090" name="124) The Fourth Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1090-the-fourth-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1100" name="125) The Fifth Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1100-the-fifth-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1110" name="126) The Sixth Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1110-the-sixth-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1120" name="126) The Seventh Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1120-the-seventh-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1130" name="127) The Eighth Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1130-the-eighth-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1140" name="128) The Ninth Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1140-the-ninth-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1150" name="128) The Tenth Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1150-the-tenth-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1160" name="130) The Eleventh Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1160-the-eleventh-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1170" name="131) The Twelfth Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1170-the-twelfth-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1180" name="132) The Thirteenth Article of Faith" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1180-the-thirteenth-article-of-faith-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1190" name="134) Latter-day Prophets" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1190-latter-day-prophets-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1200" name="135) Our Bishop" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1200-our-bishop-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1210" name="136) Love One Another" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1210-love-one-another-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1220" name="138) Where Love Is" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1220-where-love-is-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1230" name="140) I'll Walk with You" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1230-ill-walk-with-you-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1240" name="142) Every Star Is Different" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1240-every-star-is-different-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1250" name="144) Shine On" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1250-shine-on-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1260" name="145) A Special Gift Is Kindness" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1260-a-special-gift-is-kindness-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1270" name="145) Kindness Begins with Me" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1270-kindness-begins-with-me-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1280" name="146) Keep the Commandments" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1280-keep-the-commandments-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1290" name="148) I Want to Live the Gospel" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1290-i-want-to-live-the-gospel-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1300" name="149) I Believe in Being Honest" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1300-i-believe-in-being-honest-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1310" name="150) I'm Glad to Pay a Tithing" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1310-im-glad-to-pay-a-tithing-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1320" name="150) I Want to Give the Lord My Tenth" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1320-i-want-to-give-the-lord-my-tenth-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1330" name="151) I Am Glad for Many Things" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1330-i-am-glad-for-many-things-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1340" name="152) Hum Your Favorite Hymn" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1340-hum-your-favorite-hymn-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1350" name="153) The Lord Gave Me a Temple" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1350-the-lord-gave-me-a-temple-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1360" name="154) The Word of Wisdom" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1360-the-word-of-wisdom-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1370" name="155) Remember the Sabbath Day" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1370-remember-the-sabbath-day-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1380" name="156) The Chapel Doors" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1380-the-chapel-doors-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1390" name="157) When I Go to Church" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1390-when-i-go-to-church-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1400" name="158) Dare to Do Right" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1400-dare-to-do-right-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1410" name="159) Stand for the Right" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1410-stand-for-the-right-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1420" name="160) Choose the Right Way" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1420-choose-the-right-way-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1430" name="161) I Pledge Myself to Love the Right" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1430-i-pledge-myself-to-love-the-right-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1440" name="162) I Will Be Valiant" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1440-i-will-be-valiant-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1450" name="163) I Am like a Star" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1450-i-am-like-a-star-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1460" name="164) I Will Follow God's Plan" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1460-i-will-follow-gods-plan-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1470" name="166) A Young Man Prepared" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1470-a-young-man-prepared-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1480" name="167) Go the Second Mile" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1480-go-the-second-mile-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1490" name="168) I Want to Be a Missionary Now" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1490-i-want-to-be-a-missionary-now-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1500" name="169) I Hope They Call Me on a Mission" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1500-i-hope-they-call-me-on-a-mission-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1510" name="170) The Things I Do" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1510-the-things-i-do-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1520" name="172) We'll Bring the World His Truth (Army of Helaman)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1520-well-bring-the-world-his-truth-army-of-helaman-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1530" name="174) Called to Serve" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1530-called-to-serve-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1540" name="176) Tell Me, Dear Lord" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1540-tell-me-dear-lord-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1550" name="177) Teach Me to Walk in the Light" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1550-teach-me-to-walk-in-the-light-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1560" name="178) Teacher, Do You Love Me?" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1560-teacher-do-you-love-me-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1570" name="180) How Dear to God Are Little Children (Appropriate for Parents and Leaders)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1570-how-dear-to-god-are-little-children-appropriate-for-leaders-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1580" name="182) How Will They Know? (Appropriate for Parents and Leaders)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1580-how-will-they-know-appropriate-for-leaders-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1590" name="188) Families Can Be Together Forever" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1590-families-can-be-together-forever-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1600" name="189) Family Prayer" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1600-family-prayer-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1610" name="190) Love Is Spoken Here" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1610-love-is-spoken-here-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1620" name="192) Home" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1620-home-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1630" name="193) Sing Your Way Home" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1630-sing-your-way-home-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1640" name="194) The Family" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1640-the-family-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1650" name="195) Family Night" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1650-family-night-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1660" name="196) Saturday" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1660-saturday-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1670" name="197) A Happy Helper" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1670-a-happy-helper-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1680" name="197) Quickly I'll Obey" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1680-quickly-ill-obey-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1690" name="198) A Happy Family" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1690-a-happy-family-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1700" name="198) When We're Helping" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1700-when-were-helping-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1710" name="199) I Have a Family Tree" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1710-i-have-a-family-tree-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1720" name="200) Grandmother" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1720-grandmother-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1730" name="201) NOT AVAILABLE-When Grandpa Comes" thumbnail=""
+           url="http://glancyfamily.net/ldsml/not-available.mp3"/>
+    <video id ="2002-01-1740" name="202) I Often Go Walking" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1740-i-often-go-walking-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1750" name="203) My Mother Dear" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1750-my-mother-dear-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1760" name="204) Mother, Tell Me the Story" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1760-mother-tell-me-the-story-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1770" name="206) Mother Dear" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1770-mother-dear-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1780" name="206) Dearest Mother, I Love You" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1780-dearest-mother-i-love-you-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1790" name="207) Mother, I Love You" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1790-mother-i-love-you-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1800" name="208) The Dearest Names" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1800-the-dearest-names-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1810" name="209) Fathers" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1810-fathers-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1820" name="210) Daddy's Homecoming" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1820-daddys-homecoming-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1830" name="211) My Dad" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1830-my-dad-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1840" name="214) Pioneer Children Sang As They Walked" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1840-pioneer-children-sang-as-they-walked-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1850" name="215) Pioneer Children Were Quick to Obey" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1850-pioneer-children-were-quick-to-obey-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1860" name="216) Little Pioneer Children (Round)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1860-little-pioneer-children-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1870" name="217) Westward Ho!" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1870-westward-ho-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1880" name="218) To Be a Pioneer" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1880-to-be-a-pioneer-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1890" name="219) The Oxcart" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1890-the-oxcart-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1900" name="220) The Handcart Song" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1900-the-handcart-song-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1910" name="221) Covered Wagons" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1910-covered-wagons-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1920" name="222) Whenever I Think about Pioneers" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1920-whenever-i-think-about-pioneers-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1930" name="224) My Country" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1930-my-country-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1940" name="225) My Flag, My Flag" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1940-my-flag-my-flag-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1950" name="228) My Heavenly Father Loves Me" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1950-my-heavenly-father-loves-me-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1960" name="229) NOT AVAILABLE-God Is Watching Over All" thumbnail=""
+           url="http://glancyfamily.net/ldsml/not-available.mp3"/>
+    <video id ="2002-01-1970" name="230) I Think the World Is Glorious" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1970-i-think-the-world-is-glorious-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1980" name="231) All Things Bright and Beautiful" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1980-all-things-bright-and-beautiful-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-1990" name="232) Beauty Everywhere" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-1990-beauty-everywhere-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2000" name="233) The World Is So Lovely" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2000-the-world-is-so-lovely-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2010" name="234) Because God Loves Me" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2010-because-god-loves-me-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2020" name="235) The World Is So Big" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2020-the-world-is-so-big-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2030" name="236) 'Give,' Said the Little Stream" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2030-give-said-the-little-stream-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2040" name="237) The Prophet Said to Plant a Garden" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2040-the-prophet-said-to-plant-a-garden-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2050" name="238) NOT AVAILABLE-Springtime Is Coming" thumbnail=""
+           url="http://glancyfamily.net/ldsml/not-available.mp3"/>
+    <video id ="2002-01-2060" name="239) Because It's Spring" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2060-because-its-spring-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2070" name="240) In the Leafy Treetops" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2070-in-the-leafy-treetops-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2080" name="241) Birds in the Tree" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2080-birds-in-the-tree-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2090" name="241) Rain Is Falling All Around" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2090-rain-is-falling-all-around-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2100" name="242) Popcorn Popping" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2100-popcorn-popping-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2110" name="243) Little Seeds Lie Fast Asleep" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2110-little-seeds-lie-fast-asleep-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2120" name="244) Little Purple Pansies" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2120-little-purple-pansies-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2130" name="245) Oh, What Do You Do in the Summertime?" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2130-oh-what-do-you-do-in-the-summertime-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2140" name="246) It's Autumntime" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2140-its-autumntime-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2150" name="247) Autumn Day" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2150-autumn-day-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2160" name="248) Falling Snow" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2160-falling-snow-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2170" name="249) Once There Was a Snowman" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2170-once-there-was-a-snowman-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2180" name="252) Lift Up Your Voice and Sing" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2180-lift-up-your-voice-and-sing-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2200" name="253) Fun to Do" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2200-fun-to-do-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2190" name="253) Sing a Song (Round)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2190-sing-a-song-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2210" name="254) Hello, Friends!" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2210-hello-friends-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2220" name="254) Our Door Is Always Open (Round)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2220-our-door-is-always-open-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2230" name="255) Come with Me to Primary (Round)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2230-come-with-me-to-primary-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2240" name="256) We Welcome You" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2240-we-welcome-you-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2250" name="258) Our Primary Colors" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2250-our-primary-colors-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2260" name="259) We're All Together Again" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2260-were-all-together-again-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2270" name="260) Hello Song" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2270-hello-song-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2280" name="261) Here We Are Together" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2280-here-we-are-together-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2290" name="262) Friends Are Fun" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2290-friends-are-fun-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2300" name="263) We Are Different" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2300-we-are-different-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2310" name="264) Happy Song" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2310-happy-song-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2320" name="265) NOT AVAILABLE-Be Happy!" thumbnail=""
+           url="http://glancyfamily.net/ldsml/not-available.mp3"/>
+    <video id ="2002-01-2330" name="266) If You're Happy" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2330-if-youre-happy-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2340" name="267) Smiles" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2340-smiles-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2350" name="267) A Smile Is like the Sunshine" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2350-a-smile-is-like-the-sunshine-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2360" name="268) Two Little Eyes" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2360-two-little-eyes-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2370" name="269) I Have Two Ears" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2370-i-have-two-ears-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2380" name="270) Two Happy Feet" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2380-two-happy-feet-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2390" name="271) I Wiggle" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2390-i-wiggle-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2400" name="272) I Have Two Little Hands" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2400-i-have-two-little-hands-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2410" name="273) NOT AVAILABLE-My Hands" thumbnail=""
+           url="http://glancyfamily.net/ldsml/not-available.mp3"/>
+    <video id ="2002-01-2420" name="274) Roll Your Hands" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2420-roll-your-hands-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2430" name="275) Head, Shoulders, Knees, and Toes" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2430-head-shoulders-knees-and-toes-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2440" name="275) To Get Quiet" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2440-to-get-quiet-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2450" name="276) Do As I'm Doing" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2450-do-as-im-doing-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2460" name="277) Hinges" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2460-hinges-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2470" name="278) Stand Up" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2470-stand-up-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2480" name="279) Oh, How We Love to Stand" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2480-oh-how-we-love-to-stand-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2490" name="280) Healthy, Wealthy, and Wise (Round)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2490-healthy-wealthy-and-wise-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2500" name="281) The Wise Man and the Foolish Man" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2500-the-wise-man-and-the-foolish-man-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2510" name="282) Feliz Cumpleaños" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2510-feliz-cumpleanos-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2520" name="283) Your Happy Birthday" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2520-your-happy-birthday-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2530" name="284) Happy, Happy Birthday" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2530-happy-happy-birthday-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2540" name="284) Have a Very Happy Birthday!" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2540-have-a-very-happy-birthday-words-and-music-192k-eng.mp3"/>
+    <video id ="2002-01-2550" name="285) You've Had a Birthday (Round)" thumbnail=""
+           url="http://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-2550-youve-had-a-birthday-words-and-music-192k-eng.mp3"/>
+  </videos>
+</library>
+
+

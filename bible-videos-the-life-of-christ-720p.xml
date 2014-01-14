@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<library name="LDS Media">
+<library name="Bible Videos">
   <categories>
     <category name="Bible Videos - The Life of Jesus Christ" thumbnail="http://glancyfamily.net/ldsml/bv-the-life-of-christ.jpg">
         <videoref ref ="2011-10-067"/>

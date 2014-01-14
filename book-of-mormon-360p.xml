@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="BofM Topics">
+  <categories>
+    <category name="Book of Mormon Topics" thumbnail="http://media.ldscdn.org/thumbnails/book-of-mormon-category-138x91.jpg">
+	<!-- All videos from Book of Mormon Category except Book of Mormon Stories which is available in the Scripture Stories library.  
+	     These videos are in 360p (221 videos)  and 480p (13 videos), the best resolution available. -->
+      <category name="1) Intro - 2 Nephi" thumbnail="http://media.ldscdn.org/thumbnails/book-of-mormon/introduction-2-nephi-category-138x91.jpg">
+          <videoref ref ="2012-08-1065"/>   <!-- Tender Mercies of the Lord -->
+          <videoref ref ="2012-08-1740"/>   <!-- 1 Nephi through Omni (Segment 1) -->
+          <videoref ref ="2012-08-1530"/>   <!-- Spiritual Immunization -->
+          <videoref ref ="2012-08-1520"/>   <!-- The Baptism of Fire -->
+          <videoref ref ="2012-08-1510"/>   <!-- The Book of Mormon \"Shall Hiss Forth\" -->
+          <videoref ref ="2012-08-1505"/>   <!-- Abrahamic Covenant -->
+          <videoref ref ="2012-08-1500"/>   <!-- Line upon Line -->
+          <videoref ref ="2012-08-1490"/>   <!-- All Is Well in Zion -->
+          <videoref ref ="2012-08-1480"/>   <!-- Spiritual Crocodiles -->
+          <videoref ref ="2012-08-1470"/>   <!-- Who Are the Bond and Free? -->
+          <videoref ref ="2012-08-1465"/>   <!-- Beware of False Prophets -->
+          <videoref ref ="2012-08-1460"/>   <!-- Saved by Grace -->
+          <videoref ref ="2012-08-1450"/>   <!-- A Day When -->
+          <videoref ref ="2012-08-1440"/>   <!-- Fulfillment -->
+          <videoref ref ="2012-08-1430"/>   <!-- The Lord's House -->
+          <videoref ref ="2012-08-1420"/>   <!-- The Atonement Is Essential to God’s Plan -->
+          <videoref ref ="2012-08-1410"/>   <!-- Individual Agency -->
+          <videoref ref ="2012-08-1400"/>   <!-- The Scattering and Gathering Is First Spiritual -->
+          <videoref ref ="2012-08-1390"/>   <!-- Look to Christ and Come Alive -->
+          <videoref ref ="2012-08-1380"/>   <!-- Christ Saves Us from Physical and Spiritual Death -->
+          <videoref ref ="2012-08-1370"/>   <!-- Physical and Spiritual Death -->
+          <videoref ref ="2012-08-1360"/>   <!-- Gathering to Lands of Promise -->
+          <videoref ref ="2012-08-1350"/>   <!-- We Are \"Free to Choose\" -->
+          <videoref ref ="2012-08-1340"/>   <!-- Three Pillars of God's Plan -->
+          <videoref ref ="2012-08-1330"/>   <!-- To Act or Be Acted Upon -->
+          <videoref ref ="2012-08-1320"/>   <!-- Things to Act and Things to Be Acted Upon -->
+          <videoref ref ="2012-08-1290"/>   <!-- Saved by the Merits of Christ -->
+          <videoref ref ="2012-08-1280"/>   <!-- Opposition in All Things -->
+          <videoref ref ="2012-08-1270"/>   <!-- The Fall -->
+          <videoref ref ="2012-08-1260"/>   <!-- Act for Themselves -->
+          <videoref ref ="2012-08-1250"/>   <!-- The Righteous Need Not Fear -->
+          <videoref ref ="2012-08-1240"/>   <!-- We Are \"Graven\" on the Palms of His Hands -->
+          <videoref ref ="2012-08-1230"/>   <!-- Liken All Scriptures -->
+          <videoref ref ="2012-08-1220"/>   <!-- Sensitivity to Spiritual Communication, Part 3 -->
+          <videoref ref ="2012-08-1200"/>   <!-- Past Feeling -->
+          <videoref ref ="2012-08-1190"/>   <!-- Sensitivity to Spiritual Communication, Part 2 -->
+          <videoref ref ="2012-08-1180"/>   <!-- I Will Prepare the Way -->
+          <videoref ref ="2012-08-1170"/>   <!-- Our Own Liahona -->
+          <videoref ref ="2012-08-1160"/>   <!-- The Word of God Strengthens Us -->
+          <videoref ref ="2012-08-1150"/>   <!-- Book of Mormon Restores Plain and Precious Things -->
+          <videoref ref ="2012-08-1140"/>   <!-- Lost Truths -->
+          <videoref ref ="2012-08-1130"/>   <!-- The Spirit Cannot Abide -->
+          <videoref ref ="2012-08-1120"/>   <!-- For a Wise Purpose -->
+          <videoref ref ="2012-08-1110"/>   <!-- The Rod of Iron -->
+          <videoref ref ="2012-08-1100"/>   <!-- The Tree of Life as a Symbol of Jesus Christ and His Atonement -->
+          <videoref ref ="2012-08-1090"/>   <!-- Searching the Scriptures -->
+          <videoref ref ="2012-08-1080"/>   <!-- Scriptures Are of Great Worth -->
+          <videoref ref ="2012-08-1070"/>   <!-- I Will Go and Do -->
+          <videoref ref ="2012-08-1060"/>   <!-- God's Tender Mercies -->
+          <videoref ref ="2012-08-1040"/>   <!-- Importance of the Book of Mormon -->
+          <videoref ref ="2012-08-1020"/>   <!-- Book of Mormon Study -->
+          <videoref ref ="2012-08-1010"/>   <!-- The Book of Mormon -->
+          <videoref ref ="2012-08-1005"/>   <!-- For Our Day -->
+      </category>
+      <category name="2) Jacob - Mosiah" thumbnail="http://media.ldscdn.org/thumbnails/book-of-mormon/jacob-mosiah-category-138x91.jpg">
+          <videoref ref ="2012-08-1970"/>   <!-- Majority -->
+          <videoref ref ="2012-08-1960"/>   <!-- Characteristics of Those Who Faithfully Share the Gospel -->
+          <videoref ref ="2012-08-1950"/>   <!-- We Must Be “Born Again” -->
+          <videoref ref ="2012-08-1940"/>   <!-- God Forgives -->
+          <videoref ref ="2012-08-1930"/>   <!-- The Lord Will Ease Our Burdens -->
+          <videoref ref ="2012-08-1920"/>   <!-- King of Kings -->
+          <videoref ref ="2012-08-1910"/>   <!-- Safety Lies in Obeying the Prophets -->
+          <videoref ref ="2012-08-1895"/>   <!-- Abinadi Converted One Soul -->
+          <videoref ref ="2012-08-1890"/>   <!-- Stand as a Witness -->
+          <videoref ref ="2012-08-1880"/>   <!-- Name of Christ -->
+          <videoref ref ="2012-08-1870"/>   <!-- No More Disposition to Do Evil -->
+          <videoref ref ="2012-08-1860"/>   <!-- Watch Your Thoughts -->
+          <videoref ref ="2012-08-1850"/>   <!-- Put off the Natural Man -->
+          <videoref ref ="2012-08-1840"/>   <!-- Unprofitable Servants -->
+          <videoref ref ="2012-08-1830"/>   <!-- In the Service of Your God -->
+          <videoref ref ="2012-08-1820"/>   <!-- Service That Counts -->
+          <videoref ref ="2012-08-1790"/>   <!-- The “Natural Man” -->
+          <videoref ref ="2012-08-1780"/>   <!-- Whole Soul unto God -->
+          <videoref ref ="2012-08-1770"/>   <!-- Brief Overview (Segment 4) -->
+          <videoref ref ="2012-08-1760"/>   <!-- Alma 43 through Moroni (Segment 3) -->
+          <videoref ref ="2012-08-1750"/>   <!-- Omni through Alma 27 (Segment 2) -->
+          <videoref ref ="2012-08-1740"/>   <!-- 1 Nephi through Omni (Segment 1) -->
+          <videoref ref ="2012-08-1730"/>   <!-- Apply the Teachings of Christ -->
+          <videoref ref ="2012-08-1720"/>   <!-- Having Enos-Like Faith -->
+          <videoref ref ="2012-08-1710"/>   <!-- And My Soul Hungered -->
+          <videoref ref ="2012-08-1700"/>   <!-- Enemies of Christ -->
+          <videoref ref ="2012-08-1690"/>   <!-- What Can I Say More? -->
+          <videoref ref ="2012-08-1680"/>   <!-- The Olive Tree -->
+          <videoref ref ="2012-08-1670"/>   <!-- All Fruit of the Vineyard is Corrupt -->
+          <videoref ref ="2012-08-1660"/>   <!-- Nethermost Parts of the Vineyard -->
+          <videoref ref ="2012-08-1650"/>   <!-- Vineyard at the Time of Christ -->
+          <videoref ref ="2012-08-1640"/>   <!-- Old Testament Olive Vineyard -->
+          <videoref ref ="2012-08-1630"/>   <!-- The Atonement Enables Us -->
+          <videoref ref ="2012-08-1620"/>   <!-- Chastity -->
+          <videoref ref ="2012-08-1610"/>   <!-- Do Not Practice Polygamy -->
+          <videoref ref ="2012-08-1600"/>   <!-- The Lord Delights in Chastity -->
+          <videoref ref ="2012-08-1590"/>   <!-- Beginning to Labor in Sin -->
+          <videoref ref ="2012-08-1580"/>   <!-- Conclusion -->
+          <videoref ref ="2012-08-1570"/>   <!-- Steve’s Simulation -->
+          <videoref ref ="2012-08-1560"/>   <!-- Pride Simulation Center -->
+          <videoref ref ="2012-08-1540"/>   <!-- The Awfulness of Sin and Terror That Follows -->
+      </category>
+      <category name="3) Alma - Helaman" thumbnail="http://media.ldscdn.org/thumbnails/book-of-mormon/alma-helaman-category-138x91.jpg">
+          <videoref ref ="2012-08-2585"/>   <!-- Evil Secret Words Can Destroy Society -->
+          <videoref ref ="2012-08-1975"/>   <!-- Nehor Taught that a \"Teacher Ought to Become Popular\" -->
+          <videoref ref ="2012-08-2720"/>   <!-- Declare the Way to Safety -->
+          <videoref ref ="2012-08-2710"/>   <!-- It Is Too Late -->
+          <videoref ref ="2012-08-2700"/>   <!-- Repentance Leads us to Christs Grace, 2 -->
+          <videoref ref ="2012-08-2690"/>   <!-- The Lord Chastens His People to Stir Them Up in Remembrance of Him -->
+          <videoref ref ="2012-08-2680"/>   <!-- The Cure for Forgetting God -->
+          <videoref ref ="2012-08-2670"/>   <!-- Power in the Priesthood -->
+          <videoref ref ="2012-08-2650"/>   <!-- The Sealing Power Binds and Looses on Earth and in Heaven -->
+          <videoref ref ="2012-08-2640"/>   <!-- Hold upon Your Hearts -->
+          <videoref ref ="2012-08-2630"/>   <!-- All Prophets Testify of Jesus Christ and His Atonement -->
+          <videoref ref ="2012-08-2620"/>   <!-- Secret Combinations -->
+          <videoref ref ="2012-08-2610"/>   <!-- Build on the Rock of Our Redeemer -->
+          <videoref ref ="2012-08-2600"/>   <!-- The Spirit Does Not Dwell in Unholy Temples -->
+          <videoref ref ="2012-08-2590"/>   <!-- Yielding Our Hearts to God -->
+          <videoref ref ="2012-08-2580"/>   <!-- Nephi Proves His Innocence -->
+          <videoref ref ="2012-08-2570"/>   <!-- Nephi Prophesies Death of Chief Judge -->
+          <videoref ref ="2012-08-2560"/>   <!-- Nephi Prays for His People -->
+          <videoref ref ="2012-08-2550"/>   <!-- Our Own Storehouse of Faith -->
+          <videoref ref ="2012-08-2540"/>   <!-- Choose Not to Be Offended -->
+          <videoref ref ="2012-08-2530"/>   <!-- We Do Not Doubt Our Mothers Knew It -->
+          <videoref ref ="2012-08-2520"/>   <!-- Stripling Warriors -->
+          <videoref ref ="2012-08-2510"/>   <!-- The Importance of Covenants -->
+          <videoref ref ="2012-08-2500"/>   <!-- Don’t Leave the High Ground -->
+          <videoref ref ="2012-08-2490"/>   <!-- Believers in the Book of Mormon -->
+          <videoref ref ="2012-08-2470"/>   <!-- Fight for Families -->
+          <videoref ref ="2012-08-2460"/>   <!-- Firm in the Faith -->
+          <videoref ref ="2012-08-2450"/>   <!-- Captain Moroni -->
+          <videoref ref ="2012-08-2440"/>   <!-- The Demands of Justice -->
+          <videoref ref ="2012-08-2430"/>   <!-- wickedness never was happiness -->
+          <videoref ref ="2012-08-2420"/>   <!-- wickedness never was happiness -->
+          <videoref ref ="2012-08-2380"/>   <!-- Sexual Sin is an Abomination in the Sigh of the Lord -->
+          <videoref ref ="2012-08-2370"/>   <!-- Next to Murder in Seriousness -->
+          <videoref ref ="2012-08-2360"/>   <!-- Sexual Sin -->
+          <videoref ref ="2012-08-2350"/>   <!-- Unchastity Most Abominable -->
+          <videoref ref ="2012-08-2340"/>   <!-- These Things Are an Abomination -->
+          <videoref ref ="2012-08-2330"/>   <!-- Learn in Thy Youth -->
+          <videoref ref ="2012-08-2320"/>   <!-- Replace Suffering with Joy -->
+          <videoref ref ="2012-08-2310"/>   <!-- When We Repent, the Atonement Removes Bitter Pain and Brings Exquisite Joy -->
+          <videoref ref ="2012-08-2300"/>   <!-- Racked with Eternal Torment -->
+          <videoref ref ="2012-08-2295"/>   <!-- Someday -->
+          <videoref ref ="2012-08-2290"/>   <!-- God Has Delivered Me -->
+          <videoref ref ="2012-08-2280"/>   <!-- The Atonement of Jesus Christ is Infinite and Eternal -->
+          <videoref ref ="2012-08-2270"/>   <!-- Receiving a Personal Testimony -->
+          <videoref ref ="2012-08-2260"/>   <!-- Finding the Lamb of God -->
+          <videoref ref ="2012-08-2250"/>   <!-- Proclaiming the Gospel Brings Joy -->
+          <videoref ref ="2012-08-2240"/>   <!-- If We Are Well Prepared, Death Brings No Terror -->
+          <videoref ref ="2012-08-2230"/>   <!-- Do Not Deny the Atonement’s Power -->
+          <videoref ref ="2012-08-2210"/>   <!-- True Repentance Brings Hope -->
+          <videoref ref ="2012-08-2200"/>   <!-- Understanding the Fall -->
+          <videoref ref ="2012-08-2190"/>   <!-- Anger Is an Indication of Weakness -->
+          <videoref ref ="2012-08-2180"/>   <!-- Sharing the Gospel -->
+          <videoref ref ="2012-08-2170"/>   <!-- Ammon Teaches King Lamoni -->
+          <videoref ref ="2012-08-2160"/>   <!-- Search the Scriptures Daily -->
+          <videoref ref ="2012-08-2150"/>   <!-- Zeezrom Lay Sick -->
+          <videoref ref ="2012-08-2140"/>   <!-- Ordinary Men and Women Can Be Made Pure -->
+          <videoref ref ="2012-08-2130"/>   <!-- foreordination -->
+          <videoref ref ="2012-08-2120"/>   <!-- Foreordained to Bear the Priesthood -->
+          <videoref ref ="2012-08-2110"/>   <!-- There Was a Plan of Redemption Laid -->
+          <videoref ref ="2012-08-2100"/>   <!-- Judgment -->
+          <videoref ref ="2012-08-2090"/>   <!-- God Knows the Thoughts and Intents of Our Hearts -->
+          <videoref ref ="2012-08-2080"/>   <!-- Resurrected Perfect Form -->
+          <videoref ref ="2012-08-2070"/>   <!-- The Eternal Principle of Law and Justice -->
+          <videoref ref ="2012-08-2060"/>   <!-- The Lord’s Help -->
+          <videoref ref ="2012-08-2050"/>   <!-- succor his people -->
+          <videoref ref ="2012-08-2040"/>   <!-- The Healing Power of the Atonement -->
+          <videoref ref ="2012-08-2030"/>   <!-- A Mighty Change of Heart -->
+          <videoref ref ="2012-08-1990"/>   <!-- Tattoos -->
+          <videoref ref ="2012-08-1760"/>   <!-- Alma 43 through Moroni (Segment 3) -->
+      </category>
+      <category name="4) 3 Nephi - Moroni" thumbnail="http://media.ldscdn.org/thumbnails/book-of-mormon/3-nephi-moroni-category-138x91.jpg">
+          <videoref ref ="2012-08-3320"/>   <!-- Come unto Christ -->
+          <videoref ref ="2012-08-3310"/>   <!-- Hope Leads -->
+          <videoref ref ="2012-08-3295"/>   <!-- Receiving a Testimony of the Book of Mormon, 2 -->
+          <videoref ref ="2012-08-3290"/>   <!-- Receiving a Testimony of the Book of Mormon, Part 1 -->
+          <videoref ref ="2012-08-3280"/>   <!-- Test Moroni’s Promise -->
+          <videoref ref ="2012-08-3270"/>   <!-- Children Are Alive in Christ -->
+          <videoref ref ="2012-08-3260"/>   <!-- Pure Love of Christ -->
+          <videoref ref ="2012-08-3255"/>   <!-- Charity: The Pure Love of Christ -->
+          <videoref ref ="2012-08-3250"/>   <!-- Light of Christ -->
+          <videoref ref ="2012-08-3240"/>   <!-- Retaining Converts -->
+          <videoref ref ="2012-08-3235"/>   <!-- Fellowshipping, 2 -->
+          <videoref ref ="2012-08-3230"/>   <!-- Fellowshipping, 1 -->
+          <videoref ref ="2012-08-3220"/>   <!-- The Importance of Ordinances in the Church of Jesus Christ, 2 -->
+          <videoref ref ="2012-08-3210"/>   <!-- The Importance of Ordinances in the Church of Jesus Christ, 1 -->
+          <videoref ref ="2012-08-3200"/>   <!-- I, Moroni -->
+          <videoref ref ="2012-08-3180"/>   <!-- The Trial of Your Faith -->
+          <videoref ref ="2012-08-3175"/>   <!-- Great Faith Precedes Miracles -->
+          <videoref ref ="2012-08-3170"/>   <!-- Trial of Your Faith -->
+          <videoref ref ="2012-08-3160"/>   <!-- Secret Combinations Destroy Civilizations -->
+          <videoref ref ="2012-08-3150"/>   <!-- A Steady, Reassuring Voice -->
+          <videoref ref ="2012-08-3140"/>   <!-- Testimony of the Witnesses -->
+          <videoref ref ="2012-08-3130"/>   <!-- The Faith and Diligence of the Brother of Jared -->
+          <videoref ref ="2012-08-3120"/>   <!-- Written for Us Today -->
+          <videoref ref ="2012-08-3110"/>   <!-- Prepared for Our Day -->
+          <videoref ref ="2012-08-3100"/>   <!-- Bible and Book of Mormon -->
+          <videoref ref ="2012-08-3090"/>   <!-- In the Hands of God -->
+          <videoref ref ="2012-08-3080"/>   <!-- We Can Choose Our Path -->
+          <videoref ref ="2012-08-3070"/>   <!-- There Were No “Manner of –Ites” -->
+          <videoref ref ="2012-08-3065"/>   <!-- There Were \"No Manner of -Ites\" -->
+          <videoref ref ="2012-08-3060"/>   <!-- Truly Converted to the Gospel of Jesus Christ -->
+          <videoref ref ="2012-08-3050"/>   <!-- Jesus and His Prophets -->
+          <videoref ref ="2012-08-3030"/>   <!-- We Are the Covenant People of the Lord -->
+          <videoref ref ="2012-08-3020"/>   <!-- The Coming Forth of the Book of Mormon Signaled the Beginning of the Gathering of Israel -->
+          <videoref ref ="2012-08-3010"/>   <!-- What Manner of Men Ought Ye to Be? -->
+          <videoref ref ="2012-08-3000"/>   <!-- Gospel Is Good News -->
+          <videoref ref ="2012-08-2990"/>   <!-- Tell Us the Name Whereby We Shall Call This Church -->
+          <videoref ref ="2012-08-2980"/>   <!-- Too Sacred to Discuss -->
+          <videoref ref ="2012-08-2970"/>   <!-- Additional Scriptures -->
+          <videoref ref ="2012-08-2960"/>   <!-- Our Obedience to Gospel Principles Helps us Prepare for the Second Coming of Jesus Christ -->
+          <videoref ref ="2012-08-2950"/>   <!-- No Weapon that is Formed Against Thee Shall Prosper -->
+          <videoref ref ="2012-08-2940"/>   <!-- Jesus Wants Us to Succeed -->
+          <videoref ref ="2012-08-2930"/>   <!-- The Book of Mormon Gathers Scattered Israel -->
+          <videoref ref ="2012-08-2920"/>   <!-- Who is the Seed of Abraham? -->
+          <videoref ref ="2012-08-2910"/>   <!-- We Can Have His Light -->
+          <videoref ref ="2012-08-2900"/>   <!-- Pray in Your Families -->
+          <videoref ref ="2012-08-2897"/>   <!-- Church Members should Extend Fellowship to All People, 1 -->
+          <videoref ref ="2012-08-2895"/>   <!-- Partake of the Sacrament -->
+          <videoref ref ="2012-08-2890"/>   <!-- Jesus Blessed the Children “One by One” -->
+          <videoref ref ="2012-08-2870"/>   <!-- God’s Laws Bless His Children -->
+          <videoref ref ="2012-08-2860"/>   <!-- The Golden Rule -->
+          <videoref ref ="2012-08-2850"/>   <!-- God Forgive Us as We Forgive Others -->
+          <videoref ref ="2012-08-2840"/>   <!-- Be Ye Therefore Perfect -->
+          <videoref ref ="2012-08-2830"/>   <!-- Going the Extra Mile -->
+          <videoref ref ="2012-08-2820"/>   <!-- Salt of the Earth -->
+          <videoref ref ="2012-08-2810"/>   <!-- Salt of the Earth -->
+          <videoref ref ="2012-08-2790"/>   <!-- Covenants and Ordinances -->
+          <videoref ref ="2012-08-2780"/>   <!-- Christ Brings Light Where There Is Darkness -->
+          <videoref ref ="2012-08-2770"/>   <!-- A Change in the Commandment to Sacrifice -->
+          <videoref ref ="2012-08-2760"/>   <!-- The Devil Rejoices When We Sin -->
+          <videoref ref ="2012-08-2750"/>   <!-- True Conversion -->
+          <videoref ref ="2012-08-2740"/>   <!-- Pride Is Enmity -->
+          <videoref ref ="2012-08-2730"/>   <!-- A Living Sacrifice -->
+      </category>
+      <category name="5) Book of Mormon Presentations" thumbnail="http://media.ldscdn.org/thumbnails/book-of-mormon/book-of-mormon-presentations-category-138x91.jpg">
+          <videoref ref ="2007-01-0003"/>   <!-- Becoming Children of Christ -->
+          <videoref ref ="2010-06-04"/>     <!-- Can You Imagine? -->
+          <videoref ref ="2007-01-0006"/>   <!-- Firm in the Faith of Christ -->
+          <videoref ref ="2007-01-0002"/>   <!-- I Will Prepare the Way -->
+          <videoref ref ="2007-01-0008"/>   <!-- My Joy is Full -->
+          <videoref ref ="2007-01-0009"/>   <!-- O Ye Fair Ones -->
+          <videoref ref ="2010-06-13"/>     <!-- Spiritual Crocodiles -->
+          <videoref ref ="2007-01-0005"/>   <!-- The Mediator -->
+          <videoref ref ="2007-01-0007"/>   <!-- The Pride Cycle -->
+      </category>	  
+	</category>
+  </categories>
+  <videos>
+<!-- Book of Mormon -->
+<!-- Introduction - 2 Nephi -->
+   <video id="2012-08-1065" name="Tender Mercies of the Lord" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1065-tender-mercies-of-the-lord-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1065-tender-mercies-of-the-lord-360p-eng.mp4"/>
+   <video id="2012-08-1740" name="1 Nephi through Omni (Segment 1)" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1740-1-nephi-through-omni-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1740-1-nephi-through-omni-segment-1-360p-eng.mp4"/>
+   <video id="2012-08-1530" name="Spiritual Immunization" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1530-spiritual-immunization-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1530-spiritual-immunization-360p-eng.mp4"/>
+   <video id="2012-08-1520" name="The Baptism of Fire" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1520-the-baptism-of-fire-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1520-the-baptism-of-fire-360p-eng.mp4"/>
+   <video id="2012-08-1510" name="The Book of Mormon 'Shall Hiss Forth'" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1510-the-book-of-mormon-shall-hiss-forth-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1510-the-book-of-mormon-shall-hiss-forth-360p-eng.mp4"/>
+   <video id="2012-08-1505" name="Abrahamic Covenant" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1505-abrahamic-covenant-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1505-abrahamic-covenant-360p-eng.mp4"/>
+   <video id="2012-08-1500" name="Line upon Line" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1500-line-upon-line-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1500-line-upon-line-360p-eng.mp4"/>
+   <video id="2012-08-1490" name="All Is Well in Zion" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1490-all-is-well-in-zion-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1490-all-is-well-in-zion-360p-eng.mp4"/>
+   <video id="2012-08-1480" name="Spiritual Crocodiles" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1480-spiritual-crocodiles-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1480-spiritual-crocodiles-360p-eng.mp4"/>
+   <video id="2012-08-1470" name="Who Are the Bond and Free?" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1470-who-are-the-bond-and-free-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1470-who-are-the-bond-and-free-360p-eng.mp4"/>
+   <video id="2012-08-1465" name="Beware of False Prophets" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1465-beware-of-false-prophets-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1465-beware-of-false-prophets-360p-eng.mp4"/>
+   <video id="2012-08-1460" name="Saved by Grace" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1460-saved-by-grace-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1460-saved-by-grace-360p-eng.mp4"/>
+   <video id="2012-08-1450" name="A Day When" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1450-a-day-when-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1450-a-day-when-360p-eng.mp4"/>
+   <video id="2012-08-1440" name="Fulfillment" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1440-fulfillment-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1440-fulfillment-480p-eng.mp4"/>
+   <video id="2012-08-1430" name="The Lord's House" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1430-the-lords-house-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1430-the-lords-house-360p-eng.mp4"/>
+   <video id="2012-08-1420" name="The Atonement Is Essential to God’s Plan" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1420-the-atonement-is-essential-to-gods-plan-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1420-the-atonement-is-essential-to-gods-plan-360p-eng.mp4"/>
+   <video id="2012-08-1410" name="Individual Agency" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1410-individual-agency-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1410-individual-agency-360p-eng.mp4"/>
+   <video id="2012-08-1400" name="The Scattering and Gathering Is First Spiritual" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1400-the-scattering-and-gathering-is-first-spiritual-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1400-the-scattering-and-gathering-is-first-spiritual-360p-eng.mp4"/>
+   <video id="2012-08-1390" name="Look to Christ and Come Alive" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1390-look-to-christ-and-come-alive-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1390-look-to-christ-and-come-alive-360p-eng.mp4"/>
+   <video id="2012-08-1380" name="Christ Saves Us from Physical and Spiritual Death" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1380-christ-saves-us-from-physical-and-spiritual-death-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1380-christ-saves-us-from-physical-and-spiritual-death-360p-eng.mp4"/>
+   <video id="2012-08-1370" name="Physical and Spiritual Death" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1370-physical-and-spiritual-death-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1370-physical-and-spiritual-death-360p-eng.mp4"/>
+   <video id="2012-08-1360" name="Gathering to Lands of Promise" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1360-gathering-to-lands-of-promise-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1360-gathering-to-lands-of-promise-360p-eng.mp4"/>
+   <video id="2012-08-1350" name="We Are 'Free to Choose'" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1350-we-are-free-to-choose-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1350-we-are-free-to-choose-360p-eng.mp4"/>
+   <video id="2012-08-1340" name="Three Pillars of God's Plan" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1340-three-pillars-of-gods-plan-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1340-three-pillars-of-gods-plan-480p-eng.mp4"/>
+   <video id="2012-08-1330" name="To Act or Be Acted Upon" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1330-to-act-or-be-acted-upon-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1330-to-act-or-be-acted-upon-360p-eng.mp4"/>
+   <video id="2012-08-1320" name="Things to Act and Things to Be Acted Upon" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1320-things-to-act-and-things-to-be-acted-upon-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1320-things-to-act-and-things-to-be-acted-upon-360p-eng.mp4"/>
+   <video id="2012-08-1290" name="Saved by the Merits of Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1290-saved-by-the-merits-of-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1290-saved-by-the-merits-of-christ-360p-eng.mp4"/>
+   <video id="2012-08-1280" name="Opposition in All Things" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1280-opposition-in-all-things-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1280-opposition-in-all-things-360p-eng.mp4"/>
+   <video id="2012-08-1270" name="The Fall" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1270-the-fall-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1270-the-fall-360p-eng.mp4"/>
+   <video id="2012-08-1260" name="Act for Themselves" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1260-act-for-themselves-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1260-act-for-themselves-360p-eng.mp4"/>
+   <video id="2012-08-1250" name="The Righteous Need Not Fear" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1250-the-righteous-need-not-fear-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1250-the-righteous-need-not-fear-360p-eng.mp4"/>
+   <video id="2012-08-1240" name="We Are 'Graven' on the Palms of His Hands" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1240-we-are-graven-on-the-palms-of-his-hands-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1240-we-are-graven-on-the-palms-of-his-hands-360p-eng.mp4"/>
+   <video id="2012-08-1230" name="Liken All Scriptures" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1230-liken-all-scriptures-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1230-liken-all-scriptures-360p-eng.mp4"/>
+   <video id="2012-08-1220" name="Sensitivity to Spiritual Communication, Part 3" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1220-sensitivity-to-spiritual-communication-part-3-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1220-sensitivity-to-spiritual-communication-part-3-360p-eng.mp4"/>
+   <video id="2012-08-1200" name="Past Feeling" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1200-past-feeling-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1200-past-feeling-360p-eng.mp4"/>
+   <video id="2012-08-1190" name="Sensitivity to Spiritual Communication, Part 2" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1190-sensitivity-to-spiritual-communication-part-2-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1190-sensitivity-to-spiritual-communication-part-2-360p-eng.mp4"/>
+   <video id="2012-08-1180" name="I Will Prepare the Way" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1180-i-will-prepare-the-way-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1180-i-will-prepare-the-way-360p-eng.mp4"/>
+   <video id="2012-08-1170" name="Our Own Liahona" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1170-our-own-liahona-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1170-our-own-liahona-360p-eng.mp4"/>
+   <video id="2012-08-1160" name="The Word of God Strengthens Us" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1160-the-word-of-god-strengthens-us-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1160-the-word-of-god-strengthens-us-480p-eng.mp4"/>
+   <video id="2012-08-1150" name="Book of Mormon Restores Plain and Precious Things" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1150-book-of-mormon-restores-plain-and-precious-things-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1150-book-of-mormon-restores-plain-and-precious-things-360p-eng.mp4"/>
+   <video id="2012-08-1140" name="Lost Truths" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1140-lost-truths-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1140-lost-truths-360p-eng.mp4"/>
+   <video id="2012-08-1130" name="The Spirit Cannot Abide" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1130-the-spirit-cannot-abide-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1130-the-spirit-cannot-abide-360p-eng.mp4"/>
+   <video id="2012-08-1120" name="For a Wise Purpose" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1120-for-a-wise-purpose-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1120-for-a-wise-purpose-360p-eng.mp4"/>
+   <video id="2012-08-1110" name="The Rod of Iron" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1110-the-rod-of-iron-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1110-the-rod-of-iron-360p-eng.mp4"/>
+   <video id="2012-08-1100" name="The Tree of Life as a Symbol of Jesus Christ and His Atonement" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1100-the-tree-of-life-as-a-symbol-of-jesus-christ-and-his-atonement-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1100-the-tree-of-life-as-a-symbol-of-jesus-christ-and-his-atonement-360p-eng.mp4"/>
+   <video id="2012-08-1090" name="Searching the Scriptures" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1090-searching-the-scriptures-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1090-searching-the-scriptures-360p-eng.mp4"/>
+   <video id="2012-08-1080" name="Scriptures Are of Great Worth" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1080-scriptures-are-of-great-worth-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1080-scriptures-are-of-great-worth-360p-eng.mp4"/>
+   <video id="2012-08-1070" name="I Will Go and Do" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1070-i-will-go-and-do-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1070-i-will-go-and-do-360p-eng.mp4"/>
+   <video id="2012-08-1060" name="God's Tender Mercies" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1060-gods-tender-mercies-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1060-gods-tender-mercies-360p-eng.mp4"/>
+   <video id="2012-08-1040" name="Importance of the Book of Mormon" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1040-importance-of-the-book-of-mormon-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1040-importance-of-the-book-of-mormon-360p-eng.mp4"/>
+   <video id="2012-08-1020" name="Book of Mormon Study" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1020-book-of-mormon-study-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1020-book-of-mormon-study-360p-eng.mp4"/>
+   <video id="2012-08-1010" name="The Book of Mormon" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1010-the-book-of-mormon-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1010-the-book-of-mormon-360p-eng.mp4"/>
+   <video id="2012-08-1005" name="For Our Day" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1005-for-our-day-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1005-for-our-day-360p-eng.mp4"/>
+<!-- Jacob - Mosiah -->
+   <video id="2012-08-1970" name="Majority" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1970-majority-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1970-majority-360p-eng.mp4"/>
+   <video id="2012-08-1960" name="Characteristics of Those Who Faithfully Share the Gospel" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1960-characteristics-of-those-who-faithfully-share-the-gospel-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1960-characteristics-of-those-who-faithfully-share-the-gospel-360p-eng.mp4"/>
+   <video id="2012-08-1950" name="We Must Be “Born Again”" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1950-we-must-be-born-again-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1950-we-must-be-born-again-360p-eng.mp4"/>
+   <video id="2012-08-1940" name="God Forgives" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1940-god-forgives-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1940-god-forgives-360p-eng.mp4"/>
+   <video id="2012-08-1930" name="The Lord Will Ease Our Burdens" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1930-the-lord-will-ease-our-burdens-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1930-the-lord-will-ease-our-burdens-360p-eng.mp4"/>
+   <video id="2012-08-1920" name="King of Kings" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1920-king-of-kings-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1920-king-of-kings-360p-eng.mp4"/>
+   <video id="2012-08-1910" name="Safety Lies in Obeying the Prophets" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1910-safety-lies-in-obeying-the-prophets-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1910-safety-lies-in-obeying-the-prophets-360p-eng.mp4"/>
+   <video id="2012-08-1895" name="Abinadi Converted One Soul" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1895-abinadi-converted-one-soul-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1895-abinadi-converted-one-soul-360p-eng.mp4"/>
+   <video id="2012-08-1890" name="Stand as a Witness" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1890-stand-as-a-witness-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1890-stand-as-a-witness-360p-eng.mp4"/>
+   <video id="2012-08-1880" name="Name of Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1880-name-of-christ-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1880-name-of-christ-480p-eng.mp4"/>
+   <video id="2012-08-1870" name="No More Disposition to Do Evil" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1870-no-more-disposition-to-do-evil-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1870-no-more-disposition-to-do-evil-360p-eng.mp4"/>
+   <video id="2012-08-1860" name="Watch Your Thoughts" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1860-watch-your-thoughts-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1860-watch-your-thoughts-360p-eng.mp4"/>
+   <video id="2012-08-1850" name="Put off the Natural Man" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1850-put-off-the-natural-man-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1850-put-off-the-natural-man-360p-eng.mp4"/>
+   <video id="2012-08-1840" name="Unprofitable Servants" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1840-unprofitable-servants-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1840-unprofitable-servants-360p-eng.mp4"/>
+   <video id="2012-08-1830" name="In the Service of Your God" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1830-in-the-service-of-your-god-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1830-in-the-service-of-your-god-360p-eng.mp4"/>
+   <video id="2012-08-1820" name="Service That Counts" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1820-service-that-counts-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1820-service-that-counts-360p-eng.mp4"/>
+   <video id="2012-08-1790" name="The “Natural Man”" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1790-the-natural-man-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1790-the-natural-man-360p-eng.mp4"/>
+   <video id="2012-08-1780" name="Whole Soul unto God" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1780-whole-soul-unto-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1780-whole-soul-unto-god-360p-eng.mp4"/>
+   <video id="2012-08-1770" name="Brief Overview (Segment 4)" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1770-brief-overview-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1770-brief-overview-segment-4-360p-eng.mp4"/>
+   <video id="2012-08-1760" name="Alma 43 through Moroni (Segment 3)" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1760-alma-43-through-moroni-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1760-alma-43-through-moroni-segment-3-360p-eng.mp4"/>
+   <video id="2012-08-1750" name="Omni through Alma 27 (Segment 2)" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1750-omni-through-alma-27-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1750-omni-through-alma-27-segment-2-360p-eng.mp4"/>
+   <video id="2012-08-1740" name="1 Nephi through Omni (Segment 1)" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1740-1-nephi-through-omni-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1740-1-nephi-through-omni-segment-1-360p-eng.mp4"/>
+   <video id="2012-08-1730" name="Apply the Teachings of Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1730-apply-the-teachings-of-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1730-apply-the-teachings-of-christ-360p-eng.mp4"/>
+   <video id="2012-08-1720" name="Having Enos-Like Faith" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1720-having-enos-like-faith-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1720-having-enos-like-faith-360p-eng.mp4"/>
+   <video id="2012-08-1710" name="And My Soul Hungered" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1710-and-my-soul-hungered-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1710-and-my-soul-hungered-360p-eng.mp4"/>
+   <video id="2012-08-1700" name="Enemies of Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1700-enemies-of-christ-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1700-enemies-of-christ-360p-eng.mp4"/>
+   <video id="2012-08-1690" name="What Can I Say More?" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1690-what-can-i-say-more-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1690-what-can-i-say-more-360p-eng.mp4"/>
+   <video id="2012-08-1680" name="The Olive Tree" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1680-the-olive-tree-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1680-the-olive-tree-360p-eng.mp4"/>
+   <video id="2012-08-1670" name="All Fruit of the Vineyard is Corrupt" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1670-all-fruit-of-the-vineyard-is-corrupt-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1670-all-fruit-of-the-vineyard-is-corrupt-360p-eng.mp4"/>
+   <video id="2012-08-1660" name="Nethermost Parts of the Vineyard" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1660-nethermost-parts-of-the-vineyard-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1660-nethermost-parts-of-the-vineyard-360p-eng.mp4"/>
+   <video id="2012-08-1650" name="Vineyard at the Time of Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1650-vineyard-at-the-time-of-christ-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1650-vineyard-at-the-time-of-christ-360p-eng.mp4"/>
+   <video id="2012-08-1640" name="Old Testament Olive Vineyard" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1640-old-testament-olive-vineyard-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1640-old-testament-olive-vineyard-360p-eng.mp4"/>
+   <video id="2012-08-1630" name="The Atonement Enables Us" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1630-the-atonement-enables-us-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1630-the-atonement-enables-us-360p-eng.mp4"/>
+   <video id="2012-08-1620" name="Chastity" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1620-chastity-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1620-chastity-360p-eng.mp4"/>
+   <video id="2012-08-1610" name="Do Not Practice Polygamy" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1610-do-not-practice-polygamy-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1610-do-not-practice-polygamy-360p-eng.mp4"/>
+   <video id="2012-08-1600" name="The Lord Delights in Chastity" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1600-the-lord-delights-in-chastity-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1600-the-lord-delights-in-chastity-360p-eng.mp4"/>
+   <video id="2012-08-1590" name="Beginning to Labor in Sin" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1590-beginning-to-labor-in-sin-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1590-beginning-to-labor-in-sin-360p-eng.mp4"/>
+   <video id="2012-08-1580" name="Conclusion" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1580-conclusion-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1580-conclusion-360p-eng.mp4"/>
+   <video id="2012-08-1570" name="Steve’s Simulation" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1570-steves-simulation-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1570-steves-simulation-360p-eng.mp4"/>
+   <video id="2012-08-1560" name="Pride Simulation Center" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1560-pride-simulation-center-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1560-pride-simulation-center-360p-eng.mp4"/>
+   <video id="2012-08-1540" name="The Awfulness of Sin and Terror That Follows" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1540-the-awfulness-of-sin-and-terror-that-follows-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1540-the-awfulness-of-sin-and-terror-that-follows-360p-eng.mp4"/>
+<!-- Alma - Helaman -->
+   <video id="2012-08-2585" name="Evil Secret Words Can Destroy Society" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2585-evil-secret-words-can-destroy-society-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2585-evil-secret-words-can-destroy-society-360p-eng.mp4"/>
+   <video id="2012-08-1975" name="Nehor Taught that a 'Teacher Ought to Become Popular'" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1975-nehor-taught-that-a-teacher-ought-to-become-popular-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1975-nehor-taught-that-a-teacher-ought-to-become-popular-360p-eng.mp4"/>
+   <video id="2012-08-2720" name="Declare the Way to Safety" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2720-declare-the-way-to-safety-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2720-declare-the-way-to-safety-360p-eng.mp4"/>
+   <video id="2012-08-2710" name="It Is Too Late" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2710-it-is-too-late-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2710-it-is-too-late-360p-eng.mp4"/>
+   <video id="2012-08-2700" name="Repentance Leads us to Christs Grace, 2" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2700-repentance-leads-us-to-christs-grace-2-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2700-repentance-leads-us-to-christs-grace-2-360p-eng.mp4"/>
+   <video id="2012-08-2690" name="The Lord Chastens His People to Stir Them Up in Remembrance of Him" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2690-the-lord-chastens-his-people-to-stir-them-up-in-remembrance-of-him-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2690-the-lord-chastens-his-people-to-stir-them-up-in-remembrance-of-him-360p-eng.mp4"/>
+   <video id="2012-08-2680" name="The Cure for Forgetting God" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2680-the-cure-for-forgetting-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2680-the-cure-for-forgetting-god-360p-eng.mp4"/>
+   <video id="2012-08-2670" name="Power in the Priesthood" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2670-power-in-the-priesthood-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2670-power-in-the-priesthood-360p-eng.mp4"/>
+   <video id="2012-08-2650" name="The Sealing Power Binds and Looses on Earth and in Heaven" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2650-the-sealing-power-binds-and-looses-on-earth-and-in-heaven-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2650-the-sealing-power-binds-and-looses-on-earth-and-in-heaven-360p-eng.mp4"/>
+   <video id="2012-08-2640" name="Hold upon Your Hearts" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2640-hold-upon-your-hearts-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2640-hold-upon-your-hearts-360p-eng.mp4"/>
+   <video id="2012-08-2630" name="All Prophets Testify of Jesus Christ and His Atonement" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2630-all-prophets-testify-of-jesus-christ-and-his-atonement-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2630-all-prophets-testify-of-jesus-christ-and-his-atonement-360p-eng.mp4"/>
+   <video id="2012-08-2620" name="Secret Combinations" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2620-secret-combinations-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2620-secret-combinations-360p-eng.mp4"/>
+   <video id="2012-08-2610" name="Build on the Rock of Our Redeemer" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2610-build-on-the-rock-of-our-redeemer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2610-build-on-the-rock-of-our-redeemer-360p-eng.mp4"/>
+   <video id="2012-08-2600" name="The Spirit Does Not Dwell in Unholy Temples" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2600-the-spirit-does-not-dwell-in-unholy-temples-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2600-the-spirit-does-not-dwell-in-unholy-temples-360p-eng.mp4"/>
+   <video id="2012-08-2590" name="Yielding Our Hearts to God" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2590-yielding-our-hearts-to-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2590-yielding-our-hearts-to-god-360p-eng.mp4"/>
+   <video id="2012-08-2580" name="Nephi Proves His Innocence" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2580-nephi-proves-his-innocence-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2580-nephi-proves-his-innocence-360p-eng.mp4"/>
+   <video id="2012-08-2570" name="Nephi Prophesies Death of Chief Judge" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2570-nephi-prophesies-death-of-chief-judge-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2570-nephi-prophesies-death-of-chief-judge-360p-eng.mp4"/>
+   <video id="2012-08-2560" name="Nephi Prays for His People" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2560-nephi-prays-for-his-people-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2560-nephi-prays-for-his-people-360p-eng.mp4"/>
+   <video id="2012-08-2550" name="Our Own Storehouse of Faith" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2550-our-own-storehouse-of-faith-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2550-our-own-storehouse-of-faith-360p-eng.mp4"/>
+   <video id="2012-08-2540" name="Choose Not to Be Offended" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2540-choose-not-to-be-offended-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2540-choose-not-to-be-offended-360p-eng.mp4"/>
+   <video id="2012-08-2530" name="We Do Not Doubt Our Mothers Knew It" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2530-we-do-not-doubt-our-mothers-knew-it-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2530-we-do-not-doubt-our-mothers-knew-it-360p-eng.mp4"/>
+   <video id="2012-08-2520" name="Stripling Warriors" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2520-strippling-warriors-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2520-stripling-warriors-360p-eng.mp4"/>
+   <video id="2012-08-2510" name="The Importance of Covenants" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2510-the-importance-of-covenants-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2510-the-importance-of-covenants-360p-eng.mp4"/>
+   <video id="2012-08-2500" name="Don’t Leave the High Ground" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2500-dont-leave-the-high-ground-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2500-dont-leave-the-high-ground-360p-eng.mp4"/>
+   <video id="2012-08-2490" name="Believers in the Book of Mormon" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2490-believers-in-the-book-of-mormon-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2490-believers-in-the-book-of-mormon-360p-eng.mp4"/>
+   <video id="2012-08-2470" name="Fight for Families" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2470-fight-for-families-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2470-fight-for-families-360p-eng.mp4"/>
+   <video id="2012-08-2460" name="Firm in the Faith" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2460-firm-in-the-faith-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2460-firm-in-the-faith-360p-eng.mp4"/>
+   <video id="2012-08-2450" name="Captain Moroni" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2450-captain-moroni-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2450-captain-moroni-360p-eng.mp4"/>
+   <video id="2012-08-2440" name="The Demands of Justice" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2440-the-demands-of-justice-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2440-the-demands-of-justice-360p-eng.mp4"/>
+   <video id="2012-08-2430" name="wickedness never was happiness" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2430-wickedness-never-was-happiness-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2430-wickedness-never-was-happiness-360p-eng.mp4"/>
+   <video id="2012-08-2420" name="wickedness never was happiness" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2420-wickedness-never-was-happiness-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2420-wickedness-never-was-happiness-360p-eng.mp4"/>
+   <video id="2012-08-2380" name="Sexual Sin is an Abomination in the Sigh of the Lord" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2380-sexual-sin-is-an-abomination-in-the-sigh-of-the-lord-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2380-sexual-sin-is-an-abomination-in-the-sigh-of-the-lord-360p-eng.mp4"/>
+   <video id="2012-08-2370" name="Next to Murder in Seriousness" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2370-next-to-murder-in-seriousness-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2370-next-to-murder-in-seriousness-360p-eng.mp4"/>
+   <video id="2012-08-2360" name="Sexual Sin" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2360-sexual-sin-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2360-sexual-sin-360p-eng.mp4"/>
+   <video id="2012-08-2350" name="Unchastity Most Abominable" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2350-chastity-most-abominable-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2350-unchastity-most-abominable-360p-eng.mp4"/>
+   <video id="2012-08-2340" name="These Things Are an Abomination" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2340-these-things-are-an-abomination-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2340-these-things-are-an-abomination-360p-eng.mp4"/>
+   <video id="2012-08-2330" name="Learn in Thy Youth" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2330-learn-in-thy-youth-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2330-learn-in-thy-youth-360p-eng.mp4"/>
+   <video id="2012-08-2320" name="Replace Suffering with Joy" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2320-replace-suffering-with-joy-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2320-replace-suffering-with-joy-360p-eng.mp4"/>
+   <video id="2012-08-2310" name="When We Repent, the Atonement Removes Bitter Pain and Brings Exquisite Joy" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2310-when-we-repent-the-atonement-removes-bitter-pain-and-brings-exquisite-joy-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2310-when-we-repent-the-atonement-removes-bitter-pain-and-brings-exquisite-joy-360p-eng.mp4"/>
+   <video id="2012-08-2300" name="Racked with Eternal Torment" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2300-racked-with-eternal-torment-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2300-racked-with-eternal-torment-360p-eng.mp4"/>
+   <video id="2012-08-2295" name="Someday" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2295-someday-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2295-someday-360p-eng.mp4"/>
+   <video id="2012-08-2290" name="God Has Delivered Me" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2290-god-has-delivered-me-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2290-god-has-delivered-me-360p-eng.mp4"/>
+   <video id="2012-08-2280" name="The Atonement of Jesus Christ is Infinite and Eternal" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2280-the-atonement-of-jesus-christ-is-infinite-and-eternal-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2280-the-atonement-of-jesus-christ-is-infinite-and-eternal-360p-eng.mp4"/>
+   <video id="2012-08-2270" name="Receiving a Personal Testimony" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2270-receiving-a-personal-testimony-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2270-receiving-a-personal-testimony-360p-eng.mp4"/>
+   <video id="2012-08-2260" name="Finding the Lamb of God" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2260-finding-the-lamb-of-god-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2260-finding-the-lamb-of-god-360p-eng.mp4"/>
+   <video id="2012-08-2250" name="Proclaiming the Gospel Brings Joy" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2250-proclaiming-the-gospel-brings-joy-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2250-proclaiming-the-gospel-brings-joy-360p-eng.mp4"/>
+   <video id="2012-08-2240" name="If We Are Well Prepared, Death Brings No Terror" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2240-if-we-are-well-prepared-death-brings-no-terror-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2240-if-we-are-well-prepared-death-brings-no-terror-360p-eng.mp4"/>
+   <video id="2012-08-2230" name="Do Not Deny the Atonement’s Power" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2230-do-not-deny-the-atonements-power-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2230-do-not-deny-the-atonements-power-360p-eng.mp4"/>
+   <video id="2012-08-2210" name="True Repentance Brings Hope" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2210-true-repentance-brings-hope-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2210-true-repentance-brings-hope-360p-eng.mp4"/>
+   <video id="2012-08-2200" name="Understanding the Fall" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2200-understanding-the-fall-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2200-understanding-the-fall-360p-eng.mp4"/>
+   <video id="2012-08-2190" name="Anger Is an Indication of Weakness" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2190-anger-is-an-indication-of-weakness-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2190-anger-is-an-indication-of-weakness-360p-eng.mp4"/>
+   <video id="2012-08-2180" name="Sharing the Gospel" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2180-sharing-the-gospel-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2180-sharing-the-gospel-360p-eng.mp4"/>
+   <video id="2012-08-2170" name="Ammon Teaches King Lamoni" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2170-ammon-teaches-king-lamoni-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2170-ammon-teaches-king-lamoni-360p-eng.mp4"/>
+   <video id="2012-08-2160" name="Search the Scriptures Daily" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2160-search-the-scriptures-daily-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2160-search-the-scriptures-daily-360p-eng.mp4"/>
+   <video id="2012-08-2150" name="Zeezrom Lay Sick" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2150-zeezrom-lay-sick-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2150-zeezrom-lay-sick-360p-eng.mp4"/>
+   <video id="2012-08-2140" name="Ordinary Men and Women Can Be Made Pure" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2140-ordinary-men-and-women-can-be-made-pure-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2140-ordinary-men-and-women-can-be-made-pure-360p-eng.mp4"/>
+   <video id="2012-08-2130" name="foreordination" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2130-foreordination-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2130-foreordination-360p-eng.mp4"/>
+   <video id="2012-08-2120" name="Foreordained to Bear the Priesthood" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2120-foreordained-to-bear-the-priesthood-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2120-foreordained-to-bear-the-priesthood-360p-eng.mp4"/>
+   <video id="2012-08-2110" name="There Was a Plan of Redemption Laid" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2110-there-was-a-plan-of-redemption-laid-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2110-there-was-a-plan-of-redemption-laid-360p-eng.mp4"/>
+   <video id="2012-08-2100" name="Judgment" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2100-judgment-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2100-judgment-360p-eng.mp4"/>
+   <video id="2012-08-2090" name="God Knows the Thoughts and Intents of Our Hearts" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2090-god-knows-the-thoughts-and-intents-of-our-hearts-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2090-god-knows-the-thoughts-and-intents-of-our-hearts-360p-eng.mp4"/>
+   <video id="2012-08-2080" name="Resurrected Perfect Form" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2080-resurrected-perfect-form-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2080-resurrected-perfect-form-360p-eng.mp4"/>
+   <video id="2012-08-2070" name="The Eternal Principle of Law and Justice" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2070-the-eternal-principle-of-law-and-justice-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2070-the-eternal-principle-of-law-and-justice-360p-eng.mp4"/>
+   <video id="2012-08-2060" name="The Lord’s Help" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2060-the-lords-help-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2060-the-lords-help-360p-eng.mp4"/>
+   <video id="2012-08-2050" name="succor his people" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2050-succor-his-people-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2050-succor-his-people-360p-eng.mp4"/>
+   <video id="2012-08-2040" name="The Healing Power of the Atonement" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2040-the-healing-power-of-the-atonement-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2040-the-healing-power-of-the-atonement-360p-eng.mp4"/>
+   <video id="2012-08-2030" name="A Mighty Change of Heart" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2030-a-mighty-change-of-heart-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2030-a-mighty-change-of-heart-360p-eng.mp4"/>
+   <video id="2012-08-1990" name="Tattoos" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1990-tattoos-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1990-tattoos-360p-eng.mp4"/>
+   <video id="2012-08-1760" name="Alma 43 through Moroni (Segment 3)" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1760-alma-43-through-moroni-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-1760-alma-43-through-moroni-segment-3-360p-eng.mp4"/>
+<!-- 3 Nephi - Moroni -->
+   <video id="2012-08-3320" name="Come unto Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3320-come-unto-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3320-come-unto-christ-360p-eng.mp4"/>
+   <video id="2012-08-3310" name="Hope Leads" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3310-hope-leads-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3310-hope-leads-360p-eng.mp4"/>
+   <video id="2012-08-3295" name="Receiving a Testimony of the Book of Mormon, 2" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3295-receiving-a-testimony-of-the-book-of-mormon-2-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3295-receiving-a-testimony-of-the-book-of-mormon-2-360p-eng.mp4"/>
+   <video id="2012-08-3290" name="Receiving a Testimony of the Book of Mormon, Part 1" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3290-receiving-a-testimony-of-the-book-of-mormon-part-1-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3290-receiving-a-testimony-of-the-book-of-mormon-part-1-360p-eng.mp4"/>
+   <video id="2012-08-3280" name="Test Moroni’s Promise" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3280-test-moronis-promise-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3280-test-moronis-promise-360p-eng.mp4"/>
+   <video id="2012-08-3270" name="Children Are Alive in Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3270-children-are-alive-in-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3270-children-are-alive-in-christ-360p-eng.mp4"/>
+   <video id="2012-08-3260" name="Pure Love of Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3260-pure-love-of-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3260-pure-love-of-christ-360p-eng.mp4"/>
+   <video id="2012-08-3255" name="Charity: The Pure Love of Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3255-charity-the-pure-love-of-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3255-charity-the-pure-love-of-christ-360p-eng.mp4"/>
+   <video id="2012-08-3250" name="Light of Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3250-light-of-christ-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3250-light-of-christ-360p-eng.mp4"/>
+   <video id="2012-08-3240" name="Retaining Converts" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3240-retaining-converts-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3240-retaining-converts-360p-eng.mp4"/>
+   <video id="2012-08-3235" name="Fellowshipping, 2" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3235-fellowshipping-2-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3235-fellowshipping-2-360p-eng.mp4"/>
+   <video id="2012-08-3230" name="Fellowshipping, 1" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3230-fellowshipping-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3230-fellowshipping-1-360p-eng.mp4"/>
+   <video id="2012-08-3220" name="The Importance of Ordinances in the Church of Jesus Christ, 2" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3220-the-importance-of-ordinances-in-the-church-of-jesus-christ-2-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3220-the-importance-of-ordinances-in-the-church-of-jesus-christ-2-360p-eng.mp4"/>
+   <video id="2012-08-3210" name="The Importance of Ordinances in the Church of Jesus Christ, 1" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3210-the-importance-of-ordinances-in-the-church-of-jesus-christ-1-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3210-the-importance-of-ordinances-in-the-church-of-jesus-christ-1-360p-eng.mp4"/>
+   <video id="2012-08-3200" name="I, Moroni" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3200-i-moroni-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3200-i-moroni-360p-eng.mp4"/>
+   <video id="2012-08-3180" name="The Trial of Your Faith" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3180-the-trial-of-your-faith-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3180-the-trial-of-your-faith-360p-eng.mp4"/>
+   <video id="2012-08-3175" name="Great Faith Precedes Miracles" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3175-great-faith-precedes-miracles-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3175-great-faith-precedes-miracles-360p-eng.mp4"/>
+   <video id="2012-08-3170" name="Trial of Your Faith" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3170-trial-of-your-faith-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3170-trial-of-your-faith-360p-eng.mp4"/>
+   <video id="2012-08-3160" name="Secret Combinations Destroy Civilizations" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3160-secret-combinations-destroy-civilizations-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3160-secret-combinations-destroy-civilizations-360p-eng.mp4"/>
+   <video id="2012-08-3150" name="A Steady, Reassuring Voice" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3150-a-steady-reassuring-voice-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3150-a-steady-reassuring-voice-360p-eng.mp4"/>
+   <video id="2012-08-3140" name="Testimony of the Witnesses" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3140-testimony-of-the-witnesses-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3140-testimony-of-the-witnesses-360p-eng.mp4"/>
+   <video id="2012-08-3130" name="The Faith and Diligence of the Brother of Jared" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3130-the-faith-and-diligence-of-the-brother-of-jared-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3130-the-faith-and-diligence-of-the-brother-of-jared-360p-eng.mp4"/>
+   <video id="2012-08-3120" name="Written for Us Today" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3120-written-for-us-today-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3120-written-for-us-today-360p-eng.mp4"/>
+   <video id="2012-08-3110" name="Prepared for Our Day" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3110-prepared-for-our-day-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3110-prepared-for-our-day-360p-eng.mp4"/>
+   <video id="2012-08-3100" name="Bible and Book of Mormon" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3100-bible-and-book-of-mormon-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3100-bible-and-book-of-mormon-360p-eng.mp4"/>
+   <video id="2012-08-3090" name="In the Hands of God" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3090-in-the-hands-of-god-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3090-in-the-hands-of-god-360p-eng.mp4"/>
+   <video id="2012-08-3080" name="We Can Choose Our Path" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3080-we-can-choose-our-path-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3080-we-can-choose-our-path-360p-eng.mp4"/>
+   <video id="2012-08-3070" name="There Were No “Manner of –Ites”" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3070-there-were-no-manner-of-ites-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3070-there-were-no-manner-of-ites-360p-eng.mp4"/>
+   <video id="2012-08-3065" name="There Were 'No Manner of -Ites'" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3065-there-were-no-manner-of-ites-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3065-there-were-no-manner-of-ites-360p-eng.mp4"/>
+   <video id="2012-08-3060" name="Truly Converted to the Gospel of Jesus Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3060-truly-converted-to-the-gospel-of-jesus-christ-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3060-truly-converted-to-the-gospel-of-jesus-christ-360p-eng.mp4"/>
+   <video id="2012-08-3050" name="Jesus and His Prophets" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3050-jesus-and-his-prophets-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3050-jesus-and-his-prophets-360p-eng.mp4"/>
+   <video id="2012-08-3030" name="We Are the Covenant People of the Lord" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3030-we-are-the-covenant-people-of-the-lord-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3030-we-are-the-covenant-people-of-the-lord-360p-eng.mp4"/>
+   <video id="2012-08-3020" name="The Coming Forth of the Book of Mormon Signaled the Beginning of the Gathering of Israel" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3020-the-coming-forth-of-the-book-of-mormon-signaled-the-beginning-of-the-gathering-of-israel-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3020-the-coming-forth-of-the-book-of-mormon-signaled-the-beginning-of-the-gathering-of-israel-360p-eng.mp4"/>
+   <video id="2012-08-3010" name="What Manner of Men Ought Ye to Be?" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3010-what-manner-of-men-ought-ye-to-be-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3010-what-manner-of-men-ought-ye-to-be-360p-eng.mp4"/>
+   <video id="2012-08-3000" name="Gospel Is Good News" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3000-gospel-is-good-news-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-3000-gospel-is-good-news-360p-eng.mp4"/>
+   <video id="2012-08-2990" name="Tell Us the Name Whereby We Shall Call This Church" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2990-tell-us-the-name-whereby-we-shall-call-this-church-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2990-tell-us-the-name-whereby-we-shall-call-this-church-360p-eng.mp4"/>
+   <video id="2012-08-2980" name="Too Sacred to Discuss" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2980-too-sacred-to-discuss-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2980-too-sacred-to-discuss-360p-eng.mp4"/>
+   <video id="2012-08-2970" name="Additional Scriptures" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2970-additional-scriptures-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2970-additional-scriptures-360p-eng.mp4"/>
+   <video id="2012-08-2960" name="Our Obedience to Gospel Principles Helps us Prepare for the Second Coming of Jesus Christ" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2960-our-obedience-to-gospel-principles-helps-us-prepare-for-the-second-coming-of-jesus-christ-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2960-our-obedience-to-gospel-principles-helps-us-prepare-for-the-second-coming-of-jesus-christ-360p-eng.mp4"/>
+   <video id="2012-08-2950" name="No Weapon that is Formed Against Thee Shall Prosper" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2950-no-weapon-that-is-formed-against-thee-shall-prosper-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2950-no-weapon-that-is-formed-against-thee-shall-prosper-360p-eng.mp4"/>
+   <video id="2012-08-2940" name="Jesus Wants Us to Succeed" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2940-jesus-wants-us-to-succeed-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2940-jesus-wants-us-to-succeed-360p-eng.mp4"/>
+   <video id="2012-08-2930" name="The Book of Mormon Gathers Scattered Israel" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2930-the-book-of-mormon-gathers-scattered-israel-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2930-the-book-of-mormon-gathers-scattered-israel-360p-eng.mp4"/>
+   <video id="2012-08-2920" name="Who is the Seed of Abraham?" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2920-who-is-the-seed-of-abraham-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2920-who-is-the-seed-of-abraham-360p-eng.mp4"/>
+   <video id="2012-08-2910" name="We Can Have His Light" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2910-we-can-have-his-light-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2910-we-can-have-his-light-360p-eng.mp4"/>
+   <video id="2012-08-2900" name="Pray in Your Families" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2900-pray-in-your-families-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2900-pray-in-your-families-360p-eng.mp4"/>
+   <video id="2012-08-2897" name="Church Members should Extend Fellowship to All People, 1" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2897-church-members-should-extend-fellowship-to-all-people-1-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2897-church-members-should-extend-fellowship-to-all-people-1-360p-eng.mp4"/>
+   <video id="2012-08-2895" name="Partake of the Sacrament" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2895-partake-of-the-sacrament-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2895-partake-of-the-sacrament-360p-eng.mp4"/>
+   <video id="2012-08-2890" name="Jesus Blessed the Children “One by One”" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2890-jesus-blessed-the-children-one-by-one-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2890-jesus-blessed-the-children-one-by-one-360p-eng.mp4"/>
+   <video id="2012-08-2870" name="God’s Laws Bless His Children" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2870-gods-laws-bless-his-children-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2870-gods-laws-bless-his-children-360p-eng.mp4"/>
+   <video id="2012-08-2860" name="The Golden Rule" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2860-the-golden-rule-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2860-the-golden-rule-360p-eng.mp4"/>
+   <video id="2012-08-2850" name="God Forgive Us as We Forgive Others" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2850-god-forgive-us-as-we-forgive-others-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2850-god-forgive-us-as-we-forgive-others-360p-eng.mp4"/>
+   <video id="2012-08-2840" name="Be Ye Therefore Perfect" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2840-be-ye-therefore-perfect-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2840-be-ye-therefore-perfect-360p-eng.mp4"/>
+   <video id="2012-08-2830" name="Going the Extra Mile" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2830-going-the-extra-mile-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2830-going-the-extra-mile-360p-eng.mp4"/>
+   <video id="2012-08-2820" name="Salt of the Earth" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2820-salt-of-the-earth-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2820-salt-of-the-earth-360p-eng.mp4"/>
+   <video id="2012-08-2810" name="Salt of the Earth" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2810-salt-of-the-earth-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2810-salt-of-the-earth-360p-eng.mp4"/>
+   <video id="2012-08-2790" name="Covenants and Ordinances" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2790-covenants-and-ordinances-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2790-covenants-and-ordinances-360p-eng.mp4"/>
+   <video id="2012-08-2780" name="Christ Brings Light Where There Is Darkness" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2780-christ-brings-light-where-there-is-darkness-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2780-christ-brings-light-where-there-is-darkness-360p-eng.mp4"/>
+   <video id="2012-08-2770" name="A Change in the Commandment to Sacrifice" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2770-a-change-in-the-commandment-to-sacrifice-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2770-a-change-in-the-commandment-to-sacrifice-360p-eng.mp4"/>
+   <video id="2012-08-2760" name="The Devil Rejoices When We Sin" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2760-the-devil-rejoices-when-we-sin-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2760-the-devil-rejoices-when-we-sin-360p-eng.mp4"/>
+   <video id="2012-08-2750" name="True Conversion" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2750-true-conversion-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2750-true-conversion-360p-eng.mp4"/>
+   <video id="2012-08-2740" name="Pride Is Enmity" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2740-pride-is-enmity-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2740-pride-is-enmity-360p-eng.mp4"/>
+   <video id="2012-08-2730" name="A Living Sacrifice" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2730-a-living-sacrifice-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-visual-resource/2012-08-2730-a-living-sacrifice-360p-eng.mp4"/>
+<!-- Book of Mormon Presentations -->
+   <video id="2007-01-0003" name="Becoming Children of Christ" thumbnail="http://media.ldscdn.org/thumbnails/2007-01-0003-becoming-children-of-christ-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0003-becoming-children-of-christ-480p-eng.mp4"/>
+   <video id="2010-06-04" name="Can You Imagine?" thumbnail="http://media.ldscdn.org/thumbnails/2010-06-04-can-you-imagine-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-ces/2010-06-04-can-you-imagine-480p-eng.mp4"/>
+   <video id="2007-01-0006" name="Firm in the Faith of Christ" thumbnail="http://media.ldscdn.org/thumbnails/2007-01-0006-firm-in-the-faith-of-christ-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0006-firm-in-the-faith-of-christ-480p-eng.mp4"/>
+   <video id="2007-01-0002" name="I Will Prepare the Way" thumbnail="http://media.ldscdn.org/thumbnails/2007-01-0002-i-will-prepare-the-way-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0002-i-will-prepare-the-way-480p-eng.mp4"/>
+   <video id="2007-01-0008" name="My Joy is Full" thumbnail="http://media.ldscdn.org/thumbnails/2007-01-0008-my-joy-is-full-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0008-my-joy-is-full-480p-eng.mp4"/>
+   <video id="2007-01-0009" name="O Ye Fair Ones" thumbnail="http://media.ldscdn.org/thumbnails/2007-01-0009-o-ye-fair-ones-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0009-o-ye-fair-ones-480p-eng.mp4"/>
+   <video id="2010-06-13" name="Spiritual Crocodiles" thumbnail="http://media.ldscdn.org/thumbnails/2010-06-13-spiritual-crocodiles-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-ces/2010-06-13-spiritual-crocodiles-480p-eng.mp4"/>
+   <video id="2007-01-0005" name="The Mediator" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0005-the-mediator-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0005-the-mediator-480p-eng.mp4"/>
+   <video id="2007-01-0007" name="The Pride Cycle" thumbnail="http://media.ldscdn.org/thumbnails/2007-01-0007-the-pride-cycle-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/book-of-mormon-video-presentations-cur/2007-01-0007-the-pride-cycle-480p-eng.mp4"/>
+  </videos>
+</library>
+

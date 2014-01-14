@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+    <category name="I'm a Mormon" thumbnail="http://glancyfamily.net/ldsml/i-am-a-mormon.jpg">
+      <category name="2013" thumbnail="http://glancyfamily.net/ldsml/i-am-a-mormon2013.jpg">  <!-- Note: thumbnails created for 2010 though 2019 -->
+          <videoref ref ="2013-05-1190"/> <!-- Georgia Peach, and Mother of a Deaf Son -->
+          <videoref ref ="2013-05-1160"/> <!-- Canyoneer, and a Taxidermist -->
+          <videoref ref ="2013-04-1130"/> <!-- A Leader of a Nonprofit, and a Texan -->
+          <videoref ref ="2013-04-1120"/> <!-- I Clean Carpets, and Cook Curry -->
+          <videoref ref ="2013-04-1110"/> <!-- An Osteopath, and a Loving Dad -->
+          <videoref ref ="2013-04-1100"/> <!-- A Grandfather, and a Software Engineer -->
+          <videoref ref ="2013-04-1090"/> <!-- I’m Jason Smyth and I’m a Mormon -->
+          <videoref ref ="2013-04-1080"/> <!-- A Pilot, Volunteer Constable, and Father -->
+          <videoref ref ="2013-02-1070"/> <!-- A Barrister, and I’m Grateful for Trials -->
+          <videoref ref ="2013-02-1060"/> <!-- An Actress, and a Legal Advisor -->
+          <videoref ref ="2013-02-1040"/> <!-- A Rugby Player, and I Serve Others -->
+          <videoref ref ="2013-02-1030"/> <!-- Drama Teacher, and Devoted Wife and Mother -->
+          <videoref ref ="2013-02-1020"/> <!-- Motivational Teacher, and Grateful Son -->
+          <videoref ref ="2013-02-1010"/> <!-- Irish Hiker, and Respecting Husband -->
+          <videoref ref ="2013-02-1000"/> <!-- An Enthusiastic Woman, and a Loving Wife -->
+      </category>
+      <category name="2012" thumbnail="http://glancyfamily.net/ldsml/i-am-a-mormon2012.jpg">
+          <videoref ref ="2012-01-6900"/> <!-- I'm Lindsey Stirling and I'm a Mormon -->
+          <videoref ref ="2012-01-6500"/> <!-- A Musician, and a Future Father -->
+          <videoref ref ="2012-11-5700"/> <!-- A Dancer, and a Survivor -->
+          <videoref ref ="2012-11-6000"/> <!-- Twins: Hope and Love -->
+          <videoref ref ="2012-10-5400"/> <!-- Aerial Dancer, and London Aficionado -->
+          <videoref ref ="2012-10-5100"/> <!-- Craftsman, and Teacher of Balance -->
+          <videoref ref ="2012-09-4403"/> <!-- Happy Puerto Rican, and Newlywed -->
+          <videoref ref ="2012-08-4300"/> <!-- Dominican Republic Professor, and Mother -->
+          <videoref ref ="2012-02-2222"/> <!-- Fabrice: Mormon, French Pilot, Fan of the Pyrenees -->
+          <videoref ref ="2012-06-3300"/> <!-- Father and Architect of my own destiny -->
+          <videoref ref ="2012-06-3900"/> <!-- New York Comedian, and Dreamer -->
+          <videoref ref ="2012-06-3200"/> <!-- Professor, and Eco-Friendly Scientist -->
+          <videoref ref ="2012-05-3000"/> <!-- Teacher, and Tongan Auntie -->
+          <videoref ref ="2012-02-1600"/> <!-- Sensei, and One-Legged Runner -->
+          <videoref ref ="2012-02-0800"/> <!-- Geriatric Nurse, and Nigerian Native -->
+          <videoref ref ="2012-03-1400"/> <!-- New York Mother, and Forgiving Daughter -->
+          <videoref ref ="2012-02-0700"/> <!-- Flight Nurse, and Strong Rock in Tragedy -->
+          <videoref ref ="2012-02-1900"/> <!-- Team-Player, and Proud Grandfather -->
+          <videoref ref ="2012-02-1000"/> <!-- Canadian Realtor, and Noble Uruguay Native -->
+          <videoref ref ="2012-02-0900"/> <!-- Vietnam Veteran, and Italian Brooklynite -->
+          <videoref ref ="2012-02-1800"/> <!-- Taiwan Beach Surfer, and Forgiving Daughter -->
+          <videoref ref ="2012-02-1200"/> <!-- Architect, and Student of Patience -->
+          <videoref ref ="2012-01-0500"/> <!-- Former Ballerina, and Fashion Executive -->
+          <videoref ref ="2012-01-0400"/> <!-- Physician, and Immigrant Son -->
+          <videoref ref ="2012-02-1700"/> <!-- Scoutmaster, and Connecticut Police Sergeant -->
+          <videoref ref ="2012-02-1500"/> <!-- Former Professional Football Player -->
+          <videoref ref ="2012-01-0300"/> <!-- Country Girl, and Traveling Artist -->
+          <videoref ref ="2012-02-0600"/> <!-- Family Man, and Professional Snowboarder -->
+          <videoref ref ="2012-02-1100"/> <!-- Loyal Daughter, and Aspiring Journalist -->
+          <videoref ref ="2012-02-1300"/> <!-- Musician in Training, and Homeless Advocate -->
+          <videoref ref ="2012-03-0200"/> <!-- Firearms Commander, and Survivor of Change -->
+          <videoref ref ="2012-03-0100"/> <!-- Doctor, and Alzheimer’s Researcher -->
+      </category>
+      <category name="2011" thumbnail="http://glancyfamily.net/ldsml/i-am-a-mormon2011.jpg">
+          <videoref ref ="2011-07-4000"/> <!-- Amputee and Conqueror of Fears -->
+          <videoref ref ="2011-10-2198"/> <!-- Professional Rugby Player, and Missionary -->
+          <videoref ref ="2011-10-2193"/> <!-- Australian Singer, and New Wife and Mother -->
+          <videoref ref ="2011-10-2189"/> <!-- Aboriginal Father of Five Girls -->
+          <videoref ref ="2011-08-2095"/> <!-- Pro Basketball Player, and Sandwich Maker -->
+          <videoref ref ="2011-08-2093"/> <!-- Scientist, and Australian Abalone Hunter -->
+          <videoref ref ="2011-08-2092"/> <!-- Kiwi, Mother, and Polkadot Entertainer -->
+          <videoref ref ="2011-08-2094"/> <!-- World Squash Champion, and Imperfect Mother -->
+          <videoref ref ="2011-08-2184"/> <!-- Early Riser, and New Zealand Dairy Farmer -->
+          <videoref ref ="2011-08-2187"/> <!-- Publicist, and Aussie Country Girl -->
+          <videoref ref ="2011-08-2091"/> <!-- Highland Rugby Coach, National Champ 19 of 26 Years -->
+          <videoref ref ="2011-08-2090"/> <!-- Father, and High-Speed Motorcycle Trainer -->
+          <videoref ref ="2011-08-2089"/> <!-- French Opera Singer, and History Buff -->
+          <videoref ref ="2011-08-2085"/> <!-- Blind Guitarist, and Australian Cyclist -->
+          <videoref ref ="2011-08-2888"/> <!-- Cyclist, and Motor Mechanic -->
+          <videoref ref ="2011-07-2177"/> <!-- Husband, and Excited, Instant Father -->
+          <videoref ref ="2011-07-109"/>  <!-- Research Scientist, and Unicyclist -->
+          <videoref ref ="2011-06-2080"/> <!-- Mother, Grandmother, and Foster Parent -->
+          <videoref ref ="2011-06-2083"/> <!-- French-Swiss, and Blind Chocolate Hunter -->
+          <videoref ref ="2011-06-2082"/> <!-- Olympic Medalist, and Retired Swimmer at 24 -->
+          <videoref ref ="2011-06-2078"/> <!-- Optimist, and Wounded Soldier -->
+          <videoref ref ="2011-06-2175"/> <!-- Mother, Survivor and Cancer Fighter -->
+          <videoref ref ="2011-06-2074"/> <!-- Bolivian Mother, and Artistic Dentist -->
+          <videoref ref ="2011-05-2073"/> <!-- Nigerian-American, and Athlete turned Artist -->
+          <videoref ref ="2011-05-2271"/> <!-- Mother, and Caretaker of Bulgarian Orphans -->
+          <videoref ref ="2011-05-2072"/> <!-- Bee Keeper, and Proud Italian Father -->
+          <videoref ref ="2011-04-2169"/> <!-- Frenchman, and a Trilingual Family Father -->
+          <videoref ref ="2011-04-2070"/> <!-- High School Student, and Humanitarian -->
+          <videoref ref ="2011-03-2068"/> <!-- Urban School Teacher, and Rocking Partier -->
+          <videoref ref ="2011-03-2067"/> <!-- Immigrant, and University Law Professor -->
+      </category>
+      <category name="2010" thumbnail="http://glancyfamily.net/ldsml/i-am-a-mormon2010.jpg">
+          <videoref ref ="2010-06-2066"/> <!-- Cultural Mesh, and Self-Invented Cook -->
+          <videoref ref ="2010-06-2065"/> <!-- Rock and Ice Climber, and Family-Motivated Man -->
+          <videoref ref ="2010-06-2064"/> <!-- Karate Master, and Mother-to-Be -->
+          <videoref ref ="2010-06-2060"/> <!-- Viennese Violinmaker, and Fantastic Aunt -->
+          <videoref ref ="2010-06-2062"/> <!-- Musician, and Laser-Loving Physics Professor -->
+          <videoref ref ="2010-06-2057"/> <!-- Mission President, and Professional Golfer -->
+          <videoref ref ="2010-06-2059"/> <!-- Caring Father, and Austrian Concert Manager -->
+          <videoref ref ="2010-06-2063"/> <!-- Fine Press Owner, and Letterpress Printer -->
+          <videoref ref ="2010-06-2061"/> <!-- Mother, and Spanish Newscaster -->
+          <videoref ref ="2010-06-2056"/> <!-- Parisian, and Mother of 7 -->
+          <videoref ref ="2010-06-2054"/> <!-- Devoted Mother, and Avid Photographer -->
+          <videoref ref ="2010-06-2048"/> <!-- Rock Crawler, and Reformed Husband -->
+          <videoref ref ="2010-06-2045"/> <!-- Athlete, and Amputee who Built a Leg -->
+          <videoref ref ="2010-06-2053"/> <!-- Polynesian Father, and Former NFL Player -->
+          <videoref ref ="2010-06-2050"/> <!-- Aunt, and Award Winning Math Teacher -->
+          <videoref ref ="2010-06-2047"/> <!-- Grandpa, and Amusement Ride Inventor -->
+          <videoref ref ="2010-06-2049"/> <!-- Tax Attorney Turned Rocker -->
+          <videoref ref ="2010-06-2051"/> <!-- Regional Artist, and Life Balance Seeker -->
+          <videoref ref ="2010-06-2052"/> <!-- Former NFL Player, and Father of 5 -->
+          <videoref ref ="2010-06-2044"/> <!-- Vegetarian, and Green Energy Business Owner -->
+          <videoref ref ="2010-06-2043"/> <!-- Mother, and Finnish Born Photographer -->
+          <videoref ref ="2010-06-2041"/> <!-- Restaurant Owner, and Food Connoisseur -->
+          <videoref ref ="2010-06-2046"/> <!-- Scientist, and Cancer Researcher -->
+          <videoref ref ="2010-06-2032"/> <!-- Former  Journalist, and Dedicated Mother -->
+          <videoref ref ="2010-06-2035"/> <!-- Single Dad, Designer, Baseball Coach -->
+          <videoref ref ="2010-06-2036"/> <!-- Chinese American, and Transformed Husband -->
+          <videoref ref ="2010-06-2028"/> <!-- Mother, and Filipino-American Artist -->
+          <videoref ref ="2010-06-2040"/> <!-- Single Mother, and Special Needs Advocate -->
+          <videoref ref ="2010-06-2012"/> <!-- Mother of Five, and Believer in Miracles -->
+          <videoref ref ="2010-06-2014"/> <!-- New York Music Executive, Father of 4 -->
+          <videoref ref ="2010-06-2019"/> <!-- Pediatrician, and Humanitarian -->
+          <videoref ref ="2010-06-2007"/> <!-- Ping Pong King, and Making My Mother Proud -->
+          <videoref ref ="2010-06-2033"/> <!-- Dentist, and Supplier of Smiles in Honduras -->
+          <videoref ref ="2010-06-2015"/> <!-- Recovering Addict, and Better Son -->
+          <videoref ref ="2010-06-2027"/> <!-- Neighborhood Attorney, and 9-11 Survivor -->
+          <videoref ref ="2010-06-2009"/> <!-- Hawaiian, and Professional Surfer -->
+          <videoref ref ="2010-06-2018"/> <!-- Astronaut Fan, and Former NASA Flight Director -->
+          <videoref ref ="2010-06-2002"/> <!-- British Born Musician, and Set on Service -->
+          <videoref ref ="2010-06-2029"/> <!-- Texan, and Mother of Two Disabled Sons -->
+          <videoref ref ="2010-06-2001"/> <!-- Public Health Advocate and Mother of Three -->
+          <videoref ref ="2010-06-2010"/> <!-- Wife, and Dedicated Blogger -->
+          <videoref ref ="2010-06-2008"/> <!-- Addict Caretaker, and Voice for the Homeless -->
+          <videoref ref ="2010-06-2003"/> <!-- Mother of Three, and Joyful Artist -->
+          <videoref ref ="2010-06-2022"/> <!-- Illustrator, and Robot Fanatic -->
+          <videoref ref ="2010-06-2030"/> <!-- Husband, and Father of a Strong Family -->
+          <videoref ref ="2010-06-2004"/> <!-- Father, and Role Model for Troubled Teens -->
+          <videoref ref ="2010-06-2026"/> <!-- Cyclist, and Library of Congress Director -->
+          <videoref ref ="2010-06-2025"/> <!-- Marine, Olympian, and Grateful Husband -->
+          <videoref ref ="2010-06-2031"/> <!-- Cowboy at Heart, and Father of Five -->
+	  </category>	  
+    </category>
+  </categories>
+  <videos>
+<!-- I'm a Mormon -->
+    <video id="2013-05-1190" name="Georgia Peach, and Mother of a Deaf Son" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-05-1190-im-a-mormon-georgia-peach-and-mother-of-a-deaf-son-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-05-1190-im-a-mormon-georgia-peach-and-mother-of-a-deaf-son-360p-eng.mp4"/>
+    <video id="2013-05-1160" name="Canyoneer, and a Taxidermist" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-05-1160-im-a-mormon-canyoneer-and-a-taxidermist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-05-1160-im-a-mormon-canyoneer-and-a-taxidermist-360p-eng.mp4"/>
+    <video id="2013-04-1130" name="A Leader of a Nonprofit, and a Texan" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-04-1130-im-a-mormon-a-leader-of-a-nonprofit-and-a-texan-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-04-1130-im-a-mormon-a-leader-of-a-nonprofit-and-a-texan-360p-eng.mp4"/>
+    <video id="2013-04-1120" name="I Clean Carpets, and Cook Curry" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-00-1120-im-a-mormon-i-clean-carpets-and-cook-curry-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-04-1120-im-a-mormon-i-clean-carpets-and-cook-curry-360p-eng.mp4"/>
+    <video id="2013-04-1110" name="An Osteopath, and a Loving Dad" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-00-1110-im-a-mormon-an-osteopath-and-a-loving-dad-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-04-1110-im-a-mormon-an-osteopath-and-a-loving-dad-360p-eng.mp4"/>
+    <video id="2013-04-1100" name="A Grandfather, and a Software Engineer" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-00-1100-im-a-mormon-a-grandfather-and-a-software-engineer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-04-1100-im-a-mormon-a-grandfather-and-a-software-engineer-360p-eng.mp4"/>
+    <video id="2013-04-1090" name="I’m Jason Smyth and I’m a Mormon" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-00-1090-im-jason-smyth-and-im-a-mormon-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-04-1090-im-jason-smyth-and-im-a-mormon-360p-eng.mp4"/>
+    <video id="2013-04-1080" name="A Pilot, Volunteer Constable, and Father" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-00-1080-im-a-mormon-a-pilot-volunteer-constable-and-father-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-04-1080-im-a-mormon-a-pilot-volunteer-constable-and-father-360p-eng.mp4"/>
+    <video id="2013-02-1070" name="A Barrister, and I’m Grateful for Trials" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-02-1070-im-a-mormon-a-barrister-and-im-grateful-for-trials-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1070-im-a-mormon-a-barrister-and-im-grateful-for-trials-360p-eng.mp4"/>
+    <video id="2013-02-1060" name="An Actress, and a Legal Advisor" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-02-1060-im-a-mormon-an-actress-and-a-legal-advisor-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1060-im-a-mormon-an-actress-and-a-legal-advisor-360p-eng.mp4"/>
+    <video id="2013-02-1040" name="A Rugby Player, and I Serve Others" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-02-1040-im-a-mormon-a-rugby-player-and-i-serve-others-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1040-im-a-mormon-a-rugby-player-and-i-serve-others-360p-eng.mp4"/>
+    <video id="2013-02-1030" name="Drama Teacher, and Devoted Wife and Mother" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-02-1030-im-a-mormon-drama-teacher-and-devoted-wife-and-mother-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1030-im-a-mormon-drama-teacher-and-devoted-wife-and-mother-360p-eng.mp4"/>
+    <video id="2013-02-1020" name="Motivational Teacher, and Grateful Son" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-02-1020-im-a-mormon-motivational-teacher-and-grateful-son-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1020-im-a-mormon-motivational-teacher-and-grateful-son-360p-eng.mp4"/>
+    <video id="2013-02-1010" name="Irish Hiker, and Respecting Husband" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2013/2013-02-1010-im-a-mormon-irish-hiker-and-respecting-husband-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1010-im-a-mormon-irish-hiker-and-respecting-husband-360p-eng.mp4"/>
+    <video id="2013-02-1000" name="An Enthusiastic Woman, and a Loving Wife" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2013-00-1000-im-a-mormon-an-enthusiastic-woman-and-a-loving-wife-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2013/2013-02-1000-im-a-mormon-an-enthusiastic-woman-and-a-loving-wife-360p-eng.mp4"/>
+    <video id="2012-01-6900" name="I'm Lindsey Stirling and I'm a Mormon" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-01-6900-im-a-mormon-youtube-performer-and-dancing-violinist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-01-6900-im-lindsey-stirling-and-im-a-mormon-360p-eng.mp4"/>
+    <video id="2012-01-6500" name="A Musician, and a Future Father" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-01-6500-im-a-mormon-a-musician-and-a-future-father-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-01-6500-im-a-mormon-a-musician-and-a-future-father-360p-eng.mp4"/>
+    <video id="2012-11-5700" name="A Dancer, and a Survivor" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-11-5700-im-a-mormon-a-dancer-and-a-survivor-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-5700-im-a-mormon-a-dancer-and-a-survivor-360p-eng.mp4"/>
+    <video id="2012-11-6000" name="Twins: Hope and Love" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-11-6000-im-a-mormon-im-a-mormon-too-twins-hope-and-love-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-11-6000-im-a-mormon-im-a-mormon-too-twins-hope-and-love-360p-eng.mp4"/>
+    <video id="2012-10-5400" name="Aerial Dancer, and London Aficionado" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-10-5400-im-a-mormon-aerial-dancer-and-london-aficionado-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-10-5400-im-a-mormon-aerial-dancer-and-london-aficionado-360p-eng.mp4"/>
+    <video id="2012-10-5100" name="Craftsman, and Teacher of Balance" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-10-5100-im-a-mormon-craftsman-and-teacher-of-balance-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-10-5100-im-a-mormon-craftsman-and-teacher-of-balance-360p-eng.mp4"/>
+    <video id="2012-09-4403" name="Happy Puerto Rican, and Newlywed" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-09-4403-im-a-mormon-happy-puerto-rican-and-newlywed-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-09-4403-im-a-mormon-happy-puerto-rican-and-newlywed-360p-eng.mp4"/>
+    <video id="2012-08-4300" name="Dominican Republic Professor, and Mother" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-08-4300-im-a-mormon-dominican-republic-professor-and-mother-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-08-4300-im-a-mormon-dominican-republic-professor-and-mother-360p-eng.mp4"/>
+    <video id="2012-02-2222" name="Fabrice: Mormon, French Pilot, Fan of the Pyrenees" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2012-02-2222-fabrice-mormon-french-pilot-fan-of-the-pyrenees-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-2222-fabrice-mormon-french-pilot-fan-of-the-pyrenees-360p-eng.mp4"/>
+    <video id="2012-06-3300" name="Father and Architect of my own destiny" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-06-3300-im-a-mormon-father-and-architect-of-my-own-destiny-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3300-im-a-mormon-father-and-architect-of-my-own-destiny-360p-eng.mp4"/>
+    <video id="2012-06-3900" name="New York Comedian, and Dreamer" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-06-3900-im-a-mormon-new-york-comedian-and-dreamer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3900-im-a-mormon-new-york-comedian-and-dreamer-360p-eng.mp4"/>
+    <video id="2012-06-3200" name="Professor, and Eco-Friendly Scientist" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-06-3200-im-a-mormon-professor-and-eco-friendly-scientist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-06-3200-im-a-mormon-professor-and-eco-friendly-scientist-360p-eng.mp4"/>
+    <video id="2012-05-3000" name="Teacher, and Tongan Auntie" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-05-3000-im-a-mormon-teacher-and-tongan-auntie-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-05-3000-im-a-mormon-teacher-and-tongan-auntie-360p-eng.mp4"/>
+    <video id="2012-02-1600" name="Sensei, and One-Legged Runner" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-1600-im-a-mormon-sensei-and-one-legged-runner-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1600-im-a-mormon-sensei-and-one-legged-runner-360p-eng.mp4"/>
+    <video id="2012-02-0800" name="Geriatric Nurse, and Nigerian Native" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-0800-im-a-mormon-geriatric-nurse-and-nigerian-native-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-0800-im-a-mormon-geriatric-nurse-and-nigerian-native-360p-eng.mp4"/>
+    <video id="2012-03-1400" name="New York Mother, and Forgiving Daughter" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-03-1400-im-a-mormon-new-york-mother-and-forgiving-daughter-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-03-1400-im-a-mormon-new-york-mother-and-forgiving-daughter-360p-eng.mp4"/>
+    <video id="2012-02-0700" name="Flight Nurse, and Strong Rock in Tragedy" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-0700-im-a-mormon-flight-nurse-and-strong-rock-in-tragedy-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-0700-im-a-mormon-flight-nurse-and-strong-rock-in-tragedy-360p-eng.mp4"/>
+    <video id="2012-02-1900" name="Team-Player, and Proud Grandfather" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-1900-im-a-mormon-team-player-and-proud-grandfather-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1900-im-a-mormon-team-player-and-proud-grandfather-360p-eng.mp4"/>
+    <video id="2012-02-1000" name="Canadian Realtor, and Noble Uruguay Native" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-1000-im-a-mormon-canadian-realtor-and-noble-uruguay-native-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1000-im-a-mormon-canadian-realtor-and-noble-uruguay-native-360p-eng.mp4"/>
+    <video id="2012-02-0900" name="Vietnam Veteran, and Italian Brooklynite" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-0900-im-a-mormon-vietnam-veteran-and-italian-brooklynite-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-0900-im-a-mormon-vietnam-veteran-and-italian-brooklynite-360p-eng.mp4"/>
+    <video id="2012-02-1800" name="Taiwan Beach Surfer, and Forgiving Daughter" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-1800-im-a-mormon-taiwan-beach-surfer-and-forgiving-daughter-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1800-im-a-mormon-taiwan-beach-surfer-and-forgiving-daughter-360p-eng.mp4"/>
+    <video id="2012-02-1200" name="Architect, and Student of Patience" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-1200-im-a-mormon-architect-and-student-of-patience-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1200-im-a-mormon-architect-and-student-of-patience-360p-eng.mp4"/>
+    <video id="2012-01-0500" name="Former Ballerina, and Fashion Executive" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-01-0500-im-a-mormon-former-ballerina-and-fashion-executive-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-01-0500-im-a-mormon-former-ballerina-and-fashion-executive-360p-eng.mp4"/>
+    <video id="2012-01-0400" name="Physician, and Immigrant Son" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-01-0400-im-a-mormon-physician-and-immigrant-son-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-01-0400-im-a-mormon-physician-and-immigrant-son-360p-eng.mp4"/>
+    <video id="2012-02-1700" name="Scoutmaster, and Connecticut Police Sergeant" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-1700-im-a-mormon-scoutmaster-and-connecticut-police-sergeant-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1700-im-a-mormon-scoutmaster-and-connecticut-police-sergeant-360p-eng.mp4"/>
+    <video id="2012-02-1500" name="Former Professional Football Player" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-1500-im-a-mormon-and-former-professional-football-player-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1500-im-a-mormon-and-former-professional-football-player-360p-eng.mp4"/>
+    <video id="2012-01-0300" name="Country Girl, and Traveling Artist" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-01-0300-im-a-mormon-country-girl-and-traveling-artist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-01-0300-im-a-mormon-country-girl-and-traveling-artist-360p-eng.mp4"/>
+    <video id="2012-02-0600" name="Family Man, and Professional Snowboarder" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-0600-im-a-mormon-family-man-and-professional-snowboarder-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-0600-im-a-mormon-family-man-and-professional-snowboarder-360p-eng.mp4"/>
+    <video id="2012-02-1100" name="Loyal Daughter, and Aspiring Journalist" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-1100-im-a-mormon-loyal-daughter-and-aspiring-journalist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1100-im-a-mormon-loyal-daughter-and-aspiring-journalist-360p-eng.mp4"/>
+    <video id="2012-02-1300" name="Musician in Training, and Homeless Advocate" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-02-1300-im-a-mormon-musician-in-training-and-homeless-advocate-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-02-1300-im-a-mormon-musician-in-training-and-homeless-advocate-360p-eng.mp4"/>
+    <video id="2012-03-0200" name="Firearms Commander, and Survivor of Change" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-03-0200-im-a-mormon-firearms-commander-and-survivor-of-change-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-03-0200-im-a-mormon-firearms-commander-and-survivor-of-change-360p-eng.mp4"/>
+    <video id="2012-03-0100" name="Doctor, and Alzheimer’s Researcher" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2012/2012-03-0100-im-a-mormon-doctor-and-alzheimers-researcher-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2012/2012-03-0100-im-a-mormon-doctor-and-alzheimers-researcher-360p-eng.mp4"/>
+    <video id="2011-07-4000" name="Amputee and Conqueror of Fears" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-07-4000-im-a-mormon-amputee-and-conqueror-of-fears-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-07-4000-im-a-mormon-amputee-and-conqueror-of-fears-360p-eng.mp4"/>
+    <video id="2011-10-2198" name="Professional Rugby Player, and Missionary" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-10-2198-im-a-mormon-professional-rugby-player-and-missionary-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-10-2198-im-a-mormon-professional-rugby-player-and-missionary-360p-eng.mp4"/>
+    <video id="2011-10-2193" name="Australian Singer, and New Wife and Mother" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-10-2193-im-a-mormon-australian-singer-and-new-wife-and-mother-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-10-2193-im-a-mormon-australian-singer-and-new-wife-and-mother-360p-eng.mp4"/>
+    <video id="2011-10-2189" name="Aboriginal Father of Five Girls" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-10-2189-im-a-mormon-and-an-aboriginal-father-of-five-girls-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-10-2189-im-a-mormon-and-an-aboriginal-father-of-five-girls-360p-eng.mp4"/>
+    <video id="2011-08-2095" name="Pro Basketball Player, and Sandwich Maker" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-08-2095-im-a-mormon-pro-basketball-player-and-sandwich-maker-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2095-im-a-mormon-pro-basketball-player-and-sandwich-maker-360p-eng.mp4"/>
+    <video id="2011-08-2093" name="Scientist, and Australian Abalone Hunter" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-08-2093-im-a-mormon-scientist-and-australian-abalone-hunter-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2093-im-a-mormon-scientist-and-australian-abalone-hunter-360p-eng.mp4"/>
+    <video id="2011-08-2092" name="Kiwi, Mother, and Polkadot Entertainer" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-08-2092-im-a-mormon-kiwi-mother-and-polkadot-entertainer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2092-im-a-mormon-kiwi-mother-and-polkadot-entertainer-360p-eng.mp4"/>
+    <video id="2011-08-2094" name="World Squash Champion, and Imperfect Mother" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-08-2094-im-a-mormon-world-squash-champion-and-imperfect-mother-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2094-im-a-mormon-world-squash-champion-and-imperfect-mother-360p-eng.mp4"/>
+    <video id="2011-08-2184" name="Early Riser, and New Zealand Dairy Farmer" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-08-2184-im-a-mormon-early-riser-and-new-zealand-dairy-farmer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2184-im-a-mormon-early-riser-and-new-zealand-dairy-farmer-360p-eng.mp4"/>
+    <video id="2011-08-2187" name="Publicist, and Aussie Country Girl" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-08-2187-im-a-mormon-publicist-and-aussie-country-girl-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2187-im-a-mormon-publicist-and-aussie-country-girl-360p-eng.mp4"/>
+    <video id="2011-08-2091" name="Highland Rugby Coach, National Champ 19 of 26 Years" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-08-2091-im-a-mormon-highland-rugby-coach-national-champ-19-of-26-years-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2091-im-a-mormon-highland-rugby-coach-national-champ-19-of-26-years-360p-eng.mp4"/>
+    <video id="2011-08-2090" name="Father, and High-Speed Motorcycle Trainer" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-08-2090-im-a-mormon-father-and-high-speed-motorcycle-trainer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2090-im-a-mormon-father-and-high-speed-motorcycle-trainer-360p-eng.mp4"/>
+    <video id="2011-08-2089" name="French Opera Singer, and History Buff" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-08-2089-im-a-mormon-french-opera-singer-and-history-buff-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2089-im-a-mormon-french-opera-singer-and-history-buff-360p-eng.mp4"/>
+    <video id="2011-08-2085" name="Blind Guitarist, and Australian Cyclist" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-08-2085-im-a-mormon-a-blind-guitarist-and-australian-cyclist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2085-im-a-mormon-a-blind-guitarist-and-australian-cyclist-360p-eng.mp4"/>
+    <video id="2011-08-2888" name="Cyclist, and Motor Mechanic" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-08-2888-im-a-mormon-cyclist-and-motor-mechanic-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-08-2888-im-a-mormon-cyclist-and-motor-mechanic-360p-eng.mp4"/>
+    <video id="2011-07-2177" name="Husband, and Excited, Instant Father" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-07-2177-im-a-mormon-husband-and-excited-instant-father-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-07-2177-im-a-mormon-husband-and-excited-instant-father-360p-eng.mp4"/>
+    <video id="2011-07-109" name="Research Scientist, and Unicyclist" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-06-2179-im-a-mormon-research-scientist-and-unicyclist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-06-2179-im-a-mormon-research-scientist-and-unicyclist-360p-eng.mp4"/>
+    <video id="2011-06-2080" name="Mother, Grandmother, and Foster Parent" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-06-2080-im-a-mormon-mother-grandmother-and-foster-parent-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-06-2080-im-a-mormon-mother-grandmother-and-foster-parent-360p-eng.mp4"/>
+    <video id="2011-06-2083" name="French-Swiss, and Blind Chocolate Hunter" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-06-2083-im-a-mormon-french-swiss-and-blind-chocolate-hunter-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-06-2083-im-a-mormon-french-swiss-and-blind-chocolate-hunter-360p-eng.mp4"/>
+    <video id="2011-06-2082" name="Olympic Medalist, and Retired Swimmer at 24" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-06-2082-im-a-mormon-olympic-medalist-and-retired-swimmer-at-24-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-06-2082-im-a-mormon-olympic-medalist-and-retired-swimmer-at-24-360p-eng.mp4"/>
+    <video id="2011-06-2078" name="Optimist, and Wounded Soldier" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-06-2078-im-a-mormon-optimist-and-wounded-soldier-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-06-2078-im-a-mormon-optimist-and-wounded-soldier-360p-eng.mp4"/>
+    <video id="2011-06-2175" name="Mother, Survivor and Cancer Fighter" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-06-2175-im-a-mormon-mother-survivor-and-cancer-fighter-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-06-2175-im-a-mormon-mother-survivor-and-cancer-fighter-360p-eng.mp4"/>
+    <video id="2011-06-2074" name="Bolivian Mother, and Artistic Dentist" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-00-2074-im-a-mormon-bolivian-mother-and-artistic-dentist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-06-2074-im-a-mormon-bolivian-mother-and-artistic-dentist-360p-eng.mp4"/>
+    <video id="2011-05-2073" name="Nigerian-American, and Athlete turned Artist" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-00-2073-im-a-mormon-nigerian-american-and-athlete-turned-artist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-05-2073-im-a-mormon-nigerian-american-and-athlete-turned-artist-360p-eng.mp4"/>
+    <video id="2011-05-2271" name="Mother, and Caretaker of Bulgarian Orphans" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-05-2271-im-a-mormon-mother-and-caretaker-of-bulgarian-orphans-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-05-2271-im-a-mormon-mother-and-caretaker-of-bulgarian-orphans-360p-eng.mp4"/>
+    <video id="2011-05-2072" name="Bee Keeper, and Proud Italian Father" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-00-2072-im-a-mormon-bee-keeper-and-proud-italian-father-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-05-2072-im-a-mormon-bee-keeper-and-proud-italian-father-360p-eng.mp4"/>
+    <video id="2011-04-2169" name="Frenchman, and a Trilingual Family Father" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-2011/2011-04-2169-im-a-mormon-frenchman-and-a-trilingual-family-father-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-04-2169-im-a-mormon-frenchman-and-a-trilingual-family-father-360p-eng.mp4"/>
+    <video id="2011-04-2070" name="High School Student, and Humanitarian" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-00-2070-im-a-mormon-high-school-student-and-humanitarian-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-04-2070-im-a-mormon-high-school-student-and-humanitarian-360p-eng.mp4"/>
+    <video id="2011-03-2068" name="Urban School Teacher, and Rocking Partier" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-00-2068-im-a-mormon-urban-school-teacher-and-rocking-partier-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-03-2068-im-a-mormon-urban-school-teacher-and-rocking-partier-360p-eng.mp4"/>
+    <video id="2011-03-2067" name="Immigrant, and University Law Professor" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people-series/2011-00-2067-im-a-mormon-immigrant-and-university-law-professor-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people-2011/2011-03-2067-im-a-mormon-immigrant-and-university-law-professor-360p-eng.mp4"/>
+    <video id="2010-06-2066" name="Cultural Mesh, and Self-Invented Cook" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2066-im-a-mormon-cultural-mesh-and-self-invented-cook-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2066-im-a-mormon-cultural-mesh-and-self-invented-cook-360p-eng.mp4"/>
+    <video id="2010-06-2065" name="Rock and Ice Climber, and Family-Motivated Man" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2065-im-a-mormon-rock-and-ice-climber-and-family-motivated-man-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2065-im-a-mormon-rock-and-ice-climber-and-family-motivated-man-360p-eng.mp4"/>
+    <video id="2010-06-2064" name="Karate Master, and Mother-to-Be" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2064-im-a-mormon-karate-master-and-mother-to-be-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2064-im-a-mormon-karate-master-and-mother-to-be-360p-eng.mp4"/>
+    <video id="2010-06-2060" name="Viennese Violinmaker, and Fantastic Aunt" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2060-im-a-mormon-viennese-violinmaker-and-fantastic-aunt-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2060-im-a-mormon-viennese-violinmaker-and-fantastic-aunt-360p-eng.mp4"/>
+    <video id="2010-06-2062" name="Musician, and Laser-Loving Physics Professor" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2062-im-a-mormon-musician-and-laser-loving-physics-professor-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2062-im-a-mormon-musician-and-laser-loving-physics-professor-360p-eng.mp4"/>
+    <video id="2010-06-2057" name="Mission President, and Professional Golfer" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2057-im-a-mormon-mission-president-and-professional-golfer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2057-im-a-mormon-mission-president-and-professional-golfer-360p-eng.mp4"/>
+    <video id="2010-06-2059" name="Caring Father, and Austrian Concert Manager" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2059-im-a-mormon-caring-father-and-austrian-concert-manager-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2059-im-a-mormon-caring-father-and-austrian-concert-manager-360p-eng.mp4"/>
+    <video id="2010-06-2063" name="Fine Press Owner, and Letterpress Printer" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2063-im-a-mormon-fine-press-owner-and-letterpress-printer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2063-im-a-mormon-fine-press-owner-and-letterpress-printer-360p-eng.mp4"/>
+    <video id="2010-06-2061" name="Mother, and Spanish Newscaster" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2061-im-a-mormon-mother-and-spanish-newscaster-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2061-im-a-mormon-mother-and-spanish-newscaster-360p-eng.mp4"/>
+    <video id="2010-06-2056" name="Parisian, and Mother of 7" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2056-im-a-mormon-parisian-and-mother-of-7-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2056-im-a-mormon-parisian-and-mother-of-7-360p-eng.mp4"/>
+    <video id="2010-06-2054" name="Devoted Mother, and Avid Photographer" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2054-im-a-mormon-devoted-mother-and-avid-photographer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2054-im-a-mormon-devoted-mother-and-avid-photographer-360p-eng.mp4"/>
+    <video id="2010-06-2048" name="Rock Crawler, and Reformed Husband" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2048-im-a-mormon-rock-crawler-and-reformed-husband-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2048-im-a-mormon-rock-crawler-and-reformed-husband-360p-eng.mp4"/>
+    <video id="2010-06-2045" name="Athlete, and Amputee who Built a Leg" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2045-im-a-mormon-athlete-and-amputee-who-built-a-leg-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2045-im-a-mormon-athlete-and-amputee-who-built-a-leg-360p-eng.mp4"/>
+    <video id="2010-06-2053" name="Polynesian Father, and Former NFL Player" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2053-im-a-mormon-polynesian-father-and-former-nfl-player-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2053-im-a-mormon-polynesian-father-and-former-nfl-player-360p-eng.mp4"/>
+    <video id="2010-06-2050" name="Aunt, and Award Winning Math Teacher" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2050-im-a-mormon-aunt-and-award-winning-math-teacher-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2050-im-a-mormon-aunt-and-award-winning-math-teacher-360p-eng.mp4"/>
+    <video id="2010-06-2047" name="Grandpa, and Amusement Ride Inventor" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2047-im-a-mormon-grandpa-and-amusement-ride-inventor-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2047-im-a-mormon-grandpa-and-amusement-ride-inventor-360p-eng.mp4"/>
+    <video id="2010-06-2049" name="Tax Attorney Turned Rocker" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2049-im-a-mormon-and-tax-attorney-turned-rocker-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2049-im-a-mormon-and-tax-attorney-turned-rocker-360p-eng.mp4"/>
+    <video id="2010-06-2051" name="Regional Artist, and Life Balance Seeker" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2051-im-a-mormon-regional-artist-and-life-balance-seeker-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2051-im-a-mormon-regional-artist-and-life-balance-seeker-360p-eng.mp4"/>
+    <video id="2010-06-2052" name="Former NFL Player, and Father of 5" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2052-im-a-mormon-former-nfl-player-and-father-of-5-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2052-im-a-mormon-former-nfl-player-and-father-of-5-360p-eng.mp4"/>
+    <video id="2010-06-2044" name="Vegetarian, and Green Energy Business Owner" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2044-im-a-mormon-vegetarian-and-green-energy-business-owner-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2044-im-a-mormon-vegetarian-and-green-energy-business-owner-360p-eng.mp4"/>
+    <video id="2010-06-2043" name="Mother, and Finnish Born Photographer" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2043-im-a-mormon-a-mother-and-finnish-born-photographer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2043-im-a-mormon-a-mother-and-finnish-born-photographer-360p-eng.mp4"/>
+    <video id="2010-06-2041" name="Restaurant Owner, and Food Connoisseur" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2041-im-a-mormon-restaurant-owner-and-food-connoisseur-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2041-im-a-mormon-restaurant-owner-and-food-connoisseur-360p-eng.mp4"/>
+    <video id="2010-06-2046" name="Scientist, and Cancer Researcher" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2046-im-a-mormon-scientist-and-cancer-researcher-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2046-im-a-mormon-scientist-and-cancer-researcher-360p-eng.mp4"/>
+    <video id="2010-06-2032" name="Former  Journalist, and Dedicated Mother" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2032-im-a-mormon-former-journalist-and-dedicated-mother-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2032-im-a-mormon-former-journalist-and-dedicated-mother-360p-eng.mp4"/>
+    <video id="2010-06-2035" name="Single Dad, Designer, Baseball Coach" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2035-im-a-mormon-single-dad-designer-baseball-coach-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2035-im-a-mormon-single-dad-designer-baseball-coach-360p-eng.mp4"/>
+    <video id="2010-06-2036" name="Chinese American, and Transformed Husband" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2036-im-a-mormon-chinese-american-and-transformed-husband-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2036-im-a-mormon-chinese-american-and-transformed-husband-360p-eng.mp4"/>
+    <video id="2010-06-2028" name="Mother, and Filipino-American Artist" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2028-im-a-mormon-mother-and-filipino-american-artist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2028-im-a-mormon-mother-and-filipino-american-artist-360p-eng.mp4"/>
+    <video id="2010-06-2040" name="Single Mother, and Special Needs Advocate" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2040-im-a-mormon-single-mother-and-special-needs-advocate-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2040-im-a-mormon-single-mother-and-special-needs-advocate-360p-eng.mp4"/>
+    <video id="2010-06-2012" name="Mother of Five, and Believer in Miracles" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2012-im-a-mormon-mother-of-five-and-believer-in-miracles-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2012-im-a-mormon-mother-of-five-and-believer-in-miracles-360p-eng.mp4"/>
+    <video id="2010-06-2014" name="New York Music Executive, Father of 4" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2014-im-a-mormon-new-york-music-executive-father-of-4-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2014-im-a-mormon-new-york-music-executive-father-of-4-360p-eng.mp4"/>
+    <video id="2010-06-2019" name="Pediatrician, and Humanitarian" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2019-im-a-mormon-pediatrician-and-humanitarian-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2019-im-a-mormon-pediatrician-and-humanitarian-360p-eng.mp4"/>
+    <video id="2010-06-2007" name="Ping Pong King, and Making My Mother Proud" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2007-im-a-mormon-ping-pong-king-and-making-my-mother-proud-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2007-im-a-mormon-ping-pong-king-and-making-my-mother-proud-360p-eng.mp4"/>
+    <video id="2010-06-2033" name="Dentist, and Supplier of Smiles in Honduras" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2033-im-a-mormon-dentist-and-supplier-of-smiles-in-honduras-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2033-im-a-mormon-dentist-and-supplier-of-smiles-in-honduras-360p-eng.mp4"/>
+    <video id="2010-06-2015" name="Recovering Addict, and Better Son" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2015-im-a-mormon-recovering-addict-and-better-son-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2015-im-a-mormon-recovering-addict-and-better-son-360p-eng.mp4"/>
+    <video id="2010-06-2027" name="Neighborhood Attorney, and 9-11 Survivor" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2027-im-a-mormon-neighborhood-attorney-and-9-11-survivor-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2027-im-a-mormon-neighborhood-attorney-and-9-11-survivor-360p-eng.mp4"/>
+    <video id="2010-06-2009" name="Hawaiian, and Professional Surfer" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2009-im-a-mormon-hawaiian-and-professional-surfer-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2009-im-a-mormon-hawaiian-and-professional-surfer-360p-eng.mp4"/>
+    <video id="2010-06-2018" name="Astronaut Fan, and Former NASA Flight Director" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2018-im-a-mormon-astronaut-fan-and-former-nasa-flight-director-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2018-im-a-mormon-astronaut-fan-and-former-nasa-flight-director-360p-eng.mp4"/>
+    <video id="2010-06-2002" name="British Born Musician, and Set on Service" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2002-im-a-mormon-british-born-musician-and-set-on-service-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2002-im-a-mormon-british-born-musician-and-set-on-service-360p-eng.mp4"/>
+    <video id="2010-06-2029" name="Texan, and Mother of Two Disabled Sons" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2029-im-a-mormon-texan-and-mother-of-two-disabled-sons-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2029-im-a-mormon-texan-and-mother-of-two-disabled-sons-360p-eng.mp4"/>
+    <video id="2010-06-2001" name="Public Health Advocate and Mother of Three" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2001-im-a-mormon-public-health-advocate-and-mother-of-three-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2001-im-a-mormon-public-health-advocate-and-mother-of-three-360p-eng.mp4"/>
+    <video id="2010-06-2010" name="Wife, and Dedicated Blogger" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2010-im-a-mormon-wife-and-dedicated-blogger-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2010-im-a-mormon-wife-and-dedicated-blogger-360p-eng.mp4"/>
+    <video id="2010-06-2008" name="Addict Caretaker, and Voice for the Homeless" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2008-im-a-mormon-addict-caretaker-and-voice-for-the-homeless-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2008-im-a-mormon-addict-caretaker-and-voice-for-the-homeless-360p-eng.mp4"/>
+    <video id="2010-06-2003" name="Mother of Three, and Joyful Artist" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2003-im-a-mormon-mother-of-three-and-joyful-artist-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2003-im-a-mormon-mother-of-three-and-joyful-artist-360p-eng.mp4"/>
+    <video id="2010-06-2022" name="Illustrator, and Robot Fanatic" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2022-im-a-mormon-illustrator-and-robot-fanatic-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2022-im-a-mormon-illustrator-and-robot-fanatic-360p-eng.mp4"/>
+    <video id="2010-06-2030" name="Husband, and Father of a Strong Family" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2030-im-a-mormon-husband-and-father-of-a-strong-family-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2030-im-a-mormon-husband-and-father-of-a-strong-family-360p-eng.mp4"/>
+    <video id="2010-06-2004" name="Father, and Role Model for Troubled Teens" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2004-im-a-mormon-father-and-role-model-for-troubled-teens-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2004-im-a-mormon-father-and-role-model-for-troubled-teens-360p-eng.mp4"/>
+    <video id="2010-06-2026" name="Cyclist, and Library of Congress Director" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2026-im-a-mormon-cyclist-and-library-of-congress-director-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2026-im-a-mormon-cyclist-and-library-of-congress-director-360p-eng.mp4"/>
+    <video id="2010-06-2025" name="Marine, Olympian, and Grateful Husband" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2025-im-a-mormon-marine-olympian-and-grateful-husband-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2025-im-a-mormon-marine-olympian-and-grateful-husband-360p-eng.mp4"/>
+    <video id="2010-06-2031" name="Cowboy at Heart, and Father of Five" thumbnail="http://media.ldscdn.org/images/videos/missionary/our-people/2010-06-2031-im-a-mormon-cowboy-at-heart-and-father-of-five-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/missionary/our-people/2010-06-2031-im-a-mormon-cowboy-at-heart-and-father-of-five-360p-eng.mp4"/>
+  </videos>
+</library>
+

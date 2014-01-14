@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="LDS Media">
+  <categories>
+  <!-- 7 videos: 3@1080p, 2@480p, 2@360p -->
+    <category name="Feature Films" thumbnail="http://glancyfamily.net/ldsml/featurefilms.jpg">
+          <videoref ref ="2004-01-01"/>   <!-- Johnny Lingo -->
+          <videoref ref ="2011-03-01"/>   <!-- Joseph Smith: The Prophet of the Restoration -->
+          <videoref ref ="2009-09-01"/>   <!-- On the Lord's Errand: The Life of Thomas S. Monson -->
+          <videoref ref ="1998-05-01"/>   <!-- The Good Samaritan -->
+          <videoref ref ="2012-00-0060"/> <!-- The Phone Call -->
+          <videoref ref ="2008-06-01"/>   <!-- The Restoration -->
+          <videoref ref ="2010-07-139"/>  <!-- Treasure in Heaven: The John Tanner Story -->
+    </category>
+  </categories>
+  <videos>
+<!-- Feature Films -->
+    <!-- Finding Faith In Christ - No download available -->
+    <video id="2004-01-01" name="Johnny Lingo" thumbnail="http://media.ldscdn.org/thumbnails/2011-05-0010-johnny-lingo-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/feature-films/johnny-lingo/2011-05-0010-johnny-lingo-480p-eng.mp4"/>
+    <video id="2011-03-01" name="Joseph Smith: The Prophet of the Restoration" thumbnail="http://media.ldscdn.org/thumbnails/2011-03-01-joseph-smith-the-prophet-of-the-restoration-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/feature-films/joseph-smith-the-prophet-of-the-restoration/2011-03-01-joseph-smith-the-prophet-of-the-restoration-720p-eng.mp4"/>
+    <video id="2009-09-01" name="On the Lord's Errand: The Life of Thomas S. Monson" thumbnail="http://media.ldscdn.org/thumbnails/2009-09-01-on-the-lords-errand-the-life-of-thomas-s-monson-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/feature-films/on-the-lords-errand-the-life-of-thomas-s-monson/2009-09-01-on-the-lords-errand-the-life-of-thomas-s-monson-720p-eng.mp4"/>
+    <video id="1998-05-01" name="The Good Samaritan" thumbnail="http://media.ldscdn.org/images/videos/feature-films/the-good-samaritan/1998-05-01-the-good-samaritan-144x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/feature-films/the-good-samaritan/1998-05-01-the-good-samaritan-480p-eng.mp4"/>
+    <video id="2012-00-0060" name="The Phone Call" thumbnail="http://media.ldscdn.org/thumbnails/2012-00-0060-the-phone-call-138x81.jpg"
+           url="http://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos/2012-00-0060-the-phone-call-360p-eng.mp4"/>
+    <video id ="2008-06-01" name="The Restoration" thumbnail="http://media.ldscdn.org/images/videos/feature-films/the-restoration/2008-06-01-the-restoration-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/feature-films/the-restoration/2008-06-01-the-restoration-720p-eng.mp4"/>
+    <video id="2010-07-139" name="Treasure in Heaven: The John Tanner Story" thumbnail="http://media.ldscdn.org/images/videos/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-139-treasure-in-heaven-the-john-tanner-story-192x108-thumb.jpg"
+           url="http://media2.ldscdn.org/assets/scripture-and-lesson-support/doctrine-and-covenants-visual-resource/2010-07-139-treasure-in-heaven-the-john-tanner-story-360p-eng.mp4"/>
+  </videos>
+</library>
+
