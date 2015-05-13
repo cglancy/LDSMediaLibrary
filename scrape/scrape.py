@@ -1,5 +1,8 @@
 # TABLES
+# category_table: id, name_text, parent_id
 # category_video_table: video_id, category_id
+# video_table: video_id, title_text, thumb_url, length_text, summary_text
+# file_table: video_id, quality_text, url, size_text
 
 from bs4 import BeautifulSoup
 import requests
