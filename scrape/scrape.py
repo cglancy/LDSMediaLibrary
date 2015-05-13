@@ -1,3 +1,6 @@
+# TABLES
+# category_video_table: video_id, category_id
+
 from bs4 import BeautifulSoup
 import requests
 import json
