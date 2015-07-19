@@ -11,6 +11,9 @@ import csv
 from urllib.parse import urlparse
 
 categories_url = 'https://www.lds.org/media-library/video/categories?lang=eng'
+categories_url_ase = 'https://www.lds.org/media-library/video/categories?lang=eng&clang=ase'
+categories_url_spa = 'https://www.lds.org/media-library/video/categories?lang=spa'
+
 youth_category_url = 'https://www.lds.org/media-library/video/categories/youth?lang=eng'
 video_id_with_bom_character = '2012-07-1010-a-message-to-students-of-the-book-of-mormon'
 null_video_data_url = 'https://www.lds.org/media-library/video/social-media-sharable-videos?lang=eng&start=37&end=48&order=default'
