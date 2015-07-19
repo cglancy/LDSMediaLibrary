@@ -1,14 +1,10 @@
-# TABLES
-# category_table: id, name_text, parent_id
-# category_video_table: video_id, category_id
-# video_table: video_id, title_text, thumb_url, length_text, summary_text
-# file_table: video_id, quality_text, url, size_text
+
 
 from bs4 import BeautifulSoup
 import requests
 import json
-import csv
 from urllib.parse import urlparse
+from lxml import etree
 
 categories_url = 'https://www.lds.org/media-library/video/categories?lang=eng'
 categories_url_ase = 'https://www.lds.org/media-library/video/categories?lang=eng&clang=ase'
@@ -31,22 +27,11 @@ biblevideo_extra_urls = {'Life of Jesus Videos Chronologically':biblevideo_chron
 
 do_not_visit_path = '/media-library/video/categories/video-list-view'
 
-next_category_id = 0
 category_dict = {}
-category_table = []
-category_video_table = []
 video_id_set = set()
-video_table = []
-file_table = []
+file_count = 0
 
 
-
-def write_table(table, filename):
-	with open(filename, 'w', newline='') as fp:
-		writer = csv.writer(fp, delimiter=',')
-		for row in table:
-			writer.writerow(row)
-		fp.close()
 
 def get_video_stacks_data(soup):
 	data_list = []
@@ -74,10 +59,9 @@ def get_video_id(relative_url):
 		vid = relative_url[21:relative_url.find('?')]
 	return vid
 
-def get_video_table_data(soup, page_url, parent_id):
-	global next_category_id
+def get_video_table_data(soup, page_url, parent_node):
 
-	heading_id = parent_id
+	heading_node = parent_node
 
 	select_list = soup.select('#primary table tbody tr td')
 	for td in select_list:
@@ -88,38 +72,32 @@ def get_video_table_data(soup, page_url, parent_id):
 		a = td.find('a')
 
 		if h2 and len(category) > 0:
-			next_category_id += 1
-			heading_id = next_category_id
-
-			category_row = [heading_id, category, parent_id]
-			category_table.append(category_row)
+			heading_node = etree.SubElement(parent_node, 'category', name=category)
 
 		elif a:
 			if len(category) == 0:
 				category = a.text
 			if len(category) > 0:
-				next_category_id += 1
-				category_id = next_category_id
+				category_node = etree.SubElement(heading_node, 'category', name=category)
 
 				vid = get_video_id(a.attrs.get('href'))
 
-				category_row = [category_id, category, heading_id]
-				category_table.append(category_row)
-
-				category_video_row = [vid, category_id]
-				category_video_table.append(category_video_row)
+				video_ref = etree.SubElement(category_node, 'videoref', id=vid)
 
 def process_data(data):
-		page_url = data['page_url']
-		category_id = data['category_id']
-		videos = data['video_data']['videos']
+	global videos_element
+	global file_count
 
-		for vid, v in videos.items():
+	page_url = data['page_url']
+	category_node = data['category_node']
+	videos = data['video_data']['videos']
 
-			downloads = v['downloads']
-			for d in downloads:
-				file_row = [vid, d['quality'], d['link'], d['size']]
-				file_table.append(file_row)
+	for vid, v in videos.items():
+
+		video_ref = etree.SubElement(category_node, 'videoref', id=vid)
+
+		if vid not in video_id_set:
+			video_id_set.add(vid)
 
 			# special case handling for an unicode easter egg in one video title
 			title = v['title']
@@ -131,30 +109,28 @@ def process_data(data):
 			if vid == video_id_with_pop_character:
 				summary = summary.replace('\u202c', '')
 
-			if vid not in video_id_set:
-				video_id_set.add(vid)
-				video_row = [vid, title, v['thumbURL'], v['length'], summary]
-				video_table.append(video_row)
+			video_element = etree.SubElement(videos_element, 'video', id=vid, title=title, summary=summary,
+				thumbUrl=v['thumbURL'], length=v['length'])
 
-			category_video_row = [vid, category_id]
-			category_video_table.append(category_video_row)
+			downloads = v['downloads']
+			for d in downloads:
+				file_count += 1
+				file_element = etree.SubElement(video_element, 'file', quality=d['quality'], link=d['link'], size=d['size'])
 
-def get_video_data(soup, url, category_id):
+def get_video_data(soup, url, category_node):
 	data = {}
-	data['category_id'] = category_id;
+	data['category_node'] = category_node;
 	data['page_url'] = url;
 
 	for script in soup.select('script'):
 		text = script.get_text();
 		if text.startswith('video_data'):
 			video_data_text = text[text.find('{'):text.rfind('}')+1]
-			if video_data_text.find('null') == -1:
-				video_data = json.loads(video_data_text);
-				data['video_data'] = video_data;
-				process_data(data)
+			video_data = json.loads(video_data_text);
+			data['video_data'] = video_data;
+			process_data(data)
 
-def visit_page(url, parent_id, page_title):
-	global next_category_id
+def visit_page(url, parent_node, page_title):
 
 	parsed_url = urlparse(url)
 
@@ -166,34 +142,36 @@ def visit_page(url, parent_id, page_title):
 	response = requests.get(url)
 	soup = BeautifulSoup(response.text)
 
-	category_id = 0
-	add_category = False
 	if parsed_url.path in category_dict:
-		category_id = category_dict[parsed_url.path]
+		category_node = category_dict[parsed_url.path]
 	else:
-		next_category_id += 1
-		category_id = next_category_id
-		category_dict[parsed_url.path] = category_id
-		add_category = True
+		category_node = etree.SubElement(parent_node, 'category', name=page_title)
+		category_dict[parsed_url.path] = category_node
 
-	get_video_data(soup, url, category_id)
+	get_video_data(soup, url, category_node)
 
 	stacks_data = get_video_stacks_data(soup)
 	if len(stacks_data) > 0:
 		for stack_data in stacks_data:
-			visit_page(stack_data['url'], category_id, stack_data['title'])
+			visit_page(stack_data['url'], category_node, stack_data['title'])
 	else:
-		get_video_table_data(soup, url, category_id)
+		get_video_table_data(soup, url, category_node)
 
 	next_page_url = [a.attrs.get('href') for a in soup.select('.pagination .next')]
 	if len(next_page_url) == 1:
-		visit_page(next_page_url[0], parent_id, page_title)
+		visit_page(next_page_url[0], parent_node, page_title)
 
-	if add_category:
-		category_row = [category_id, page_title, parent_id]
-		category_table.append(category_row)
 
-visit_page(categories_url, 0, 'LDS Media Library')
+library = etree.Element('library', name='LDS Media Library')
+categories = etree.SubElement(library, 'categories')
+videos_element = etree.SubElement(library, 'videos')
+root_node = etree.SubElement(categories, 'category', name='LDS Media Library')
+
+root_url = categories_url
+parsed_url = urlparse(root_url)
+category_dict[parsed_url.path] = root_node
+
+visit_page(root_url, root_node, 'LDS Media Library')
 
 if biblevideo_category_path in category_dict:
 	print('adding extra bible video categories')
@@ -201,9 +179,8 @@ if biblevideo_category_path in category_dict:
 	for title in biblevideo_extra_urls:
 		visit_page(biblevideo_extra_urls[title], biblevideo_category, title)
 
-print('found {0} videos and {1} files.'.format(len(video_table), len(file_table)))
+print('found {0} videos and {1} files.'.format(len(video_id_set), file_count))
 
-write_table(video_table, 'videos.csv')
-write_table(file_table, 'files.csv')
-write_table(category_table, 'categories.csv')
-write_table(category_video_table, 'categoryvideos.csv')
+tree = etree.ElementTree(library)
+tree.write("lds-media-library.xml", encoding='utf-8', xml_declaration=True, pretty_print=True)
+
