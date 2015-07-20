@@ -82,7 +82,7 @@ def get_video_table_data(soup, page_url, parent_node):
 
 				vid = get_video_id(a.attrs.get('href'))
 
-				video_ref = etree.SubElement(category_node, 'videoref', id=vid)
+				video_ref = etree.SubElement(category_node, 'videoref', ref=vid)
 
 def process_data(data):
 	global videos_element
@@ -110,7 +110,7 @@ def process_data(data):
 				summary = summary.replace('\u202c', '')
 
 			video_element = etree.SubElement(videos_element, 'video', id=vid, title=title, summary=summary,
-				thumbUrl=v['thumbURL'], length=v['length'])
+				thumbnail=v['thumbURL'], length=v['length'])
 
 			downloads = v['downloads']
 			for d in downloads:
