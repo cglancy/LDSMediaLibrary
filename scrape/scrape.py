@@ -18,6 +18,7 @@ topic_humility_url = 'https://www.lds.org/media-library/video/topics/humility?la
 bom_url = 'https://www.lds.org/media-library/video/categories/book-of-mormon-list-view?lang=eng'
 video_id_with_pop_character = '2012-06-3701-im-a-mormon-costa-rican-and-charmer-of-the-viola'
 im_a_mormon_url = 'https://www.lds.org/media-library/video/categories/im-a-mormon?lang=eng'
+social_media_url = 'https://www.lds.org/media-library/video/social-media-sharable-videos'
 
 biblevideo_category_url = 'https://www.lds.org/media-library/video/bible-videos-the-life-of-jesus-christ?lang=eng'
 biblevideo_chrono_url = 'https://www.lds.org/media-library/video/categories/bible-videos-chronologically?lang=eng'
@@ -94,7 +95,7 @@ def process_data(data):
 
 	for vid, v in videos.items():
 
-		video_ref = etree.SubElement(category_node, 'videoref', id=vid)
+		video_ref = etree.SubElement(category_node, 'videoref', ref=vid)
 
 		if vid not in video_id_set:
 			video_id_set.add(vid)
@@ -109,8 +110,13 @@ def process_data(data):
 			if vid == video_id_with_pop_character:
 				summary = summary.replace('\u202c', '')
 
+			# fix relative thumbnail urls
+			thumbnailUrl = v['thumbURL']
+			if thumbnailUrl.startswith('/'):
+				thumbnailUrl = 'https://www.lds.org' + thumbnailUrl
+
 			video_element = etree.SubElement(videos_element, 'video', id=vid, title=title, summary=summary,
-				thumbnail=v['thumbURL'], length=v['length'])
+				thumbnail=thumbnailUrl, length=v['length'])
 
 			downloads = v['downloads']
 			for d in downloads:
@@ -126,9 +132,13 @@ def get_video_data(soup, url, category_node):
 		text = script.get_text();
 		if text.startswith('video_data'):
 			video_data_text = text[text.find('{'):text.rfind('}')+1]
-			video_data = json.loads(video_data_text);
-			data['video_data'] = video_data;
-			process_data(data)
+
+			try:
+				video_data = json.loads(video_data_text);
+				data['video_data'] = video_data;
+				process_data(data)
+			except:
+				print('Error: could not parse JSON video_data in ' + url)
 
 def visit_page(url, parent_node, page_title):
 
