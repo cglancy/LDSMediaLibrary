@@ -115,6 +115,10 @@ def process_data(data):
 			if vid == video_id_with_bom_character:
 				title = title.replace('\ufeff', '')
 
+			# remove start/end quotes
+			if title.startswith('"') and title.endswith('"'):
+				title = title[1:-1]
+
 			# special case for pop character
 			summary = v['summary']
 			if vid == video_id_with_pop_character:
