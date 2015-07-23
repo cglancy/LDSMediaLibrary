@@ -54,10 +54,12 @@ def get_table_category(category_string):
 
 def get_video_id(relative_url):
 	vid = ''
-	if relative_url.startswith('/media-library/video/bible-videos-the-life-of-jesus-christ'):
+	if '#' in relative_url:
 		vid = relative_url[relative_url.find('#')+1:]
+	elif '?' in relative_url:
+		vid = relative_url[relative_url.rfind('/')+1:relative_url.find('?')]
 	else:
-		vid = relative_url[21:relative_url.find('?')]
+		vid = relative_url[relative_url.rfind('/')+1:]
 	return vid
 
 def get_video_table_data(soup, page_url, parent_node):
@@ -83,6 +85,10 @@ def get_video_table_data(soup, page_url, parent_node):
 
 				vid = get_video_id(a.attrs.get('href'))
 
+				# correct error with 2011-10-061
+				if vid == '2011-10-061-seek-first-the-kingdom-of-god':
+					vid = '2011-10-061-seek-ye-the-kingdom-of-god'
+
 				video_ref = etree.SubElement(category_node, 'videoref', ref=vid)
 
 def process_data(data):
@@ -94,6 +100,10 @@ def process_data(data):
 	videos = data['video_data']['videos']
 
 	for vid, v in videos.items():
+
+		# correct error with Bible video ids
+		if vid.endswith('-eng'):
+			vid = vid.replace('-eng', '')
 
 		video_ref = etree.SubElement(category_node, 'videoref', ref=vid)
 
