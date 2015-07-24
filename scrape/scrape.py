@@ -17,6 +17,7 @@ topic_url = 'https://www.lds.org/media-library/video/categories/topics?lang=eng'
 topic_humility_url = 'https://www.lds.org/media-library/video/topics/humility?lang=eng'
 bom_url = 'https://www.lds.org/media-library/video/categories/book-of-mormon-list-view?lang=eng'
 video_id_with_pop_character = '2012-06-3701-im-a-mormon-costa-rican-and-charmer-of-the-viola'
+video_id_with_newline_character = '2015-06-013-to-love-and-to-serve-spencer-w-kimball'
 im_a_mormon_url = 'https://www.lds.org/media-library/video/categories/im-a-mormon?lang=eng'
 social_media_url = 'https://www.lds.org/media-library/video/social-media-sharable-videos'
 
@@ -129,9 +130,9 @@ def process_data(data):
 			if thumbnailUrl.startswith('/'):
 				thumbnailUrl = 'https://www.lds.org' + thumbnailUrl
 
-			# There is a random newline char in video 2015-06-013
-			if '\n' in thumbnailUrl:
-				thumbnailUrl = thumbnailUrl.replace('\n', '')
+			# Special case for newline char in the thumbnail URL of video 2015-06-013
+			if vid == video_id_with_newline_character:
+				thumbnailUrl = thumbnailUrl.rstrip()
 
 			video_element = etree.SubElement(videos_element, 'video', id=vid, title=title, summary=summary,
 				thumbnailUrl=thumbnailUrl, length=v['length'], videoUrl=v['videoURL'])
