@@ -129,8 +129,12 @@ def process_data(data):
 			if thumbnailUrl.startswith('/'):
 				thumbnailUrl = 'https://www.lds.org' + thumbnailUrl
 
+			# There is a random newline char in video 2015-06-013
+			if '\n' in thumbnailUrl:
+				thumbnailUrl = thumbnailUrl.replace('\n', '')
+
 			video_element = etree.SubElement(videos_element, 'video', id=vid, title=title, summary=summary,
-				thumbnail=thumbnailUrl, length=v['length'])
+				thumbnailUrl=thumbnailUrl, length=v['length'], videoUrl=v['videoURL'])
 
 			downloads = v['downloads']
 			for d in downloads:
